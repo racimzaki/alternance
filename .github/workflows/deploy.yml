@@ -1,0 +1,53 @@
+name: Deploy AlternanceRadar
+
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Recuperer le projet
+        uses: actions/checkout@v6
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Installer les dependances
+        run: npm ci
+
+      - name: Construire AlternanceRadar
+        run: npm run build
+
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Envoyer le site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./dist
+
+      - name: Mettre le site en ligne
+        id: deployment
+        uses: actions/deploy-pages@v5
