@@ -1,0 +1,1778 @@
+{
+  "generatedAt": "2026-08-14T06:41:56.938Z",
+  "count": 101,
+  "jobs": [
+    {
+      "id": 1673819238,
+      "company": "Talan",
+      "title": "Apprenti ingénieur Système, Réseau, Cybersécurité F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-12T14:52:43.596Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000143126878-apprenti-ingenieur-systeme-reseau-cybersecurite-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 321555048,
+      "company": "Bosch Group",
+      "title": "Apprenti Contrôleur de gestion industriel H/F/N",
+      "location": "Saint-Thégonnec Loc-Eguiner",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-11T06:19:58.899Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142794470-apprenti-controleur-de-gestion-industriel-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "SAP"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 877819150,
+      "company": "Inetum",
+      "title": "Consultant Agentic AI - Framework ADK (H/F)",
+      "location": "SAINT-OUEN-SUR-SEINE",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-07T12:52:44.375Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000142126004-consultant-agentic-ai-framework-adk-h-f-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Python",
+        "BPMN"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 318125513,
+      "company": "Sopra Steria",
+      "title": "Alternance – Ingénieur(e) études et développement Java / Angular - Services Publics - Nantes",
+      "location": "Nantes",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-05T15:36:54.616Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000141752748-alternance-ingenieur-e-etudes-et-developpement-java-angular-services-publics-nantes?oga=true",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "SQL",
+        "Java"
+      ],
+      "matchScore": 55,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 318132338,
+      "company": "Sopra Steria",
+      "title": "Alternance - Ingénieur(e) Java / Angular - Energie & Utilities - Nantes",
+      "location": "Nantes",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-05T15:36:19.461Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000141752013-alternance-ingenieur-e-java-angular-energie-utilities-nantes?oga=true",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Scrum",
+        "Java"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 345865801,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Lyon",
+      "location": "Limonest",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-05T08:19:34.232Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000141661228-ingenieur-e-devops-lyon?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2123248214,
+      "company": "Wavestone",
+      "title": "Consultant.e.s - Stage de fin d'études - Nantes - CYB - Identity Governance & Administration : Repenser la place et la gestion de l'identité numérique",
+      "location": "Nantes",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-04T13:12:52.142Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000141493249-consultant-e-s-stage-de-fin-d-etudes-nantes-cyb-identity-governance-administration-repenser-la-place-et-la-gestion-de-l-identite-numerique?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 67809712,
+      "company": "Devoteam",
+      "title": "Product owner / Product manager (H/F)",
+      "location": "Marseille",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-04T07:55:43.672Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000141430909-product-owner-product-manager-h-f-?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 71,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1173249229,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant(e) SAP - SAP Excellence Center - Toulouse",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-31T12:14:31.211Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000140894458-stage-consultant-e-sap-sap-excellence-center-toulouse?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1235244362,
+      "company": "Sopra Steria",
+      "title": "Alternance - Consultant(e) fonctionnel(le) Oracle - Solutions & Expertises - Aix-en-Provence",
+      "location": "Aix-en-Provence",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-30T09:28:11.257Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000140640438-alternance-consultant-e-fonctionnel-le-oracle-solutions-expertises-aix-en-provence?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Agile",
+        "SAP",
+        "Java"
+      ],
+      "matchScore": 61,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1236853045,
+      "company": "Sopra Steria",
+      "title": "Alternance - Cybersécurité - Ile de France ",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-30T08:32:48.207Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000140628448-alternance-cybersecurite-ile-de-france-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Jira",
+        "Tableau"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1234793267,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale : La capitalisation de convictions sur les sujets de pilotage grands programmes dans l'optique d'avoir de la matière prête à l’emploi pour nos livrables à destination de nos clients ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T14:23:51.311Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140482489-consultant-e-junior-en-transformation-digitale-la-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-dans-l-optique-d-avoir-de-la-matiere-prete-a-l-emploi-pour-nos-livrables-a-destination-de-nos-clients-stage-de-fin-d-etudes-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1234051122,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale - Boosting CTO - EA : Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T14:18:10.557Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140478704-consultant-e-junior-en-transformation-digitale-boosting-cto-ea-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1234081870,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale - B CTO - Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T14:14:49.780Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140479800-consultant-e-junior-en-transformation-digitale-b-cto-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1234022358,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale - Boosting CTO - Sourcing : Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T14:08:26.514Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140477828-consultant-e-junior-en-transformation-digitale-boosting-cto-sourcing-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232202310,
+      "company": "Wavestone",
+      "title": "Stage - Cybersécurité des SI industriels : comment maîtriser les risques liés à l’Intelligence Artificielle et à l’industrie 4.0 ?",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:52:52.321Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140458551-stage-cybersecurite-des-si-industriels-comment-maitriser-les-risques-lies-a-l-intelligence-artificielle-et-a-l-industrie-4-0-?oga=true",
+      "category": "Data",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232172461,
+      "company": "Wavestone",
+      "title": "Stage - Data Privacy : comment garantir la protection des données personnelles clients ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:50:13.484Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140457535-stage-data-privacy-comment-garantir-la-protection-des-donnees-personnelles-clients-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232108228,
+      "company": "Wavestone",
+      "title": "Stage - Inventer la sensibilisation du futur",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:49:22.249Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140455084-stage-inventer-la-sensibilisation-du-futur?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232057079,
+      "company": "Wavestone",
+      "title": "Stage - Gestion de crise de grande ampleur : quelles solutions pour la résilience des entreprises ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:48:54.387Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140453915-stage-gestion-de-crise-de-grande-ampleur-quelles-solutions-pour-la-resilience-des-entreprises-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232171468,
+      "company": "Wavestone",
+      "title": "Stage - Cloud et sécurité : vers une association gagnante ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:48:16.183Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140457424-stage-cloud-et-securite-vers-une-association-gagnante-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232171442,
+      "company": "Wavestone",
+      "title": "Stage - Cybersécurité : comment protéger les activités financières les plus critiques ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:48:03.426Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140457419-stage-cybersecurite-comment-proteger-les-activites-financieres-les-plus-critiques-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232139007,
+      "company": "Wavestone",
+      "title": "Stage - Panorama start-ups cyber en France : quelle est la pépite de demain ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:45:54.178Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140456190-stage-panorama-start-ups-cyber-en-france-quelle-est-la-pepite-de-demain-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1230266709,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)",
+      "location": "Puteaux",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-29T10:50:42.289Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140435609-stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Python"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1230265872,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Consultant·e AI et Data Platform (H/F)",
+      "location": "Puteaux",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-29T10:49:57.937Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140435549-stage-de-fin-d-etudes-consultant-e-ai-et-data-platform-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2054451798,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) chef(fe) de projet SAV H/F/N",
+      "location": "Drancy",
+      "contractType": "Contract",
+      "publishedAt": "2026-07-28T16:39:29.567Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140288140-apprenti-e-chef-fe-de-projet-sav-h-f-n?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Tableau",
+        "SAP"
+      ],
+      "matchScore": 76,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1350594245,
+      "company": "Sopra Steria",
+      "title": "Alternance Bid Management & Marketing des Offres (H/F)",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-28T12:55:56.541Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000140233509-alternance-bid-management-marketing-des-offres-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1373650532,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) - DevOps - Aeroline - Toulouse",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-28T09:50:19.842Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000140194713-ingenieur-e-devops-aeroline-toulouse?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 35917966,
+      "company": "Talan",
+      "title": "Alternance - Business Development - Secteurs Industrie & Finance  (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-28T09:07:13.446Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000140183171-alternance-business-development-secteurs-industrie-finance-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1255682119,
+      "company": "Ubisoft",
+      "title": "Lead World (F/H/NB) [AAA Project]",
+      "location": "Annecy",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-27T18:46:43.071Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000140072719-lead-world-f-h-nb-aaa-project-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1019685084,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Chef de Projet Marketing & Communication Nouvelles Activités - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-27T14:52:02.305Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000140029589-alternance-chef-de-projet-marketing-communication-nouvelles-activites-f-h?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2143771019,
+      "company": "Talan",
+      "title": "Alternance - Consultant SAP S/4HANA Cloud Finance - H/F",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-27T12:30:20.569Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000139992819-alternance-consultant-sap-s-4hana-cloud-finance-h-f?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "SAP"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1267460242,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Assistant Responsable Relations Clients - F/H",
+      "location": "Lille",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-23T08:51:11.442Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000139235979-alternance-assistant-responsable-relations-clients-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1957481407,
+      "company": "ALTAREA",
+      "title": "Responsable Comptable Mandants - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-21T15:16:55.855Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000138900741-responsable-comptable-mandants-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1220303897,
+      "company": "Talan",
+      "title": "Alternance - Consultant fonctionnel Microsoft Dynamics CRM - H/F",
+      "location": "Nantes",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-21T08:46:55.049Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000138814239-alternance-consultant-fonctionnel-microsoft-dynamics-crm-h-f?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 98,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1199039013,
+      "company": "Talan",
+      "title": "Alternance - Business Development Representative - H/F",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-21T07:07:28.407Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000138793879-alternance-business-development-representative-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2036906003,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE- Assistant Technique et Sécurité F/H",
+      "location": "La Valette-du-Var",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-20T15:01:59.191Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000138670589-alternance-assistant-technique-et-securite-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2038579298,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Assistant Commercial - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-20T14:15:22.449Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000138656021-alternance-assistant-commercial-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 197777698,
+      "company": "Sopra Steria",
+      "title": "Alternance - Business Analyst - Services Publics - Ile-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-20T08:59:20.110Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000138585536-alternance-business-analyst-services-publics-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 344739643,
+      "company": "Sopra Steria",
+      "title": "Développeur/se Java - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-16T07:10:45.905Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000138041219-developpeur-se-java-defense-securite-lille?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Jira",
+        "Java"
+      ],
+      "matchScore": 73,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 344763451,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-16T07:08:48.959Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000138040889-business-analyst-it-defense-securite-lille?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1534300219,
+      "company": "Devoteam",
+      "title": "Business Analyst / Product Owner HyperAutomation - H/F",
+      "location": "Levallois-Perret",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-08T08:47:32.068Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000136410564-business-analyst-product-owner-hyperautomation-h-f?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 93,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2033887422,
+      "company": "Sopra Steria",
+      "title": "Alternance - Consultant.e Conseil - Transformation digitale - Edition de logiciels - Limonest ou Ile de France",
+      "location": "Limonest",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-07T22:26:46.606Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000136340418-alternance-consultant-e-conseil-transformation-digitale-edition-de-logiciels-limonest-ou-ile-de-france?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 165780498,
+      "company": "Sogetrel",
+      "title": "Alternance - Juriste en droit social H/F",
+      "location": "Issy-les-Moulineaux",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-06T12:43:53.189Z",
+      "url": "https://jobs.smartrecruiters.com/Sogetrel/744000135996767-alternance-juriste-en-droit-social-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1463363378,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-03T09:48:37.640Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000135687112-ingenieur-e-devops-infrastructure-rennes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1463366451,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
+      "location": "Saint-Herblain",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-03T09:48:21.067Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000135687476-ingenieur-e-devops-infrastructure-nantes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1553925163,
+      "company": "Talan",
+      "title": "Alternance - Administration Systèmes SAP - H/F",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-07-02T08:42:25.831Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000135445089-alternance-administration-systemes-sap-h-f?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Agile",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 475198274,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Comptabilité Clients et Contrôle Crédit H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-07-01T15:25:31.562Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135300499-apprenti-e-comptabilite-clients-et-controle-credit-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1141736408,
+      "company": "Inetum",
+      "title": "TALENT ACQUISITION SPECIALIST Alternance F/H ",
+      "location": "LYON",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-30T08:11:43.246Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000134953629-talent-acquisition-specialist-alternance-f-h-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1167943407,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Sujet de stage : Accompagner la transformation digitale et durable des Supply Chains industrielles",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-06-29T12:26:34.361Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000134774730-stage-de-fin-d-etudes-sujet-de-stage-accompagner-la-transformation-digitale-et-durable-des-supply-chains-industrielles?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1167887753,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Sujet de stage : Data, IA & IoT : la performance des entreprises par la donnée ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-06-29T12:24:38.421Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000134776309-stage-de-fin-d-etudes-sujet-de-stage-data-ia-iot-la-performance-des-entreprises-par-la-donnee-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 433673244,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - Services Publics - Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-25T08:09:38.297Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000134198789-business-analyst-services-publics-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2096135746,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Chargé de mission Risques et continuité d'activité, Contrôle Interne & Conformité - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-24T13:08:22.755Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000133947119-alternance-charge-de-mission-risques-et-continuite-d-activite-controle-interne-conformite-f-h?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "SAP"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1293253279,
+      "company": "Bosch Group",
+      "title": "Apprenti Transformation Digitale - Data et Intelligence Artificielle F/H/N",
+      "location": "Drancy",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-22T13:50:48.976Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133373650-apprenti-transformation-digitale-data-et-intelligence-artificielle-f-h-n?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Python"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 131977818,
+      "company": "Talan",
+      "title": "Consultant SI - Secteur: Luxe (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-17T09:46:22.021Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000132601209-consultant-si-secteur-luxe-h-f-?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 98,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 110798366,
+      "company": "Talan",
+      "title": "Consultant SI - Secteur: Transport (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-17T08:29:00.799Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000132583415-consultant-si-secteur-transport-h-f-?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 98,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1294818675,
+      "company": "Wavestone",
+      "title": "Communication & Marketing Officer - Alternance",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-06-17T08:01:40.644Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000132576800-communication-marketing-officer-alternance?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1142271600,
+      "company": "ALTAREA",
+      "title": "Alternant - Stratégie d'Adoption & Usages IA- Copilot 365 - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-16T09:41:03.651Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000132375908-alternant-strategie-d-adoption-usages-ia-copilot-365-f-h?oga=true",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2032131741,
+      "company": "Sopra Steria",
+      "title": "Leader technique expérimenté/e - Spring Boot & Angular - Aeroline - Aix-en-provence",
+      "location": "Aix-en-Provence",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-12T09:54:35.200Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000131858360-leader-technique-experimente-e-spring-boot-angular-aeroline-aix-en-provence?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Java"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1406888336,
+      "company": "Inetum",
+      "title": "Développeur Fullstack Java/Angular confirmé H/F",
+      "location": "DIJON",
+      "contractType": "Full-time",
+      "publishedAt": "2026-05-27T12:57:51.674Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000128716797-developpeur-fullstack-java-angular-confirme-h-f?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Power BI",
+        "Agile",
+        "Scrum",
+        "Tableau",
+        "Java"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1408075475,
+      "company": "Talan",
+      "title": "Talan - Alternant Conseil en Management en Transport & Mobilités",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-05-22T09:04:59.629Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000127837085-talan-alternant-conseil-en-management-en-transport-mobilites?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1408135115,
+      "company": "Talan",
+      "title": "Talan – Consultant Stagiaire de Fin d'études – Assurance & Santé (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-05-22T08:48:34.144Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000127835069-talan-consultant-stagiaire-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 907156367,
+      "company": "Devoteam",
+      "title": "Alternance - Assistant Manager H/F",
+      "location": "Levallois-Perret",
+      "contractType": "Part-time",
+      "publishedAt": "2026-05-12T11:14:30.042Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000126054899-alternance-assistant-manager-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2005481164,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
+      "location": "Tours",
+      "contractType": "Full-time",
+      "publishedAt": "2026-05-07T16:02:58.431Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000125180199-alternance-assistant-responsable-de-programmes-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2007112225,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Sales and Acquisition Key Account Manager H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-05-06T10:09:34.897Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000124858669-apprenti-e-sales-and-acquisition-key-account-manager-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Jira",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 288773545,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
+      "location": "Grenoble",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-28T08:41:10.101Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000123394005-alternance-assistant-responsable-de-programmes-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 423065681,
+      "company": "Sogetrel",
+      "title": "Alternance - Assistant Chef d'équipe H/F",
+      "location": "Sainte-Tulle",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-23T12:56:32.618Z",
+      "url": "https://jobs.smartrecruiters.com/Sogetrel/744000122453579-alternance-assistant-chef-d-equipe-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 577510021,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Assistant Responsable de Programmes - F/H",
+      "location": "Montpellier",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-23T09:25:29.469Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122413990-alternance-assistant-responsable-de-programmes-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 628245328,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Contrôleur Financier - F/H",
+      "location": "Nice",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-22T15:31:28.835Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122285806-alternance-controleur-financier-f-h?oga=true",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "Tableau"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 628335473,
+      "company": "ALTAREA",
+      "title": "Alternance - Assistant Gestion Locative - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-22T15:14:26.042Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122282769-alternance-assistant-gestion-locative-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 629052348,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Assistant Copropriété / Syndic F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-22T15:05:02.937Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122279579-alternance-assistant-copropriete-syndic-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 631163760,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Assistant Marketing Opérationnel - F/H",
+      "location": "Saint-Laurent-du-Var",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-22T12:29:44.601Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122250947-alternance-assistant-marketing-operationnel-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 631827748,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Assistant Responsable Relations Clients - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-22T12:24:23.283Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122249068-alternance-assistant-responsable-relations-clients-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655832690,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Contrôleur de gestion - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-22T08:52:11.132Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122199729-alternance-controleur-de-gestion-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 656758197,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Assistant Responsable de Programmes - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-22T08:03:15.409Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122189507-alternance-assistant-responsable-de-programmes-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 323229755,
+      "company": "Sopra Steria",
+      "title": "Alternance - Ingénieur/e Intégration Système - Création d’un agent IA pour la réalisation de reportings d’activités automatisés - BU Défense & Sécurité - Le Plessis-Robinson",
+      "location": "Le Plessis-Robinson",
+      "contractType": "Full-time",
+      "publishedAt": "2026-04-16T12:51:29.576Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000121195776-alternance-ingenieur-e-integration-systeme-creation-d-un-agent-ia-pour-la-realisation-de-reportings-d-activites-automatises-bu-defense-securite-le-plessis-robinson?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 603465036,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Assistant(e) Key Account Manager Bosch Accessoires / Freud H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Part-time",
+      "publishedAt": "2026-04-09T11:12:54.896Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000119575547-apprenti-e-assistant-e-key-account-manager-bosch-accessoires-freud-h-f-n?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 274955463,
+      "company": "Sopra Steria",
+      "title": "Delivery Manager - Infrastructure & Cloud - Biot",
+      "location": "Biot",
+      "contractType": "Full-time",
+      "publishedAt": "2026-03-30T09:16:58.268Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000117597146-delivery-manager-infrastructure-cloud-biot?oga=true",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1169787385,
+      "company": "Bosch Group",
+      "title": "Apprenti Data Analyst F/H/N",
+      "location": "Drancy",
+      "contractType": "Full-time",
+      "publishedAt": "2026-03-30T08:56:18.271Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000117592297-apprenti-data-analyst-f-h-n?oga=true",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 80,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2141845324,
+      "company": "ALTAREA",
+      "title": "Alternance - Rémunération et avantages sociaux (C&B) - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-03-30T08:46:50.321Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000117590537-alternance-remuneration-et-avantages-sociaux-c-b-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1319364399,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Assistant(e) Consultant(e) Logistique Service Client H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-03-26T16:41:02.540Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000117023618-apprenti-e-assistant-e-consultant-e-logistique-service-client-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356524850,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant.e Financial Services / Terrain d’Expertise Agile & Operating Model",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:23:06.366Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116549117-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-agile-operating-model?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356524014,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant.e Financial Services / Terrain d’Expertise CIB (Corporate Investment Banking)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:23:03.305Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116549058-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-cib-corporate-investment-banking-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356523944,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant.e Financial Services / Terrain d’Expertise Finance",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:23:00.019Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116549030-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-finance?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356524106,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant.e Financial Services / Terrain d’Expertise Sustainability",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:22:57.480Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116549087-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-sustainability?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356500857,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant.e Financial Services / Terrain d’Expertise Insurance",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:22:55.513Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116548728-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-insurance?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356524075,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant.e Financial Services / Terrain d’Expertise Operational Resilience",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:22:52.937Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116549077-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-operational-resilience?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356501812,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant.e Financial Services / Terrain d’Expertise Retail Banking",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:22:51.009Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116548822-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-retail-banking?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356472953,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant·e en Transformation Digitale - Banque & Assurance",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:22:47.435Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116547914-stage-de-fin-d-etudes-alternance-consultant-e-en-transformation-digitale-banque-assurance?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356470285,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études/Alternance - Consultant·e Financial Services - Terrain d'expertise Data, IA & Transformation SI",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-03-25T07:22:44.269Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000116547682-stage-de-fin-d-etudes-alternance-consultant-e-financial-services-terrain-d-expertise-data-ia-transformation-si?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1459148740,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Assistant(e) Responsable Grands Comptes Outillage Grand-Public H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-03-20T16:46:55.040Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115932317-apprenti-e-assistant-e-responsable-grands-comptes-outillage-grand-public-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1319845217,
+      "company": "Bosch Group",
+      "title": "Alternant Supply Chain Manager H/F/N",
+      "location": "Drancy",
+      "contractType": "Full-time",
+      "publishedAt": "2026-03-18T15:44:09.071Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115477266-alternant-supply-chain-manager-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "SAP"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1316927591,
+      "company": "Bosch Group",
+      "title": "Apprenti Supply Chain - Administration des ventes F/H/N",
+      "location": "Drancy",
+      "contractType": "Full-time",
+      "publishedAt": "2026-03-18T13:34:37.925Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115442457-apprenti-supply-chain-administration-des-ventes-f-h-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 478778410,
+      "company": "Wavestone",
+      "title": "Senior Consultant UX, UI & Industrialisation du Design - Digital Customer – CDI ",
+      "location": "Puteaux",
+      "contractType": "Full-time",
+      "publishedAt": "2026-03-12T08:19:51.472Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000114310258-senior-consultant-ux-ui-industrialisation-du-design-digital-customer-cdi-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1226480124,
+      "company": "Sopra Steria",
+      "title": "Chef/fe de projet à engagement forfaitaire - Services Publics - Ile de France",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-02-27T10:51:37.704Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000111818275-chef-fe-de-projet-a-engagement-forfaitaire-services-publics-ile-de-france?oga=true",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 215107678,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Java - Services Publics - Ile-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-02-17T10:51:46.028Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000109685614-tech-lead-java-services-publics-ile-de-france?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Java"
+      ],
+      "matchScore": 55,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2102779984,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Finance & Achats – Accompagner les transformations de ces métiers en s’appuyant sur la Data et les Systèmes d’Informations les plus performants ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-02-13T16:38:52.230Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000109269392-stage-de-fin-d-etudes-alternance-sujet-de-stage-finance-achats-accompagner-les-transformations-de-ces-metiers-en-s-appuyant-sur-la-data-et-les-systemes-d-informations-les-plus-performants-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2102865544,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Industrie 5.0 et performance des opérations, au cœur des stratégies et des transformations des acteurs industriels. ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-02-13T16:37:13.726Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000109266782-stage-de-fin-d-etudes-alternance-sujet-de-stage-industrie-5-0-et-performance-des-operations-au-c-ur-des-strategies-et-des-transformations-des-acteurs-industriels-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2102782899,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Transformation SI : transformer les SI pour répondre aux nouveaux enjeux du monde industriel et énergétique ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-02-13T16:36:14.815Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000109269081-stage-de-fin-d-etudes-alternance-sujet-de-stage-transformation-si-transformer-les-si-pour-repondre-aux-nouveaux-enjeux-du-monde-industriel-et-energetique-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 66,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 414974779,
+      "company": "Sopra Steria",
+      "title": "Développeur/se - Full Stack - Défense & Sécurité - Ile de France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-01-20T15:06:31.496Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000104483805-developpeur-se-full-stack-defense-securite-ile-de-france?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Java"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1254423037,
+      "company": "Devoteam",
+      "title": "Chef de projet SAP H/F",
+      "location": "Levallois-Perret",
+      "contractType": "Full-time",
+      "publishedAt": "2025-11-25T14:43:33.006Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000095430342-chef-de-projet-sap-h-f?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "SAP"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1798917424,
+      "company": "Finance active",
+      "title": "Stage ou Alternance - Consultant Debt Advisory (Valuation)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2022-07-21T13:37:07.000Z",
+      "url": "https://jobs.smartrecruiters.com/Financeactive/743999839973799-stage-ou-alternance-consultant-debt-advisory-valuation-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    }
+  ]
+}
