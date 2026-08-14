@@ -2,6 +2,9 @@ import {
   fetchBnpJobs,
 } from './collectors/bnp.mjs'
 import {
+  fetchCreditAgricoleGroupJobs,
+} from './collectors/creditAgricoleGroup.mjs'
+import {
   mkdir,
   writeFile,
 } from 'node:fs/promises'
@@ -840,11 +843,31 @@ try {
   )
 
 }
+  // ========================================
+// CREDIT AGRICOLE / LCL / AMUNDI
+// ========================================
+
+let offresCreditAgricole = []
+
+try {
+
+  offresCreditAgricole =
+    await fetchCreditAgricoleGroupJobs()
+
+} catch (error) {
+
+  console.error(
+    '❌ Erreur Groupe Crédit Agricole',
+    error
+  )
+
+}
   const jobs =
   dedoublonner(
     [
       ...toutesLesOffres,
       ...offresBNP,
+      ...offresCreditAgricole,
     ]
   )
       .sort(
