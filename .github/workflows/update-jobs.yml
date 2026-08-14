@@ -3,6 +3,9 @@ name: Update jobs
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '17 * * * *'
+
 permissions:
   contents: write
 
@@ -11,16 +14,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Recuperer le repository
         uses: actions/checkout@v6
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Installer Node.js
+        uses: actions/setup-node@v6
         with:
           node-version: '20'
 
-      - name: Install dependencies
+      - name: Installer les dependances
         run: npm ci
 
-      - name: Build project
+      - name: Recuperer les offres
+        run: node scripts/update-jobs.mjs
+
+      - name: Verifier que l'application compile
         run: npm run build
+
+      - name: Sauvegarder les nouvelles offres
+        run: |
+          git config user.name "AlternanceRadar Bot"
+          git config user.email "actions@github.com"
+
+          git add public/jobs.json
+
+          if git diff --cached --quiet; then
+            echo "Aucune modification des offres."
+          else
+            git commit -m "Update active job offers"
+            git push
+          fi
