@@ -18,5 +18,5 @@ export type JobOffer = {
   skills: string[];
   matchScore: number;
   status: 'active' | 'inactive';
-  source: string;
+  source?: string;
 };
