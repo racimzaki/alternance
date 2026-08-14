@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T13:42:50.219Z",
-  "count": 100,
+  "generatedAt": "2026-08-14T14:09:21.631Z",
+  "count": 110,
   "jobs": [
     {
       "id": 321555048,
@@ -409,6 +409,23 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 964378503,
+      "company": "BNP Paribas",
+      "title": "Alternant(e) « Data Manager » H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-07-29",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternant-e-data-manager-h-f",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 2054451798,
       "company": "Bosch Group",
       "title": "Apprenti(e) chef(fe) de projet SAV H/F/N",
@@ -651,6 +668,23 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 1458022002,
+      "company": "BNP Paribas",
+      "title": "Alternance - Data Quality Analyst H-F",
+      "location": "Pantin, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-07-17",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-data-quality-analyst-h-f",
+      "category": "BI",
+      "remote": true,
+      "skills": [
+        "Power BI"
+      ],
+      "matchScore": 73,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 344739643,
       "company": "Sopra Steria",
       "title": "Développeur/se Java - Défense & Sécurité – Lille",
@@ -703,6 +737,23 @@
       "matchScore": 93,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 2011019724,
+      "company": "BNP Paribas",
+      "title": "ALTERNANCE - CHEF DE PROJETS EXPERIENCE CLIENTS - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-07-08",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-chef-de-projets-experience-clients-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 2033887422,
@@ -982,6 +1033,24 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 1098467258,
+      "company": "BNP Paribas",
+      "title": "Alternance - Chef de projet - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-06-15",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-chef-de-projet-h-f-1",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel",
+        "Agile"
+      ],
+      "matchScore": 68,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 2032131741,
       "company": "Sopra Steria",
       "title": "Leader technique expérimenté/e - Spring Boot & Angular - Aeroline - Aix-en-provence",
@@ -997,6 +1066,23 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1779152847,
+      "company": "BNP Paribas",
+      "title": "Alternance - Droit Digital et Données Personnelles",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-06-04",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-droit-digital-et-donnees-personnelles",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1406888336,
@@ -1107,6 +1193,23 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 2067153179,
+      "company": "BNP Paribas",
+      "title": "IT Continuity Service Apprentice H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-04-30",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/it-continuity-service-apprentice-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SAP"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 288773545,
       "company": "ALTAREA",
       "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
@@ -1156,6 +1259,23 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 2067153180,
+      "company": "BNP Paribas",
+      "title": "Regulatory Reporting Apprentice H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-04-23",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/regulatory-reporting-apprentice-h-f-1",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "SAP"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 628245328,
@@ -1293,6 +1413,23 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 584935221,
+      "company": "BNP Paribas",
+      "title": "Alternance - Analyste Asset Management H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-04-10",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-analyste-asset-management-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 603465036,
@@ -1633,6 +1770,40 @@
       "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 723183470,
+      "company": "BNP Paribas",
+      "title": "Portzamparc- Alternance Chef de Projet (H/F) Marketing à Nantes",
+      "location": "Nantes, Pays de la Loire, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-02-27",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-alternance-chef-de-projet-h-f-marketing-a-nantes",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 62,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 480424543,
+      "company": "BNP Paribas",
+      "title": "Portzamparc-Alternance -Assistant Gérant/Analyste (H/F) à Nantes",
+      "location": "Nantes, Pays de la Loire, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-02-27",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-alternance-assistant-gerant-analyste-h-f-a-nantes",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 215107678,
