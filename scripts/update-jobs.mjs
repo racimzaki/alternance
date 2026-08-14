@@ -1,4 +1,7 @@
 import {
+  fetchBnpJobs,
+} from './collectors/bnp.mjs'
+import {
   mkdir,
   writeFile,
 } from 'node:fs/promises'
@@ -818,11 +821,32 @@ async function main() {
         return []
       }
     )
+// ========================================
+// BNP PARIBAS
+// ========================================
 
+let offresBNP = []
+
+try {
+
+  offresBNP =
+    await fetchBnpJobs()
+
+} catch (error) {
+
+  console.error(
+    '❌ Erreur BNP Paribas',
+    error
+  )
+
+}
   const jobs =
-    dedoublonner(
-      toutesLesOffres
-    )
+  dedoublonner(
+    [
+      ...toutesLesOffres,
+      ...offresBNP,
+    ]
+  )
       .sort(
         (a, b) =>
           new Date(
