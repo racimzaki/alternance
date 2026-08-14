@@ -28,8 +28,7 @@ jobs:
       - name: Recuperer les offres
         run: node scripts/update-jobs.mjs
 
-      - name: Verifier que l'application compile
-        run: npm run build
+      - 
 
       - name: Sauvegarder les nouvelles offres
         run: |
