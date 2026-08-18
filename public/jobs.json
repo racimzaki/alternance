@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-08-18T14:53:10.333Z",
-  "count": 110,
+  "generatedAt": "2026-08-18T15:46:22.671Z",
+  "count": 111,
   "jobs": [
+    {
+      "id": 2125994862,
+      "company": "Sopra Steria",
+      "title": "Développeur/se Java - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-18T15:39:11.155Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144114399-developpeur-se-java-defense-securite-lille?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Jira",
+        "Java"
+      ],
+      "matchScore": 73,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2127037764,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-18T14:54:04.168Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144100329-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1518039850,
       "company": "Sopra Steria",
@@ -681,26 +718,6 @@
       "matchScore": 73,
       "status": "active",
       "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 344739643,
-      "company": "Sopra Steria",
-      "title": "Développeur/se Java - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-16T07:10:45.905Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000138041219-developpeur-se-java-defense-securite-lille?oga=true",
-      "category": "Product",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Jira",
-        "Java"
-      ],
-      "matchScore": 73,
-      "status": "active",
-      "source": "SmartRecruiters"
     },
     {
       "id": 344763451,
