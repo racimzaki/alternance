@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T13:57:11.096Z",
-  "count": 111,
+  "generatedAt": "2026-08-18T14:53:10.333Z",
+  "count": 110,
   "jobs": [
     {
       "id": 1518039850,
@@ -71,25 +71,6 @@
         "SAP"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 877819150,
-      "company": "Inetum",
-      "title": "Consultant Agentic AI - Framework ADK (H/F)",
-      "location": "SAINT-OUEN-SUR-SEINE",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-07T12:52:44.375Z",
-      "url": "https://jobs.smartrecruiters.com/Inetum2/744000142126004-consultant-agentic-ai-framework-adk-h-f-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Python",
-        "BPMN"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
