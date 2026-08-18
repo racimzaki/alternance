@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-18T07:03:52.941Z",
-  "count": 110,
+  "generatedAt": "2026-08-18T07:53:59.361Z",
+  "count": 111,
   "jobs": [
+    {
+      "id": 1518039850,
+      "company": "Sopra Steria",
+      "title": "Alternance - Développeur.se de moyens de simulation numériques pour la Défense - Chartres-De-Bretagne",
+      "location": "Chartres-de-Bretagne",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-18T07:31:14.470Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000143999430-alternance-developpeur-se-de-moyens-de-simulation-numeriques-pour-la-defense-chartres-de-bretagne?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Python"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1456995394,
       "company": "Sopra Steria",
