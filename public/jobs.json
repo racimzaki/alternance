@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-19T11:39:39.560Z",
-  "count": 111,
+  "generatedAt": "2026-08-19T13:08:21.190Z",
+  "count": 112,
   "jobs": [
+    {
+      "id": 730018410,
+      "company": "Talan",
+      "title": "Apprenti ingénieur Système, Réseau, Cybersécurité F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-19T13:07:00.376Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000144315028-apprenti-ingenieur-systeme-reseau-cybersecurite-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2125994862,
       "company": "Sopra Steria",
