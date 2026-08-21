@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-08-21T09:52:02.345Z",
-  "count": 111,
+  "generatedAt": "2026-08-21T10:47:23.157Z",
+  "count": 112,
   "jobs": [
+    {
+      "id": 1447141498,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-21T09:54:09.798Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144729999-apprenti-e-controleur-euse-de-gestion-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1447110520,
       "company": "Bosch Group",
