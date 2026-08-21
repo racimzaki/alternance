@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T07:07:51.271Z",
-  "count": 112,
+  "generatedAt": "2026-08-21T07:56:36.355Z",
+  "count": 111,
   "jobs": [
     {
       "id": 2032567536,
@@ -16,23 +16,6 @@
         "À analyser"
       ],
       "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 730018410,
-      "company": "Talan",
-      "title": "Apprenti ingénieur Système, Réseau, Cybersécurité F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-19T13:07:00.376Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000144315028-apprenti-ingenieur-systeme-reseau-cybersecurite-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
