@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-21T08:57:56.855Z",
+  "generatedAt": "2026-08-21T09:52:02.345Z",
   "count": 111,
   "jobs": [
+    {
+      "id": 1447110520,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Sales and Acquisition Key Account Manager H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-08-21T09:49:54.400Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144728820-apprenti-e-sales-and-acquisition-key-account-manager-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Jira",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2032567536,
       "company": "Sopra Steria",
@@ -1185,25 +1204,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2007112225,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Sales and Acquisition Key Account Manager H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Contract",
-      "publishedAt": "2026-05-06T10:09:34.897Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000124858669-apprenti-e-sales-and-acquisition-key-account-manager-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Jira",
-        "SAP"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
