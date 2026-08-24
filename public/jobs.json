@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-08-24T07:20:14.185Z",
+  "generatedAt": "2026-08-24T09:04:31.995Z",
   "count": 111,
   "jobs": [
+    {
+      "id": 1313596247,
+      "company": "Wavestone",
+      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-24T08:19:08.685Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000145211921-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1217406180,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE- Assistant Technique et Sécurité F/H",
+      "location": "La Valette-du-Var",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-24T07:20:34.131Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000145201269-alternance-assistant-technique-et-securite-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1947664200,
       "company": "Sopra Steria",
@@ -487,7 +522,7 @@
       "category": "Data",
       "remote": false,
       "skills": [
-        "À analyser"
+        "SAP"
       ],
       "matchScore": 50,
       "status": "active",
@@ -684,24 +719,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 2036906003,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE- Assistant Technique et Sécurité F/H",
-      "location": "La Valette-du-Var",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-20T15:01:59.191Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000138670589-alternance-assistant-technique-et-securite-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Tableau"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 2038579298,
       "company": "ALTAREA",
       "title": "ALTERNANCE - Assistant Commercial - F/H",
@@ -734,23 +751,6 @@
       "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1458022002,
-      "company": "BNP Paribas",
-      "title": "Alternance - Data Quality Analyst H-F",
-      "location": "Pantin, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-07-17",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-data-quality-analyst-h-f",
-      "category": "BI",
-      "remote": true,
-      "skills": [
-        "Power BI"
-      ],
-      "matchScore": 73,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1534300219,
