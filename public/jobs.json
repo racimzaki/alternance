@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T11:43:44.493Z",
-  "count": 112,
+  "generatedAt": "2026-08-24T13:12:38.520Z",
+  "count": 111,
   "jobs": [
     {
       "id": 1208880012,
@@ -718,23 +718,6 @@
         "Agile"
       ],
       "matchScore": 98,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1199039013,
-      "company": "Talan",
-      "title": "Alternance - Business Development Representative - H/F",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-21T07:07:28.407Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000138793879-alternance-business-development-representative-h-f?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
