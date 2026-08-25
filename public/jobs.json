@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T15:59:40.636Z",
-  "count": 109,
+  "generatedAt": "2026-08-25T16:55:05.783Z",
+  "count": 110,
   "jobs": [
     {
       "id": 1123135656,
@@ -873,6 +873,23 @@
         "SAP"
       ],
       "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1141736408,
+      "company": "Inetum",
+      "title": "TALENT ACQUISITION SPECIALIST Alternance F/H ",
+      "location": "LYON",
+      "contractType": "Full-time",
+      "publishedAt": "2026-06-30T08:11:43.246Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000134953629-talent-acquisition-specialist-alternance-f-h-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
