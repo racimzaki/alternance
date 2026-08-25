@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T15:05:05.190Z",
-  "count": 111,
+  "generatedAt": "2026-08-25T15:59:40.636Z",
+  "count": 109,
   "jobs": [
     {
       "id": 1123135656,
@@ -739,23 +739,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 197777698,
-      "company": "Sopra Steria",
-      "title": "Alternance - Business Analyst - Services Publics - Ile-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-20T08:59:20.110Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000138585536-alternance-business-analyst-services-publics-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1534300219,
       "company": "Devoteam",
       "title": "Business Analyst / Product Owner HyperAutomation - H/F",
@@ -890,23 +873,6 @@
         "SAP"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1141736408,
-      "company": "Inetum",
-      "title": "TALENT ACQUISITION SPECIALIST Alternance F/H ",
-      "location": "LYON",
-      "contractType": "Full-time",
-      "publishedAt": "2026-06-30T08:11:43.246Z",
-      "url": "https://jobs.smartrecruiters.com/Inetum2/744000134953629-talent-acquisition-specialist-alternance-f-h-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
