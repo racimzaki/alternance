@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-25T13:11:10.380Z",
+  "generatedAt": "2026-08-25T14:03:53.604Z",
   "count": 111,
   "jobs": [
+    {
+      "id": 1123135656,
+      "company": "Sopra Steria",
+      "title": "Alternance - Développeur/se - Java - Energy & Telecom - Lyon",
+      "location": "Limonest",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-25T13:47:21.003Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000145521888-alternance-developpeur-se-java-energy-telecom-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "SAP",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1374604463,
       "company": "Wavestone",
@@ -67,26 +87,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1208880012,
-      "company": "Sopra Steria",
-      "title": "Alternance - Développeur/se - Java - Energy & Telecom - Lyon",
-      "location": "Limonest",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-24T09:07:46.904Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000145226259-alternance-developpeur-se-java-energy-telecom-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "SAP",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
