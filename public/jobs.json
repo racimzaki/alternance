@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-08-26T11:44:38.077Z",
-  "count": 108,
+  "generatedAt": "2026-08-26T13:16:45.611Z",
+  "count": 107,
   "jobs": [
+    {
+      "id": 1960388705,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Comptabilité Clients et Contrôle Crédit H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-08-26T12:20:34.488Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145727209-apprenti-e-comptabilite-clients-et-controle-credit-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1123135656,
       "company": "Sopra Steria",
@@ -702,23 +720,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1534300219,
-      "company": "Devoteam",
-      "title": "Business Analyst / Product Owner HyperAutomation - H/F",
-      "location": "Levallois-Perret",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-08T08:47:32.068Z",
-      "url": "https://jobs.smartrecruiters.com/Devoteam/744000136410564-business-analyst-product-owner-hyperautomation-h-f?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 93,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 2011019724,
       "company": "BNP Paribas",
       "title": "ALTERNANCE - CHEF DE PROJETS EXPERIENCE CLIENTS - H/F",
@@ -815,24 +816,6 @@
       "remote": false,
       "skills": [
         "Agile",
-        "SAP"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 475198274,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Comptabilité Clients et Contrôle Crédit H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Contract",
-      "publishedAt": "2026-07-01T15:25:31.562Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135300499-apprenti-e-comptabilite-clients-et-controle-credit-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
         "SAP"
       ],
       "matchScore": 53,
