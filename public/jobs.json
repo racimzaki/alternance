@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T14:07:10.832Z",
-  "count": 107,
+  "generatedAt": "2026-08-26T15:55:12.878Z",
+  "count": 105,
   "jobs": [
     {
       "id": 1960388705,
@@ -140,44 +140,6 @@
         "Tableau"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1947664200,
-      "company": "Sopra Steria",
-      "title": "Alternance – Ingénieur(e) études et développement Java / Angular - Services Publics - Nantes",
-      "location": "Nantes",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-21T14:56:20.123Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144787539-alternance-ingenieur-e-etudes-et-developpement-java-angular-services-publics-nantes?oga=true",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "SQL",
-        "Java"
-      ],
-      "matchScore": 55,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1947725800,
-      "company": "Sopra Steria",
-      "title": "Alternance - Ingénieur(e) Java / Angular - Energie & Utilities - Nantes",
-      "location": "Nantes",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-21T14:55:54.389Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144785306-alternance-ingenieur-e-java-angular-energie-utilities-nantes?oga=true",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Scrum",
-        "Java"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
