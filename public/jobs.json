@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T09:57:26.871Z",
-  "count": 110,
+  "generatedAt": "2026-08-26T10:51:52.625Z",
+  "count": 108,
   "jobs": [
     {
       "id": 1123135656,
@@ -549,26 +549,6 @@
       "source": "BNP Paribas Careers"
     },
     {
-      "id": 2054451798,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) chef(fe) de projet SAV H/F/N",
-      "location": "Drancy",
-      "contractType": "Contract",
-      "publishedAt": "2026-07-28T16:39:29.567Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140288140-apprenti-e-chef-fe-de-projet-sav-h-f-n?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "Power BI",
-        "Excel",
-        "Tableau",
-        "SAP"
-      ],
-      "matchScore": 76,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1350594245,
       "company": "Sopra Steria",
       "title": "Alternance Bid Management & Marketing des Offres (H/F)",
@@ -701,23 +681,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1220303897,
-      "company": "Talan",
-      "title": "Alternance - Consultant fonctionnel Microsoft Dynamics CRM - H/F",
-      "location": "Nantes",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-21T08:46:55.049Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000138814239-alternance-consultant-fonctionnel-microsoft-dynamics-crm-h-f?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 98,
       "status": "active",
       "source": "SmartRecruiters"
     },
