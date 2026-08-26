@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T15:55:12.878Z",
-  "count": 105,
+  "generatedAt": "2026-08-26T16:59:24.717Z",
+  "count": 104,
   "jobs": [
     {
       "id": 1960388705,
@@ -510,23 +510,6 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 964378503,
-      "company": "BNP Paribas",
-      "title": "Alternant(e) « Data Manager » H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-07-29",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternant-e-data-manager-h-f",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "SAP"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1350594245,
