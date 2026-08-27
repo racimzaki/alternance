@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T09:47:10.709Z",
-  "count": 105,
+  "generatedAt": "2026-08-27T20:30:05.082Z",
+  "count": 102,
   "jobs": [
     {
       "id": 1008593259,
@@ -172,25 +172,6 @@
       "remote": false,
       "skills": [
         "Excel",
-        "SAP"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1447110520,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Sales and Acquisition Key Account Manager H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Contract",
-      "publishedAt": "2026-08-21T09:49:54.400Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144728820-apprenti-e-sales-and-acquisition-key-account-manager-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Jira",
         "SAP"
       ],
       "matchScore": 53,
@@ -1338,23 +1319,6 @@
       "source": "BNP Paribas Careers"
     },
     {
-      "id": 603465036,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Assistant(e) Key Account Manager Bosch Accessoires / Freud H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Part-time",
-      "publishedAt": "2026-04-09T11:12:54.896Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000119575547-apprenti-e-assistant-e-key-account-manager-bosch-accessoires-freud-h-f-n?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 274955463,
       "company": "Sopra Steria",
       "title": "Delivery Manager - Infrastructure & Cloud - Biot",
@@ -1584,24 +1548,6 @@
         "Agile"
       ],
       "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1459148740,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Assistant(e) Responsable Grands Comptes Outillage Grand-Public H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Contract",
-      "publishedAt": "2026-03-20T16:46:55.040Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115932317-apprenti-e-assistant-e-responsable-grands-comptes-outillage-grand-public-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
