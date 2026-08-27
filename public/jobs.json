@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-26T23:31:47.070Z",
-  "count": 104,
+  "generatedAt": "2026-08-27T09:47:10.709Z",
+  "count": 105,
   "jobs": [
+    {
+      "id": 1008593259,
+      "company": "Sopra Steria",
+      "title": "Alternance Consultant IA Générative & AI Engineering (H/F)",
+      "location": "Courbevoie",
+      "contractType": "Contract",
+      "publishedAt": "2026-08-27T08:32:14.478Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000145922439-alternance-consultant-ia-generative-ai-engineering-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Python"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1960388705,
       "company": "Bosch Group",
