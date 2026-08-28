@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-08-28T05:23:56.778Z",
-  "count": 102,
+  "generatedAt": "2026-08-28T18:41:07.621Z",
+  "count": 100,
   "jobs": [
+    {
+      "id": 323255210,
+      "company": "Sopra Steria",
+      "title": "Développeur/se Java - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-28T14:40:54.067Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146205019-developpeur-se-java-defense-securite-lille?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Jira",
+        "Java"
+      ],
+      "matchScore": 73,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 323339663,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-28T14:40:19.758Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146202550-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 346246090,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-28T11:54:00.216Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146168840-ingenieur-e-devops-infrastructure-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 350037103,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-28T07:08:35.925Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146125088-ingenieur-e-devops-infrastructure-rennes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 350067147,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
+      "location": "Saint-Herblain",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-28T07:08:14.189Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146124003-ingenieur-e-devops-infrastructure-nantes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1008593259,
       "company": "Sopra Steria",
@@ -34,26 +124,6 @@
         "SAP"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1123135656,
-      "company": "Sopra Steria",
-      "title": "Alternance - Développeur/se - Java - Energy & Telecom - Lyon",
-      "location": "Limonest",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-25T13:47:21.003Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000145521888-alternance-developpeur-se-java-energy-telecom-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "SAP",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -192,43 +262,6 @@
         "À analyser"
       ],
       "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2125994862,
-      "company": "Sopra Steria",
-      "title": "Développeur/se Java - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-18T15:39:11.155Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144114399-developpeur-se-java-defense-securite-lille?oga=true",
-      "category": "Product",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Jira",
-        "Java"
-      ],
-      "matchScore": 73,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2127037764,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-18T14:54:04.168Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144100329-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -714,40 +747,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1463363378,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-03T09:48:37.640Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000135687112-ingenieur-e-devops-infrastructure-rennes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1463366451,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
-      "location": "Saint-Herblain",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-03T09:48:21.067Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000135687476-ingenieur-e-devops-infrastructure-nantes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1553925163,
       "company": "Talan",
       "title": "Alternance - Administration Systèmes SAP - H/F",
@@ -848,25 +847,6 @@
         "SAP"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1293253279,
-      "company": "Bosch Group",
-      "title": "Apprenti Transformation Digitale - Data et Intelligence Artificielle F/H/N",
-      "location": "Drancy",
-      "contractType": "Full-time",
-      "publishedAt": "2026-06-22T13:50:48.976Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133373650-apprenti-transformation-digitale-data-et-intelligence-artificielle-f-h-n?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Power BI",
-        "Python"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1548,23 +1528,6 @@
         "Agile"
       ],
       "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1319845217,
-      "company": "Bosch Group",
-      "title": "Alternant Supply Chain Manager H/F/N",
-      "location": "Drancy",
-      "contractType": "Full-time",
-      "publishedAt": "2026-03-18T15:44:09.071Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115477266-alternant-supply-chain-manager-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "SAP"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
