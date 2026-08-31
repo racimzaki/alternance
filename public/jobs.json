@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-08-31T05:33:14.434Z",
-  "count": 100,
+  "generatedAt": "2026-08-31T13:48:03.550Z",
+  "count": 98,
   "jobs": [
+    {
+      "id": 2032833236,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale : La capitalisation de convictions sur les sujets de pilotage grands programmes dans l'optique d'avoir de la matière prête à l’emploi pour nos livrables à destination de nos clients ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-31T12:07:32.111Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000146454140-consultant-e-junior-en-transformation-digitale-la-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-dans-l-optique-d-avoir-de-la-matiere-prete-a-l-emploi-pour-nos-livrables-a-destination-de-nos-clients-stage-de-fin-d-etudes-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2032830189,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale - Boosting CTO - EA : Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-31T12:07:24.920Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000146454499-consultant-e-junior-en-transformation-digitale-boosting-cto-ea-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2032830313,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale - B CTO - Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-31T12:07:17.584Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000146454459-consultant-e-junior-en-transformation-digitale-b-cto-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2032885963,
+      "company": "Wavestone",
+      "title": "Consultant.e Junior en Transformation Digitale - Boosting CTO - Sourcing : Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-31T12:07:10.344Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000146452884-consultant-e-junior-en-transformation-digitale-boosting-cto-sourcing-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2032890022,
+      "company": "Wavestone",
+      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-08-31T11:56:54.324Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000146452416-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 323255210,
       "company": "Sopra Steria",
@@ -93,23 +178,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1008593259,
-      "company": "Sopra Steria",
-      "title": "Alternance Consultant IA Générative & AI Engineering (H/F)",
-      "location": "Courbevoie",
-      "contractType": "Contract",
-      "publishedAt": "2026-08-27T08:32:14.478Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000145922439-alternance-consultant-ia-generative-ai-engineering-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Python"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1960388705,
       "company": "Bosch Group",
       "title": "Apprenti(e) Comptabilité Clients et Contrôle Crédit H/F/N",
@@ -122,91 +190,6 @@
       "skills": [
         "Excel",
         "SAP"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1374604463,
-      "company": "Wavestone",
-      "title": "Consultant.e Junior en Transformation Digitale : La capitalisation de convictions sur les sujets de pilotage grands programmes dans l'optique d'avoir de la matière prête à l’emploi pour nos livrables à destination de nos clients ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-08-25T08:39:57.245Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000145453550-consultant-e-junior-en-transformation-digitale-la-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-dans-l-optique-d-avoir-de-la-matiere-prete-a-l-emploi-pour-nos-livrables-a-destination-de-nos-clients-stage-de-fin-d-etudes-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1374605393,
-      "company": "Wavestone",
-      "title": "Consultant.e Junior en Transformation Digitale - Boosting CTO - EA : Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-08-25T08:39:53.583Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000145453640-consultant-e-junior-en-transformation-digitale-boosting-cto-ea-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1374605526,
-      "company": "Wavestone",
-      "title": "Consultant.e Junior en Transformation Digitale - B CTO - Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-08-25T08:39:50.108Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000145453689-consultant-e-junior-en-transformation-digitale-b-cto-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1374605495,
-      "company": "Wavestone",
-      "title": "Consultant.e Junior en Transformation Digitale - Boosting CTO - Sourcing : Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-08-25T08:39:46.593Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000145453679-consultant-e-junior-en-transformation-digitale-boosting-cto-sourcing-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1313596247,
-      "company": "Wavestone",
-      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-08-24T08:19:08.685Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000145211921-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
       ],
       "matchScore": 53,
       "status": "active",
@@ -607,23 +590,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1019685084,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Chef de Projet Marketing & Communication Nouvelles Activités - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-27T14:52:02.305Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000140029589-alternance-chef-de-projet-marketing-communication-nouvelles-activites-f-h?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
