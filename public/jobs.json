@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T13:48:03.550Z",
-  "count": 98,
+  "generatedAt": "2026-08-31T20:04:04.709Z",
+  "count": 96,
   "jobs": [
     {
       "id": 2032833236,
@@ -920,23 +920,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1779152847,
-      "company": "BNP Paribas",
-      "title": "Alternance - Droit Digital et Données Personnelles",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-06-04",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-droit-digital-et-donnees-personnelles",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 1406888336,
       "company": "Inetum",
       "title": "Développeur Fullstack Java/Angular confirmé H/F",
@@ -1246,23 +1229,6 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 584935221,
-      "company": "BNP Paribas",
-      "title": "Alternance - Analyste Asset Management H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-04-10",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-analyste-asset-management-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 274955463,
