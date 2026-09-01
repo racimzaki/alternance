@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T05:06:44.164Z",
-  "count": 96,
+  "generatedAt": "2026-09-01T10:05:49.145Z",
+  "count": 94,
   "jobs": [
     {
       "id": 2032833236,
@@ -245,23 +245,6 @@
         "À analyser"
       ],
       "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1518039850,
-      "company": "Sopra Steria",
-      "title": "Alternance - Développeur.se de moyens de simulation numériques pour la Défense - Chartres-De-Bretagne",
-      "location": "Chartres-de-Bretagne",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-18T07:31:14.470Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000143999430-alternance-developpeur-se-de-moyens-de-simulation-numeriques-pour-la-defense-chartres-de-bretagne?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Python"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -727,23 +710,6 @@
         "SAP"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1141736408,
-      "company": "Inetum",
-      "title": "TALENT ACQUISITION SPECIALIST Alternance F/H ",
-      "location": "LYON",
-      "contractType": "Full-time",
-      "publishedAt": "2026-06-30T08:11:43.246Z",
-      "url": "https://jobs.smartrecruiters.com/Inetum2/744000134953629-talent-acquisition-specialist-alternance-f-h-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
