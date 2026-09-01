@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-09-01T10:05:49.145Z",
-  "count": 94,
+  "generatedAt": "2026-09-01T14:53:10.764Z",
+  "count": 96,
   "jobs": [
+    {
+      "id": 1072140034,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) chef(fe) de projet H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-01T14:03:35.923Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146731277-apprenti-e-chef-fe-de-projet-h-f-n?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2045929631,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
+      "location": "Marseille",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-01T13:07:13.296Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000146713139-alternance-assistant-responsable-de-programmes-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2032833236,
       "company": "Wavestone",
