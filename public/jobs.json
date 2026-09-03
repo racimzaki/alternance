@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-03T09:48:53.381Z",
+  "generatedAt": "2026-09-03T14:34:19.988Z",
   "count": 95,
   "jobs": [
+    {
+      "id": 568959284,
+      "company": "Sopra Steria",
+      "title": "Stage - Développeur Fullstack – Défense & Sécurité – Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-03T13:51:36.568Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000147258410-stage-developpeur-fullstack-defense-securite-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1072140034,
       "company": "Bosch Group",
@@ -206,24 +224,6 @@
       "remote": false,
       "skills": [
         "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1960388705,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Comptabilité Clients et Contrôle Crédit H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Contract",
-      "publishedAt": "2026-08-26T12:20:34.488Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145727209-apprenti-e-comptabilite-clients-et-controle-credit-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
       ],
       "matchScore": 53,
       "status": "active",
