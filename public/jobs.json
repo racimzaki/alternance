@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-09-04T04:32:05.496Z",
+  "generatedAt": "2026-09-04T09:38:51.386Z",
   "count": 95,
   "jobs": [
+    {
+      "id": 1145179537,
+      "company": "Wavestone",
+      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-04T09:08:59.707Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000147459279-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1244284542,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Chargé RH & Talents - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-04T05:01:39.055Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000147414049-alternance-charge-rh-talents-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 568959284,
       "company": "Sopra Steria",
@@ -113,23 +147,6 @@
       "contractType": "Intern",
       "publishedAt": "2026-08-31T12:07:10.344Z",
       "url": "https://jobs.smartrecruiters.com/Wavestone1/744000146452884-consultant-e-junior-en-transformation-digitale-boosting-cto-sourcing-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2032890022,
-      "company": "Wavestone",
-      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-08-31T11:56:54.324Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000146452416-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
@@ -990,23 +1007,6 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 2067153179,
-      "company": "BNP Paribas",
-      "title": "IT Continuity Service Apprentice H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-04-30",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/it-continuity-service-apprentice-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SAP"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 288773545,
