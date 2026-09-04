@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T09:38:51.386Z",
-  "count": 95,
+  "generatedAt": "2026-09-04T14:21:27.673Z",
+  "count": 93,
   "jobs": [
     {
       "id": 1145179537,
@@ -259,24 +259,6 @@
       "skills": [
         "Excel",
         "Tableau"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1447141498,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Intern",
-      "publishedAt": "2026-08-21T09:54:09.798Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144729999-apprenti-e-controleur-euse-de-gestion-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
       ],
       "matchScore": 53,
       "status": "active",
@@ -1058,23 +1040,6 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 2067153180,
-      "company": "BNP Paribas",
-      "title": "Regulatory Reporting Apprentice H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-04-23",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/regulatory-reporting-apprentice-h-f-1",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "SAP"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 628245328,
