@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-07T04:39:48.257Z",
-  "count": 93,
+  "generatedAt": "2026-09-07T10:17:03.479Z",
+  "count": 94,
   "jobs": [
+    {
+      "id": 742377686,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Strasbourg",
+      "location": "Strasbourg",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-07T08:46:43.348Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000147871970-ingenieur-e-devops-infrastructure-strasbourg?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1145179537,
       "company": "Wavestone",
