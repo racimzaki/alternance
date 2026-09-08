@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T11:18:16.915Z",
-  "count": 93,
+  "generatedAt": "2026-09-08T16:37:40.797Z",
+  "count": 91,
   "jobs": [
     {
       "id": 2108028982,
@@ -120,23 +120,6 @@
         "Scrum"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1244284542,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Chargé RH & Talents - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-04T05:01:39.055Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000147414049-alternance-charge-rh-talents-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -400,25 +383,6 @@
       "skills": [
         "Excel",
         "SAP"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1236853045,
-      "company": "Sopra Steria",
-      "title": "Alternance - Cybersécurité - Ile de France ",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-30T08:32:48.207Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000140628448-alternance-cybersecurite-ile-de-france-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Jira",
-        "Tableau"
       ],
       "matchScore": 53,
       "status": "active",
