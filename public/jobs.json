@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T11:21:47.114Z",
-  "count": 89,
+  "generatedAt": "2026-09-09T16:37:53.874Z",
+  "count": 87,
   "jobs": [
     {
       "id": 2108028982,
@@ -644,23 +644,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 2011019724,
-      "company": "BNP Paribas",
-      "title": "ALTERNANCE - CHEF DE PROJETS EXPERIENCE CLIENTS - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-07-08",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-chef-de-projets-experience-clients-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 2033887422,
       "company": "Sopra Steria",
       "title": "Alternance - Consultant.e Conseil - Transformation digitale - Edition de logiciels - Limonest ou Ile de France",
@@ -848,24 +831,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1098467258,
-      "company": "BNP Paribas",
-      "title": "Alternance - Chef de projet - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-06-15",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-chef-de-projet-h-f-1",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel",
-        "Agile"
-      ],
-      "matchScore": 68,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 2032131741,
