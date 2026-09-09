@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T06:00:15.598Z",
-  "count": 91,
+  "generatedAt": "2026-09-09T11:21:47.114Z",
+  "count": 89,
   "jobs": [
     {
       "id": 2108028982,
@@ -1162,25 +1162,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1169787385,
-      "company": "Bosch Group",
-      "title": "Apprenti Data Analyst F/H/N",
-      "location": "Drancy",
-      "contractType": "Full-time",
-      "publishedAt": "2026-03-30T08:56:18.271Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000117592297-apprenti-data-analyst-f-h-n?oga=true",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 80,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 2141845324,
       "company": "ALTAREA",
       "title": "Alternance - Rémunération et avantages sociaux (C&B) - F/H",
@@ -1374,24 +1355,6 @@
         "Agile"
       ],
       "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1316927591,
-      "company": "Bosch Group",
-      "title": "Apprenti Supply Chain - Administration des ventes F/H/N",
-      "location": "Drancy",
-      "contractType": "Full-time",
-      "publishedAt": "2026-03-18T13:34:37.925Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115442457-apprenti-supply-chain-administration-des-ventes-f-h-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
