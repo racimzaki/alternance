@@ -1,24 +1,7 @@
 {
-  "generatedAt": "2026-09-10T11:18:18.515Z",
-  "count": 86,
+  "generatedAt": "2026-09-10T16:23:51.563Z",
+  "count": 85,
   "jobs": [
-    {
-      "id": 2108028982,
-      "company": "Talan",
-      "title": "Alternance - Assistant QHSE/RSE Environnement (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-07T14:38:02.119Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000147957854-alternance-assistant-qhse-rse-environnement-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
     {
       "id": 1004803446,
       "company": "Wavestone",
