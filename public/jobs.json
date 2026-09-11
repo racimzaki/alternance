@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-11T05:58:43.258Z",
-  "count": 85,
+  "generatedAt": "2026-09-11T11:19:50.609Z",
+  "count": 86,
   "jobs": [
+    {
+      "id": 1655054832,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-11T07:17:05.427Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000148939998-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1004803446,
       "company": "Wavestone",
