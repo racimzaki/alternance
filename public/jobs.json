@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T06:16:57.500Z",
-  "count": 77,
+  "generatedAt": "2026-09-14T12:56:04.426Z",
+  "count": 75,
   "jobs": [
     {
       "id": 2012843626,
@@ -279,24 +279,6 @@
       "remote": false,
       "skills": [
         "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1217406180,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE- Assistant Technique et Sécurité F/H",
-      "location": "La Valette-du-Var",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-24T07:20:34.131Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000145201269-alternance-assistant-technique-et-securite-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Tableau"
       ],
       "matchScore": 53,
       "status": "active",
@@ -903,23 +885,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 907156367,
-      "company": "Devoteam",
-      "title": "Alternance - Assistant Manager H/F",
-      "location": "Levallois-Perret",
-      "contractType": "Part-time",
-      "publishedAt": "2026-05-12T11:14:30.042Z",
-      "url": "https://jobs.smartrecruiters.com/Devoteam/744000126054899-alternance-assistant-manager-h-f?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
