@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-14T12:56:04.426Z",
+  "generatedAt": "2026-09-14T18:38:12.058Z",
   "count": 75,
   "jobs": [
+    {
+      "id": 1920700281,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-14T15:38:31.698Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149372728-business-analyst-it-defense-securite-lille?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2012843626,
       "company": "Sopra Steria",
@@ -36,23 +53,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2012872744,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-11T12:36:27.353Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149008800-business-analyst-it-defense-securite-lille?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
     },
