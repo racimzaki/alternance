@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-15T13:32:57.768Z",
+  "generatedAt": "2026-09-15T18:11:59.530Z",
   "count": 82,
   "jobs": [
+    {
+      "id": 1837588169,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) - DevOps - Aeroline - Toulouse",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-15T15:05:06.550Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149642234-ingenieur-e-devops-aeroline-toulouse?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1378718810,
       "company": "Inetum",
@@ -746,23 +763,6 @@
       "remote": false,
       "skills": [
         "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1373650532,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) - DevOps - Aeroline - Toulouse",
-      "location": "Colomiers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-28T09:50:19.842Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000140194713-ingenieur-e-devops-aeroline-toulouse?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
       ],
       "matchScore": 53,
       "status": "active",
