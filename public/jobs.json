@@ -1,15 +1,154 @@
 {
-  "generatedAt": "2026-09-15T07:44:00.365Z",
-  "count": 75,
+  "generatedAt": "2026-09-15T13:32:57.768Z",
+  "count": 82,
   "jobs": [
     {
-      "id": 655421204,
+      "id": 1378718810,
+      "company": "Inetum",
+      "title": "Consultant Agentic AI - Framework ADK (H/F)",
+      "location": "SAINT-OUEN-SUR-SEINE",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-15T12:41:06.326Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000149592949-consultant-agentic-ai-framework-adk-h-f-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Python",
+        "BPMN"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 797438592,
+      "company": "Ubisoft",
+      "title": "Campus & Talent Acquisition Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T12:10:06.336Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000149585699-campus-talent-acquisition-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1864337422,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Limonest",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-15T10:32:06.071Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149563590-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 562068837,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Chargé RH & Talents - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-15T09:11:14.163Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000149542684-alternance-charge-rh-talents-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655633527,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Sujet de stage : Pilotage de grands projets : Sécuriser et accélérer les transformations stratégiques à fort enjeu",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T08:08:07.219Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149527969-stage-de-fin-d-etudes-sujet-de-stage-pilotage-de-grands-projets-securiser-et-accelerer-les-transformations-strategiques-a-fort-enjeu?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655631450,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Management des directions Recherche et Innovation",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T08:06:58.621Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149527719-stage-de-fin-d-etudes-alternance-sujet-de-stage-management-des-directions-recherche-et-innovation?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655630613,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Finance & Achats – Accompagner les transformations de ces métiers en s’appuyant sur la Data et les Systèmes d’Informations les plus performants ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T08:06:26.662Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149527659-stage-de-fin-d-etudes-alternance-sujet-de-stage-finance-achats-accompagner-les-transformations-de-ces-metiers-en-s-appuyant-sur-la-data-et-les-systemes-d-informations-les-plus-performants-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655597811,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Industrie 5.0 et performance des opérations, au cœur des stratégies et des transformations des acteurs industriels. ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T08:05:29.260Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149526315-stage-de-fin-d-etudes-alternance-sujet-de-stage-industrie-5-0-et-performance-des-operations-au-c-ur-des-strategies-et-des-transformations-des-acteurs-industriels-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655627792,
       "company": "Wavestone",
       "title": "Stage de fin d'études / Alternance - Sujet de stage : Transformation SI : transformer les SI pour répondre aux nouveaux enjeux du monde industriel et énergétique ",
       "location": "Paris",
       "contractType": "Intern",
-      "publishedAt": "2026-09-15T07:42:21.219Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149520585-stage-de-fin-d-etudes-alternance-sujet-de-stage-transformation-si-transformer-les-si-pour-repondre-aux-nouveaux-enjeux-du-monde-industriel-et-energetique-?oga=true",
+      "publishedAt": "2026-09-15T08:05:06.478Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149527379-stage-de-fin-d-etudes-alternance-sujet-de-stage-transformation-si-transformer-les-si-pour-repondre-aux-nouveaux-enjeux-du-monde-industriel-et-energetique-?oga=true",
       "category": "SI",
       "remote": false,
       "skills": [
@@ -22,13 +161,47 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 654738796,
+      "id": 655570873,
       "company": "Wavestone",
       "title": "Stage de fin d'études - Sujet de stage : Accompagner la transformation digitale et durable des Supply Chains industrielles",
       "location": "Paris",
       "contractType": "Intern",
-      "publishedAt": "2026-09-15T07:36:25.177Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149518850-stage-de-fin-d-etudes-sujet-de-stage-accompagner-la-transformation-digitale-et-durable-des-supply-chains-industrielles?oga=true",
+      "publishedAt": "2026-09-15T08:04:17.922Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149525606-stage-de-fin-d-etudes-sujet-de-stage-accompagner-la-transformation-digitale-et-durable-des-supply-chains-industrielles?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655602713,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Sujet de stage : Data, IA & IoT : la performance des entreprises par la donnée ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T08:03:00.541Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149526849-stage-de-fin-d-etudes-sujet-de-stage-data-ia-iot-la-performance-des-entreprises-par-la-donnee-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 655599024,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Sujet de stage : Change – Accompagner les organisations dans la conduite du changement",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T08:01:07.034Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149526499-stage-de-fin-d-etudes-sujet-de-stage-change-accompagner-les-organisations-dans-la-conduite-du-changement?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
@@ -716,23 +889,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1167887753,
-      "company": "Wavestone",
-      "title": "Stage de fin d'études - Sujet de stage : Data, IA & IoT : la performance des entreprises par la donnée ",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-06-29T12:24:38.421Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000134776309-stage-de-fin-d-etudes-sujet-de-stage-data-ia-iot-la-performance-des-entreprises-par-la-donnee-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 433673244,
       "company": "Sopra Steria",
       "title": "Business Analyst - Services Publics - Île-de-France",
@@ -1214,40 +1370,6 @@
         "Java"
       ],
       "matchScore": 55,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2102779984,
-      "company": "Wavestone",
-      "title": "Stage de fin d'études / Alternance - Sujet de stage : Finance & Achats – Accompagner les transformations de ces métiers en s’appuyant sur la Data et les Systèmes d’Informations les plus performants ",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-02-13T16:38:52.230Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000109269392-stage-de-fin-d-etudes-alternance-sujet-de-stage-finance-achats-accompagner-les-transformations-de-ces-metiers-en-s-appuyant-sur-la-data-et-les-systemes-d-informations-les-plus-performants-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2102865544,
-      "company": "Wavestone",
-      "title": "Stage de fin d'études / Alternance - Sujet de stage : Industrie 5.0 et performance des opérations, au cœur des stratégies et des transformations des acteurs industriels. ",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-02-13T16:37:13.726Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000109266782-stage-de-fin-d-etudes-alternance-sujet-de-stage-industrie-5-0-et-performance-des-operations-au-c-ur-des-strategies-et-des-transformations-des-acteurs-industriels-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
