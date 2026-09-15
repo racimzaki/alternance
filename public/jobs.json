@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-15T01:27:50.399Z",
+  "generatedAt": "2026-09-15T07:44:00.365Z",
   "count": 75,
   "jobs": [
+    {
+      "id": 655421204,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Transformation SI : transformer les SI pour répondre aux nouveaux enjeux du monde industriel et énergétique ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T07:42:21.219Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149520585-stage-de-fin-d-etudes-alternance-sujet-de-stage-transformation-si-transformer-les-si-pour-repondre-aux-nouveaux-enjeux-du-monde-industriel-et-energetique-?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "SAP"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 654738796,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Sujet de stage : Accompagner la transformation digitale et durable des Supply Chains industrielles",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-15T07:36:25.177Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149518850-stage-de-fin-d-etudes-sujet-de-stage-accompagner-la-transformation-digitale-et-durable-des-supply-chains-industrielles?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1920700281,
       "company": "Sopra Steria",
@@ -680,24 +716,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1167943407,
-      "company": "Wavestone",
-      "title": "Stage de fin d'études - Sujet de stage : Accompagner la transformation digitale et durable des Supply Chains industrielles",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-06-29T12:26:34.361Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000134774730-stage-de-fin-d-etudes-sujet-de-stage-accompagner-la-transformation-digitale-et-durable-des-supply-chains-industrielles?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile"
-      ],
-      "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1167887753,
       "company": "Wavestone",
       "title": "Stage de fin d'études - Sujet de stage : Data, IA & IoT : la performance des entreprises par la donnée ",
@@ -1230,24 +1248,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2102782899,
-      "company": "Wavestone",
-      "title": "Stage de fin d'études / Alternance - Sujet de stage : Transformation SI : transformer les SI pour répondre aux nouveaux enjeux du monde industriel et énergétique ",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-02-13T16:36:14.815Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000109269081-stage-de-fin-d-etudes-alternance-sujet-de-stage-transformation-si-transformer-les-si-pour-repondre-aux-nouveaux-enjeux-du-monde-industriel-et-energetique-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile"
-      ],
-      "matchScore": 66,
       "status": "active",
       "source": "SmartRecruiters"
     },
