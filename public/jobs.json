@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T11:31:36.013Z",
-  "count": 84,
+  "generatedAt": "2026-09-16T16:54:11.744Z",
+  "count": 81,
   "jobs": [
     {
       "id": 739672103,
@@ -104,23 +104,6 @@
         "SAP"
       ],
       "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 562068837,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Chargé RH & Talents - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-15T09:11:14.163Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000149542684-alternance-charge-rh-talents-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1165,23 +1148,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 628245328,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Contrôleur Financier - F/H",
-      "location": "Nice",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-22T15:31:28.835Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122285806-alternance-controleur-financier-f-h?oga=true",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "Tableau"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 628335473,
       "company": "ALTAREA",
       "title": "Alternance - Assistant Gestion Locative - F/H",
@@ -1212,24 +1178,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 631163760,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Assistant Marketing Opérationnel - F/H",
-      "location": "Saint-Laurent-du-Var",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-22T12:29:44.601Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122250947-alternance-assistant-marketing-operationnel-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
