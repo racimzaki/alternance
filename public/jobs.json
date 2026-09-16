@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-09-16T06:01:28.885Z",
-  "count": 82,
+  "generatedAt": "2026-09-16T11:31:36.013Z",
+  "count": 84,
   "jobs": [
+    {
+      "id": 739672103,
+      "company": "Wavestone",
+      "title": "Stagiaire/Alternant.e  Account Manager - Marseille",
+      "location": "Marseille",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-16T08:57:51.747Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149807793-stagiaire-alternant-e-account-manager-marseille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 739701705,
+      "company": "Wavestone",
+      "title": "Stagiaire/Alternant.e - Account Manager - Lyon",
+      "location": "Villeurbanne",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-16T08:57:04.679Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149808730-stagiaire-alternant-e-account-manager-lyon?oga=true",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1837588169,
       "company": "Sopra Steria",
