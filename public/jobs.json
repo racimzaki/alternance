@@ -1,7 +1,59 @@
 {
-  "generatedAt": "2026-09-17T07:38:43.264Z",
+  "generatedAt": "2026-09-17T13:26:46.632Z",
   "count": 81,
   "jobs": [
+    {
+      "id": 1433607254,
+      "company": "Wavestone",
+      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-17T10:26:58.724Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000150066571-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 337700696,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-17T10:00:51.662Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150062776-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 334208451,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-17T07:44:37.602Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150029084-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 739672103,
       "company": "Wavestone",
@@ -86,24 +138,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1864337422,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Limonest",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-15T10:32:06.071Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149563590-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -283,23 +317,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 2012849460,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-11T12:37:27.572Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149009173-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1655054832,
       "company": "Sopra Steria",
       "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
@@ -377,23 +394,6 @@
       "contractType": "Intern",
       "publishedAt": "2026-09-07T12:45:34.979Z",
       "url": "https://jobs.smartrecruiters.com/Wavestone1/744000147929149-consultant-e-junior-en-transformation-digitale-boosting-cto-sourcing-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1004831346,
-      "company": "Wavestone",
-      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-07T12:44:11.923Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000147928549-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
