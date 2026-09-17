@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-17T13:26:46.632Z",
-  "count": 81,
+  "generatedAt": "2026-09-17T18:13:10.250Z",
+  "count": 82,
   "jobs": [
+    {
+      "id": 849320149,
+      "company": "Inetum",
+      "title": "Alternance - Account Manager ",
+      "location": "Pau",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-17T16:05:57.657Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000150166439-alternance-account-manager-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1433607254,
       "company": "Wavestone",
