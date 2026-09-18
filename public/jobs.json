@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-18T14:59:32.833Z",
-  "count": 82,
+  "generatedAt": "2026-09-18T18:28:22.290Z",
+  "count": 83,
   "jobs": [
+    {
+      "id": 920488031,
+      "company": "Devoteam",
+      "title": "Internal Communication Apprentice",
+      "location": "Levallois-Perret",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-18T15:19:37.959Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000150405209-internal-communication-apprentice?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 905717485,
       "company": "Inetum",
