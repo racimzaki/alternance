@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T21:41:07.173Z",
-  "count": 82,
+  "generatedAt": "2026-09-19T00:20:27.856Z",
+  "count": 83,
   "jobs": [
     {
       "id": 920488031,
@@ -558,6 +558,23 @@
         "Agile"
       ],
       "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 321555048,
+      "company": "Bosch Group",
+      "title": "Apprenti Contrôleur de gestion industriel H/F/N",
+      "location": "Saint-Thégonnec Loc-Eguiner",
+      "contractType": "Full-time",
+      "publishedAt": "2026-08-11T06:19:58.899Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142794470-apprenti-controleur-de-gestion-industriel-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "SAP"
+      ],
+      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
