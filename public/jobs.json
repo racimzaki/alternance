@@ -1,7 +1,58 @@
 {
-  "generatedAt": "2026-09-21T10:42:52.906Z",
-  "count": 83,
+  "generatedAt": "2026-09-21T17:03:08.723Z",
+  "count": 85,
   "jobs": [
+    {
+      "id": 360182153,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Office Manager & Support Direction H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-21T15:02:39.830Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150725964-apprenti-e-office-manager-support-direction-h-f-n?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 510607477,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Lyon",
+      "location": "Limonest",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-21T12:28:05.165Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150679719-ingenieur-e-devops-lyon?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1356112046,
+      "company": "ALTAREA",
+      "title": "ALTERNANCE - Chargé RH & Talents - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-21T12:19:49.546Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000150678283-alternance-charge-rh-talents-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 920488031,
       "company": "Devoteam",
@@ -575,23 +626,6 @@
         "SAP"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 345865801,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Lyon",
-      "location": "Limonest",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-05T08:19:34.232Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000141661228-ingenieur-e-devops-lyon?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
