@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-22T04:54:33.434Z",
+  "generatedAt": "2026-09-22T09:57:21.774Z",
   "count": 85,
   "jobs": [
+    {
+      "id": 596309518,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-22T09:03:54.017Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150973038-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 360182153,
       "company": "Bosch Group",
@@ -101,24 +119,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 337700696,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-17T10:00:51.662Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150062776-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
