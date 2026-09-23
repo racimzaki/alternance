@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-09-23T05:58:09.336Z",
-  "count": 85,
+  "generatedAt": "2026-09-23T11:34:42.608Z",
+  "count": 87,
   "jobs": [
+    {
+      "id": 1308288626,
+      "company": "Sopra Steria",
+      "title": "Consultant(e) transformation digitale H/F - Courbevoie ",
+      "location": "Courbevoie",
+      "contractType": "Contract",
+      "publishedAt": "2026-09-23T09:13:39.299Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151331488-consultant-e-transformation-digitale-h-f-courbevoie-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1307514861,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant(e) fonctionnel(le) Oracle - Aix-en-Provence",
+      "location": "Aix-en-Provence",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-23T09:01:59.508Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151326533-stage-consultant-e-fonctionnel-le-oracle-aix-en-provence?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Agile",
+        "SAP",
+        "Java"
+      ],
+      "matchScore": 61,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 326887499,
       "company": "Bosch Group",
