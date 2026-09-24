@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-24T10:00:13.506Z",
+  "generatedAt": "2026-09-24T15:05:27.725Z",
   "count": 87,
   "jobs": [
+    {
+      "id": 1392568326,
+      "company": "Sopra Steria",
+      "title": "Stage – Consultant(e) en Transformation et Ingénierie Aéronautique - Aeroline - Toulouse ",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-24T13:24:23.418Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151619588-stage-consultant-e-en-transformation-et-ingenierie-aeronautique-aeroline-toulouse-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 403790165,
       "company": "Wavestone",
@@ -193,23 +210,6 @@
       "remote": false,
       "skills": [
         "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1356112046,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Chargé RH & Talents - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-21T12:19:49.546Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000150678283-alternance-charge-rh-talents-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
       ],
       "matchScore": 53,
       "status": "active",
