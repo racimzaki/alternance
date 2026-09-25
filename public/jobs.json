@@ -1,7 +1,96 @@
 {
-  "generatedAt": "2026-09-25T07:47:29.052Z",
-  "count": 85,
+  "generatedAt": "2026-09-25T13:46:15.171Z",
+  "count": 89,
   "jobs": [
+    {
+      "id": 532947999,
+      "company": "Bosch Group",
+      "title": "Approvisionneur·euse H/F/N",
+      "location": "Drancy",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-25T08:29:31.598Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151788506-approvisionneur-euse-h-f-n?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Power BI",
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 532973165,
+      "company": "Bosch Group",
+      "title": "Approvisionneur F/H/D",
+      "location": "Drancy",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-25T08:27:19.403Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151789060-approvisionneur-f-h-d?oga=true",
+      "category": "BI",
+      "remote": true,
+      "skills": [
+        "Power BI",
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1427484176,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-25T08:12:47.230Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151783630-business-analyst-it-defense-securite-lille?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1427393788,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-25T07:49:05.354Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151780518-ingenieur-e-devops-infrastructure-rennes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1426739433,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
+      "location": "Saint-Herblain",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-25T07:48:36.814Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151779641-ingenieur-e-devops-infrastructure-nantes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1392568326,
       "company": "Sopra Steria",
@@ -488,23 +577,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1920700281,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-14T15:38:31.698Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149372728-business-analyst-it-defense-securite-lille?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
     },
