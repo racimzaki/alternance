@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T01:29:58.390Z",
-  "count": 87,
+  "generatedAt": "2026-09-25T07:47:29.052Z",
+  "count": 85,
   "jobs": [
     {
       "id": 1392568326,
@@ -634,40 +634,6 @@
         "Scrum"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 350037103,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-28T07:08:35.925Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146125088-ingenieur-e-devops-infrastructure-rennes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 350067147,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
-      "location": "Saint-Herblain",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-28T07:08:14.189Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146124003-ingenieur-e-devops-infrastructure-nantes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
