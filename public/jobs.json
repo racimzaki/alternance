@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-25T13:46:15.171Z",
-  "count": 89,
+  "generatedAt": "2026-09-25T18:36:09.926Z",
+  "count": 88,
   "jobs": [
+    {
+      "id": 1477327472,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-25T17:04:02.133Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151902958-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 532947999,
       "company": "Bosch Group",
@@ -228,24 +246,6 @@
         "Java"
       ],
       "matchScore": 80,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1366615467,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-24T07:31:49.895Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151546058-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -616,25 +616,6 @@
         "Java"
       ],
       "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 765550102,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Strasbourg",
-      "location": "Strasbourg",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-07T11:39:52.234Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000147914419-ingenieur-e-devops-infrastructure-strasbourg?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Scrum"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
