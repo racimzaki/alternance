@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-28T00:45:38.040Z",
+  "generatedAt": "2026-09-28T06:52:47.255Z",
   "count": 88,
   "jobs": [
+    {
+      "id": 2114555072,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-28T06:32:58.289Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000152082769-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1477327472,
       "company": "Sopra Steria",
@@ -335,23 +352,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 334208451,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-17T07:44:37.602Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150029084-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
