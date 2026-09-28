@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-09-28T06:52:47.255Z",
-  "count": 88,
+  "generatedAt": "2026-09-28T15:26:44.912Z",
+  "count": 87,
   "jobs": [
+    {
+      "id": 370058996,
+      "company": "Wavestone",
+      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-28T12:53:06.514Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000152167559-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2136001646,
+      "company": "Sopra Steria",
+      "title": "Stage -  Consultant(e) Fonctionnel – SAP Excellence Center – Toulouse",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-28T08:33:10.165Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000152109448-stage-consultant-e-fonctionnel-sap-excellence-center-toulouse?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Jira",
+        "SAP"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2115506368,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-28T07:29:25.102Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000152093538-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2114555072,
       "company": "Sopra Steria",
@@ -225,23 +281,6 @@
         "Agile",
         "Scrum",
         "Java"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 403790222,
-      "company": "Wavestone",
-      "title": "Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-24T08:38:36.624Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000151559719-consultant-e-en-transformation-digitale-boosting-cto-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
       ],
       "matchScore": 53,
       "status": "active",
@@ -601,25 +640,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1655054832,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-11T07:17:05.427Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000148939998-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 568959284,
       "company": "Sopra Steria",
       "title": "Stage - Développeur Fullstack – Défense & Sécurité – Île-de-France",
@@ -965,23 +985,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 2038579298,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Assistant Commercial - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-20T14:15:22.449Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000138656021-alternance-assistant-commercial-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 2033887422,
       "company": "Sopra Steria",
       "title": "Alternance - Consultant.e Conseil - Transformation digitale - Edition de logiciels - Limonest ou Ile de France",
@@ -1110,23 +1113,6 @@
       "publishedAt": "2026-06-17T08:01:40.644Z",
       "url": "https://jobs.smartrecruiters.com/Wavestone1/744000132576800-communication-marketing-officer-alternance?oga=true",
       "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1142271600,
-      "company": "ALTAREA",
-      "title": "Alternant - Stratégie d'Adoption & Usages IA- Copilot 365 - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-06-16T09:41:03.651Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000132375908-alternant-strategie-d-adoption-usages-ia-copilot-365-f-h?oga=true",
-      "category": "Data",
       "remote": false,
       "skills": [
         "Excel"
