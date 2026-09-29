@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-29T08:29:17.890Z",
-  "count": 88,
+  "generatedAt": "2026-09-29T15:50:55.273Z",
+  "count": 87,
   "jobs": [
+    {
+      "id": 758454020,
+      "company": "Talan",
+      "title": "Alternance - Business Development - Secteurs Energie, Industrie ou Finance  (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-29T08:37:22.368Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000152357849-alternance-business-development-secteurs-energie-industrie-ou-finance-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 425499024,
       "company": "Wavestone",
@@ -951,23 +968,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 35917966,
-      "company": "Talan",
-      "title": "Alternance - Business Development - Secteurs Industrie & Finance  (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-28T09:07:13.446Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000140183171-alternance-business-development-secteurs-industrie-finance-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1267460242,
       "company": "ALTAREA",
       "title": "ALTERNANCE - Assistant Responsable Relations Clients - F/H",
@@ -1292,23 +1292,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 629052348,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Assistant Copropriété / Syndic F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-22T15:05:02.937Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122279579-alternance-assistant-copropriete-syndic-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
