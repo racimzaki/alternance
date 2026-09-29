@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-29T01:56:54.608Z",
-  "count": 87,
+  "generatedAt": "2026-09-29T08:29:17.890Z",
+  "count": 88,
   "jobs": [
+    {
+      "id": 425499024,
+      "company": "Wavestone",
+      "title": "Public Sector - Consultant.e stagiaire/alternant",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-09-29T07:51:50.661Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000152348439-public-sector-consultant-e-stagiaire-alternant?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 370058996,
       "company": "Wavestone",
