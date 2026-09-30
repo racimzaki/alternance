@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T00:26:37.132Z",
-  "count": 87,
+  "generatedAt": "2026-09-30T06:42:26.003Z",
+  "count": 85,
   "jobs": [
     {
       "id": 758454020,
@@ -1416,40 +1416,6 @@
       "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 723183470,
-      "company": "BNP Paribas",
-      "title": "Portzamparc- Alternance Chef de Projet (H/F) Marketing à Nantes",
-      "location": "Nantes, Pays de la Loire, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-02-27",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-alternance-chef-de-projet-h-f-marketing-a-nantes",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "SAP"
-      ],
-      "matchScore": 62,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 480424543,
-      "company": "BNP Paribas",
-      "title": "Portzamparc-Alternance -Assistant Gérant/Analyste (H/F) à Nantes",
-      "location": "Nantes, Pays de la Loire, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-02-27",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-alternance-assistant-gerant-analyste-h-f-a-nantes",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 215107678,
