@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-09-30T06:42:26.003Z",
-  "count": 85,
+  "generatedAt": "2026-09-30T13:42:16.890Z",
+  "count": 84,
   "jobs": [
+    {
+      "id": 670902213,
+      "company": "Talan",
+      "title": "Talan – Consultant Stagiaire de Fin d'études – Assurance & Santé (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-30T12:24:35.352Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000152671414-talan-consultant-stagiaire-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2013134706,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-30T09:24:14.260Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000152636898-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 758454020,
       "company": "Talan",
@@ -106,24 +141,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1477327472,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-25T17:04:02.133Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151902958-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1019,23 +1036,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 165780498,
-      "company": "Sogetrel",
-      "title": "Alternance - Juriste en droit social H/F",
-      "location": "Issy-les-Moulineaux",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-06T12:43:53.189Z",
-      "url": "https://jobs.smartrecruiters.com/Sogetrel/744000135996767-alternance-juriste-en-droit-social-h-f?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1553925163,
       "company": "Talan",
       "title": "Alternance - Administration Systèmes SAP - H/F",
@@ -1184,23 +1184,6 @@
       "contractType": "Full-time",
       "publishedAt": "2026-05-22T09:04:59.629Z",
       "url": "https://jobs.smartrecruiters.com/Talan/744000127837085-talan-alternant-conseil-en-management-en-transport-mobilites?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1408135115,
-      "company": "Talan",
-      "title": "Talan – Consultant Stagiaire de Fin d'études – Assurance & Santé (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-05-22T08:48:34.144Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000127835069-talan-consultant-stagiaire-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
