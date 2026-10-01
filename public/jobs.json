@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-10-01T05:51:30.913Z",
+  "generatedAt": "2026-10-01T13:12:10.395Z",
   "count": 84,
   "jobs": [
+    {
+      "id": 731755267,
+      "company": "Ubisoft",
+      "title": "Financing & Cash Planning Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-01T12:37:49.937Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000152928680-financing-cash-planning-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 670902213,
       "company": "Talan",
@@ -154,25 +171,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151788506-approvisionneur-euse-h-f-n?oga=true",
       "category": "BI",
       "remote": false,
-      "skills": [
-        "Power BI",
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 532973165,
-      "company": "Bosch Group",
-      "title": "Approvisionneur F/H/D",
-      "location": "Drancy",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-25T08:27:19.403Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151789060-approvisionneur-f-h-d?oga=true",
-      "category": "BI",
-      "remote": true,
       "skills": [
         "Power BI",
         "Excel",
