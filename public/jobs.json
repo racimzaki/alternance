@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-02T02:15:13.167Z",
-  "count": 84,
+  "generatedAt": "2026-10-02T08:34:25.895Z",
+  "count": 85,
   "jobs": [
+    {
+      "id": 2128819290,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-02T07:20:15.734Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153109238-apprenti-e-controleur-euse-de-gestion-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 731755267,
       "company": "Ubisoft",
