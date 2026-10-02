@@ -1,7 +1,80 @@
 {
-  "generatedAt": "2026-10-02T08:34:25.895Z",
-  "count": 85,
+  "generatedAt": "2026-10-02T15:48:31.233Z",
+  "count": 90,
   "jobs": [
+    {
+      "id": 1241226025,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-02T15:43:32.614Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153221249-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1243039377,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-02T14:38:32.422Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153202662-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1263302926,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-02T14:03:59.458Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153194096-ingenieur-e-devops-infrastructure-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1264309127,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-02T13:23:33.178Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153181783-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2128819290,
       "company": "Bosch Group",
@@ -21,6 +94,58 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 1545592741,
+      "company": "BNP Paribas",
+      "title": "Stage - Analyste Crédit Portfolio Management – Real Estate Capital Markets -H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-02",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-credit-portfolio-management-real-estate-capital-markets-h-f-1",
+      "category": "Data",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 71,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1493819861,
+      "company": "BNP Paribas",
+      "title": "Stage - Regulatory Reporting Officer H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-02",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-regulatory-reporting-officer-h-f",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "Python",
+        "Tableau"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1158268447,
+      "company": "BNP Paribas",
+      "title": "Product Manager Immobilier Intern H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-02",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/product-manager-immobilier-intern-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 731755267,
       "company": "Ubisoft",
       "title": "Financing & Cash Planning Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
@@ -38,6 +163,40 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 1311946722,
+      "company": "BNP Paribas",
+      "title": "Acheteur junior IT H/F",
+      "location": "Boulogne-Billancourt, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-01",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/acheteur-junior-it-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1577496708,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de projets partenariats - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-01",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-partenariats-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 670902213,
       "company": "Talan",
       "title": "Talan – Consultant Stagiaire de Fin d'études – Assurance & Santé (H/F)",
@@ -51,24 +210,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2013134706,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-30T09:24:14.260Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000152636898-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -140,42 +281,6 @@
         "SAP"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2115506368,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-28T07:29:25.102Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000152093538-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2114555072,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-28T06:32:58.289Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000152082769-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -755,25 +860,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 346246090,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-28T11:54:00.216Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000146168840-ingenieur-e-devops-infrastructure-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Scrum"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
