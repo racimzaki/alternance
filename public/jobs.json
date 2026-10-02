@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T15:48:31.233Z",
-  "count": 90,
+  "generatedAt": "2026-10-02T20:44:14.838Z",
+  "count": 91,
   "jobs": [
     {
       "id": 1241226025,
@@ -94,6 +94,61 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 1158268479,
+      "company": "BNP Paribas",
+      "title": "Data Management Intern F/H",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-02",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/data-management-intern-f-h",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 80,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 871976748,
+      "company": "BNP Paribas",
+      "title": "Portfolio Manager Analyst Multi Credit H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-02",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portfolio-manager-analyst-multi-credit-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 871976748,
+      "company": "BNP Paribas",
+      "title": "Portfolio Manager Analyst Multi Credit M/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-02",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portfolio-manager-analyst-multi-credit-m-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 1545592741,
       "company": "BNP Paribas",
       "title": "Stage - Analyste Crédit Portfolio Management – Real Estate Capital Markets -H/F",
@@ -161,40 +216,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1311946722,
-      "company": "BNP Paribas",
-      "title": "Acheteur junior IT H/F",
-      "location": "Boulogne-Billancourt, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-01",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/acheteur-junior-it-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1577496708,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projets partenariats - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-01",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-partenariats-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 670902213,
