@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:03:30.753Z",
+  "generatedAt": "2026-10-04T02:38:34.334Z",
   "count": 91,
   "jobs": [
     {
@@ -149,23 +149,6 @@
       "source": "BNP Paribas Careers"
     },
     {
-      "id": 1545592741,
-      "company": "BNP Paribas",
-      "title": "Stage - Analyste Crédit Portfolio Management – Real Estate Capital Markets -H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-02",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-credit-portfolio-management-real-estate-capital-markets-h-f-1",
-      "category": "Data",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 71,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 1493819861,
       "company": "BNP Paribas",
       "title": "Stage - Regulatory Reporting Officer H/F",
@@ -216,6 +199,23 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1311946722,
+      "company": "BNP Paribas",
+      "title": "Acheteur junior IT H/F",
+      "location": "Boulogne-Billancourt, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-01",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/acheteur-junior-it-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 670902213,
