@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T23:09:01.485Z",
-  "count": 91,
+  "generatedAt": "2026-10-05T02:00:14.464Z",
+  "count": 89,
   "jobs": [
     {
       "id": 1241226025,
@@ -94,25 +94,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1158268479,
-      "company": "BNP Paribas",
-      "title": "Data Management Intern F/H",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-02",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/data-management-intern-f-h",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 80,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 871976748,
       "company": "BNP Paribas",
       "title": "Portfolio Manager Analyst Multi Credit H/F",
@@ -149,41 +130,6 @@
       "source": "BNP Paribas Careers"
     },
     {
-      "id": 1493819861,
-      "company": "BNP Paribas",
-      "title": "Stage - Regulatory Reporting Officer H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-02",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-regulatory-reporting-officer-h-f",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "Python",
-        "Tableau"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1158268447,
-      "company": "BNP Paribas",
-      "title": "Product Manager Immobilier Intern H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-02",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/product-manager-immobilier-intern-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 731755267,
       "company": "Ubisoft",
       "title": "Financing & Cash Planning Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
@@ -214,6 +160,23 @@
         "À analyser"
       ],
       "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1577496708,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de projets partenariats - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-01",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-partenariats-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
