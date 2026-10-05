@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-10-05T02:00:14.464Z",
-  "count": 89,
+  "generatedAt": "2026-10-05T09:02:52.652Z",
+  "count": 88,
   "jobs": [
+    {
+      "id": 1183758288,
+      "company": "Sopra Steria",
+      "title": "Développeur/se - Full Stack - Défense & Sécurité - Ile de France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-05T08:13:04.837Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153428328-developpeur-se-full-stack-defense-securite-ile-de-france?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Java"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 871976749,
+      "company": "BNP Paribas",
+      "title": "PM Analyst – Private Asset Based Lending H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-05",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/pm-analyst-private-asset-based-lending-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 1241226025,
       "company": "Sopra Steria",
@@ -92,42 +126,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 871976748,
-      "company": "BNP Paribas",
-      "title": "Portfolio Manager Analyst Multi Credit H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-02",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portfolio-manager-analyst-multi-credit-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 871976748,
-      "company": "BNP Paribas",
-      "title": "Portfolio Manager Analyst Multi Credit M/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-02",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portfolio-manager-analyst-multi-credit-m-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 731755267,
@@ -1501,23 +1499,6 @@
         "Java"
       ],
       "matchScore": 55,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 414974779,
-      "company": "Sopra Steria",
-      "title": "Développeur/se - Full Stack - Défense & Sécurité - Ile de France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-01-20T15:06:31.496Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000104483805-developpeur-se-full-stack-defense-securite-ile-de-france?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Java"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
