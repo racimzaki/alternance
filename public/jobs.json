@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-10-05T09:02:52.652Z",
-  "count": 88,
+  "generatedAt": "2026-10-05T18:26:50.123Z",
+  "count": 87,
   "jobs": [
+    {
+      "id": 1182062001,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant(e) SSI (Sécurité des Systèmes d'Information) – Prevent - Cybersécurité - Toulouse",
+      "location": "Colomiers",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-05T09:28:09.527Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153443166-stage-consultant-e-ssi-securite-des-systemes-d-information-prevent-cybersecurite-toulouse?oga=true",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1183758288,
       "company": "Sopra Steria",
@@ -18,6 +35,42 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1577496712,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de projet média - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-05",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projet-media-h-f-2",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1577496736,
+      "company": "BNP Paribas",
+      "title": "Stage - Chef de projet digital junior - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-05",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-digital-junior-h-f",
+      "category": "Product",
+      "remote": true,
+      "skills": [
+        "Agile",
+        "Jira",
+        "Java"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 871976749,
@@ -158,23 +211,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1577496708,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projets partenariats - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-01",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-partenariats-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
@@ -545,40 +581,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 739672103,
-      "company": "Wavestone",
-      "title": "Stagiaire/Alternant.e  Account Manager - Marseille",
-      "location": "Marseille",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-16T08:57:51.747Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149807793-stagiaire-alternant-e-account-manager-marseille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 739701705,
-      "company": "Wavestone",
-      "title": "Stagiaire/Alternant.e - Account Manager - Lyon",
-      "location": "Villeurbanne",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-16T08:57:04.679Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149808730-stagiaire-alternant-e-account-manager-lyon?oga=true",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1410,23 +1412,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 274955463,
-      "company": "Sopra Steria",
-      "title": "Delivery Manager - Infrastructure & Cloud - Biot",
-      "location": "Biot",
-      "contractType": "Full-time",
-      "publishedAt": "2026-03-30T09:16:58.268Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000117597146-delivery-manager-infrastructure-cloud-biot?oga=true",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
