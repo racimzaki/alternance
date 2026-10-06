@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-10-06T07:33:53.606Z",
-  "count": 88,
+  "generatedAt": "2026-10-06T15:11:16.255Z",
+  "count": 89,
   "jobs": [
+    {
+      "id": 1093429000,
+      "company": "Sopra Steria",
+      "title": "Stage Ingénieur(e) logiciel DATA / Data Engineering – Services Publics – Bordeaux",
+      "location": "Mérignac",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-06T13:56:51.539Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153772658-stage-ingenieur-e-logiciel-data-data-engineering-services-publics-bordeaux?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Python",
+        "Tableau"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1120093967,
+      "company": "Sopra Steria",
+      "title": "Stage - Conception et Déploiement d’Agents IA  - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-06T08:45:11.760Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153696421-stage-conception-et-deploiement-d-agents-ia-infrastructure-rennes?oga=true",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1121131654,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-06T07:43:08.376Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153682988-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1401511695,
       "company": "Wavestone",
@@ -86,6 +141,43 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1054484116,
+      "company": "BNP Paribas",
+      "title": "Stage - Data Consultant H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-06",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-consultant-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Jira"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 974553113,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de projets dialogue avec les parties prenantes externes - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-06",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-dialogue-avec-les-parties-prenantes-externes-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1182062001,
@@ -229,25 +321,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1264309127,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-02T13:23:33.178Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153181783-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 2128819290,
       "company": "Bosch Group",
       "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
@@ -281,40 +354,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1311946722,
-      "company": "BNP Paribas",
-      "title": "Acheteur junior IT H/F",
-      "location": "Boulogne-Billancourt, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-01",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/acheteur-junior-it-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1577496708,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projets partenariats - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-01",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-partenariats-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 670902213,
@@ -1118,23 +1157,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2033887422,
-      "company": "Sopra Steria",
-      "title": "Alternance - Consultant.e Conseil - Transformation digitale - Edition de logiciels - Limonest ou Ile de France",
-      "location": "Limonest",
-      "contractType": "Intern",
-      "publishedAt": "2026-07-07T22:26:46.606Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000136340418-alternance-consultant-e-conseil-transformation-digitale-edition-de-logiciels-limonest-ou-ile-de-france?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
