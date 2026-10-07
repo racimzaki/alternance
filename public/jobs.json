@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-07T00:41:41.070Z",
-  "count": 89,
+  "generatedAt": "2026-10-07T07:13:59.721Z",
+  "count": 91,
   "jobs": [
+    {
+      "id": 411009388,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - SAP Excellence Center - Ile-de-France",
+      "location": "Courbevoie",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-07T07:12:02.025Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154020374-stage-consultant-e-sap-sap-excellence-center-ile-de-france?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1093429000,
       "company": "Sopra Steria",
@@ -354,6 +372,23 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1577496708,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de projets partenariats - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-01",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-partenariats-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 670902213,
