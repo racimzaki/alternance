@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-10-08T07:23:52.063Z",
-  "count": 94,
+  "generatedAt": "2026-10-08T15:36:05.768Z",
+  "count": 93,
   "jobs": [
+    {
+      "id": 321340334,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-08T07:36:38.133Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154363198-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1577496674,
+      "company": "BNP Paribas",
+      "title": "Stage - Assistant Data Analyst H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-08",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-assistant-data-analyst-h-f",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 93,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1199960139,
+      "company": "BNP Paribas",
+      "title": "Stage - Analyste Financial Institutions Coverage - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-08",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-financial-institutions-coverage-h-f-2",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1754327804,
+      "company": "BNP Paribas",
+      "title": "Stage - Data analyst ALMT BPMiX - F/H",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-08",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-almt-bpmix-f-h",
+      "category": "Data",
+      "remote": true,
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1545592743,
+      "company": "BNP Paribas",
+      "title": "Stage - Analyste Quantitatif Titrisation - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-08",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-quantitatif-titrisation-h-f-1",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1544227173,
+      "company": "BNP Paribas",
+      "title": "Stage - Investment Analyst - Infrastructure Debt F/H",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-08",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-investment-analyst-infrastructure-debt-h-f-1",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 2014557885,
       "company": "Ubisoft",
@@ -127,25 +232,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1121131654,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-06T07:43:08.376Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153682988-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1401511695,
       "company": "Wavestone",
       "title": "Capitalisation de convictions sur les sujets de pilotage grands programmes pour alimenter les livrables à destination des clients ? (Stage de fin d'études)",
@@ -231,23 +317,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 974553113,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projets dialogue avec les parties prenantes externes - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-06",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-dialogue-avec-les-parties-prenantes-externes-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 1182062001,
       "company": "Sopra Steria",
       "title": "Stage - Consultant(e) SSI (Sécurité des Systèmes d'Information) – Prevent - Cybersécurité - Toulouse",
@@ -280,59 +349,6 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1577496712,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projet média - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-05",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projet-media-h-f-2",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1577496736,
-      "company": "BNP Paribas",
-      "title": "Stage - Chef de projet digital junior - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-05",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-digital-junior-h-f",
-      "category": "Product",
-      "remote": true,
-      "skills": [
-        "Agile",
-        "Jira",
-        "Java"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 871976749,
-      "company": "BNP Paribas",
-      "title": "PM Analyst – Private Asset Based Lending H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-05",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/pm-analyst-private-asset-based-lending-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1241226025,
@@ -422,23 +438,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1577496708,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projets partenariats - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-01",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-partenariats-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 670902213,
@@ -739,25 +738,6 @@
         "Agile"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1378718810,
-      "company": "Inetum",
-      "title": "Consultant Agentic AI - Framework ADK (H/F)",
-      "location": "SAINT-OUEN-SUR-SEINE",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-15T12:41:06.326Z",
-      "url": "https://jobs.smartrecruiters.com/Inetum2/744000149592949-consultant-agentic-ai-framework-adk-h-f-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Python",
-        "BPMN"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
