@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-09T02:09:07.506Z",
-  "count": 93,
+  "generatedAt": "2026-10-09T09:02:28.794Z",
+  "count": 88,
   "jobs": [
+    {
+      "id": 241081525,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-09T07:31:50.303Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154600373-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 321340334,
       "company": "Sopra Steria",
@@ -20,92 +38,6 @@
       "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1577496674,
-      "company": "BNP Paribas",
-      "title": "Stage - Assistant Data Analyst H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-08",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-assistant-data-analyst-h-f",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 93,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1199960139,
-      "company": "BNP Paribas",
-      "title": "Stage - Analyste Financial Institutions Coverage - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-08",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-financial-institutions-coverage-h-f-2",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1754327804,
-      "company": "BNP Paribas",
-      "title": "Stage - Data analyst ALMT BPMiX - F/H",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-08",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-almt-bpmix-f-h",
-      "category": "Data",
-      "remote": true,
-      "skills": [
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 75,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1545592743,
-      "company": "BNP Paribas",
-      "title": "Stage - Analyste Quantitatif Titrisation - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-08",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-quantitatif-titrisation-h-f-1",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1544227173,
-      "company": "BNP Paribas",
-      "title": "Stage - Investment Analyst - Infrastructure Debt F/H",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-08",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-investment-analyst-infrastructure-debt-h-f-1",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 2014557885,
@@ -347,24 +279,6 @@
         "Java"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1241226025,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-02T15:43:32.614Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153221249-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
