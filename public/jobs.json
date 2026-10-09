@@ -1,7 +1,93 @@
 {
-  "generatedAt": "2026-10-09T09:02:28.794Z",
-  "count": 88,
+  "generatedAt": "2026-10-09T16:11:34.459Z",
+  "count": 89,
   "jobs": [
+    {
+      "id": 211289589,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - Services Publics - Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-09T15:37:14.311Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154718469-business-analyst-services-publics-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 232594131,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-09T14:24:08.786Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154696020-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 249417259,
+      "company": "Inetum",
+      "title": "C&B Analyst Junior - Alternance",
+      "location": "SAINT-OUEN-SUR-SEINE",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-09T13:51:54.717Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000154688199-c-b-analyst-junior-alternance?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 239050152,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
+      "location": "Saint-Herblain",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-09T09:16:22.988Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154626918-ingenieur-e-devops-infrastructure-nantes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 239081616,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-09T09:14:35.773Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154625799-ingenieur-e-devops-infrastructure-rennes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 241081525,
       "company": "Sopra Steria",
@@ -283,23 +369,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1243039377,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-02T14:38:32.422Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153202662-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1263302926,
       "company": "Sopra Steria",
       "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
@@ -457,40 +526,6 @@
         "À analyser"
       ],
       "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1427393788,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-25T07:49:05.354Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151780518-ingenieur-e-devops-infrastructure-rennes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1426739433,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
-      "location": "Saint-Herblain",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-25T07:48:36.814Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151779641-ingenieur-e-devops-infrastructure-nantes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1154,23 +1189,6 @@
         "SAP"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 433673244,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - Services Publics - Île-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-06-25T08:09:38.297Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000134198789-business-analyst-services-publics-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
     },
