@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T20:53:31.629Z",
-  "count": 89,
+  "generatedAt": "2026-10-10T00:49:30.123Z",
+  "count": 88,
   "jobs": [
     {
       "id": 211289589,
@@ -331,23 +331,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1182062001,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant(e) SSI (Sécurité des Systèmes d'Information) – Prevent - Cybersécurité - Toulouse",
-      "location": "Colomiers",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-05T09:28:09.527Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153443166-stage-consultant-e-ssi-securite-des-systemes-d-information-prevent-cybersecurite-toulouse?oga=true",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
