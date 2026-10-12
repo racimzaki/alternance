@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-12T05:56:01.632Z",
-  "count": 88,
+  "generatedAt": "2026-10-12T15:22:27.148Z",
+  "count": 89,
   "jobs": [
+    {
+      "id": 479412730,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-12T15:19:21.962Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155055238-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2066887742,
+      "company": "BNP Paribas",
+      "title": "Chef de Projet ESG H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-12",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-esg-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 211289589,
       "company": "Sopra Steria",
@@ -103,25 +139,6 @@
         "SAP"
       ],
       "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 321340334,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-08T07:36:38.133Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154363198-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
