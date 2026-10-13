@@ -1,7 +1,200 @@
 {
-  "generatedAt": "2026-10-13T11:47:17.101Z",
-  "count": 82,
+  "generatedAt": "2026-10-13T19:16:26.983Z",
+  "count": 93,
   "jobs": [
+    {
+      "id": 532056434,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-13T09:09:48.188Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155205578-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1261595819,
+      "company": "Wavestone",
+      "title": "Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-13T06:47:49.989Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173244-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1261595845,
+      "company": "Wavestone",
+      "title": "Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-13T06:47:28.614Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173239-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1261596713,
+      "company": "Wavestone",
+      "title": "Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-13T06:47:05.975Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173169-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1261597643,
+      "company": "Wavestone",
+      "title": "Capitalisation de convictions sur les sujets de pilotage grands programmes pour alimenter les livrables à destination des clients ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-13T06:46:45.653Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173079-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-pour-alimenter-les-livrables-a-destination-des-clients-stage-de-fin-d-etudes-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1261654466,
+      "company": "Wavestone",
+      "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-13T06:37:00.424Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155171339-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1950173472,
+      "company": "BNP Paribas",
+      "title": "Stage - Analyste Quantitatif H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-13",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-quantitatif-h-f-3",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1864987732,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de Projet RH People Engagement & Culture H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-13",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projet-rh-people-engagement-culture-h-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1864987708,
+      "company": "BNP Paribas",
+      "title": "Stage - Analyste Pilotage et Transformation Digitale H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-13",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-pilotage-et-transformation-digitale-h-f",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 668871933,
+      "company": "BNP Paribas",
+      "title": "Enterprise Data Management & Governance Lead – H/F",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-13",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/enterprise-data-management-governance-lead-h-f",
+      "category": "Data",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1864987677,
+      "company": "BNP Paribas",
+      "title": "Stage - PMO H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-13",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-pmo-h-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 68,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 479412730,
       "company": "Sopra Steria",
