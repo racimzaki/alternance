@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T15:08:09.459Z",
-  "count": 91,
+  "generatedAt": "2026-10-14T19:22:33.775Z",
+  "count": 94,
   "jobs": [
     {
       "id": 1101647368,
@@ -72,6 +72,57 @@
       "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 936932424,
+      "company": "BNP Paribas",
+      "title": "Chef de projet au sein de la direction technique nationale H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-14",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-au-sein-de-la-direction-technique-nationale-h-f-1",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 62,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 3015098,
+      "company": "BNP Paribas",
+      "title": "Stage – IA conversationnelle & Transformation digitale -H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-14",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-ia-conversationnelle-transformation-digitale-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 3015095,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de projet digital intégration et éditorial Hub RSE - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-14",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projet-digital-integration-et-editorial-hub-rse-h-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Tableau"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1757530372,
