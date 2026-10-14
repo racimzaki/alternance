@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T23:18:17.303Z",
-  "count": 93,
+  "generatedAt": "2026-10-14T04:51:51.908Z",
+  "count": 90,
   "jobs": [
     {
       "id": 532056434,
@@ -106,25 +106,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1950173472,
-      "company": "BNP Paribas",
-      "title": "Stage - Analyste Quantitatif H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-13",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-quantitatif-h-f-3",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 58,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 1864987732,
       "company": "BNP Paribas",
       "title": "Stage - Chargé de Projet RH People Engagement & Culture H/F",
@@ -142,25 +123,6 @@
       "source": "BNP Paribas Careers"
     },
     {
-      "id": 1864987708,
-      "company": "BNP Paribas",
-      "title": "Stage - Analyste Pilotage et Transformation Digitale H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-13",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-pilotage-et-transformation-digitale-h-f",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "Power BI",
-        "Excel",
-        "Tableau"
-      ],
-      "matchScore": 58,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 668871933,
       "company": "BNP Paribas",
       "title": "Enterprise Data Management & Governance Lead – H/F",
@@ -174,24 +136,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1864987677,
-      "company": "BNP Paribas",
-      "title": "Stage - PMO H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-13",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-pmo-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 68,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
