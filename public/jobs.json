@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-10-14T10:11:46.582Z",
-  "count": 92,
+  "generatedAt": "2026-10-14T15:08:09.459Z",
+  "count": 91,
   "jobs": [
+    {
+      "id": 1101647368,
+      "company": "Inetum",
+      "title": "Consultant Agentic AI - Framework ADK (H/F)",
+      "location": "SAINT-OUEN-SUR-SEINE",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-14T13:20:09.850Z",
+      "url": "https://jobs.smartrecruiters.com/Inetum2/744000155512074-consultant-agentic-ai-framework-adk-h-f-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Python",
+        "BPMN"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 297921597,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-10-14T11:37:51.647Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155487579-apprenti-e-controleur-euse-de-gestion-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1040217221,
       "company": "Ubisoft",
@@ -35,6 +72,23 @@
       "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1757530372,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de projets & Animation de communautés H/F",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-14",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-animation-de-communautes-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1950173473,
@@ -174,40 +228,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1864987732,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de Projet RH People Engagement & Culture H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-13",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projet-rh-people-engagement-culture-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 668871933,
-      "company": "BNP Paribas",
-      "title": "Enterprise Data Management & Governance Lead – H/F",
-      "location": "Montreuil, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-13",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/enterprise-data-management-governance-lead-h-f",
-      "category": "Data",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 479412730,
       "company": "Sopra Steria",
       "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
@@ -225,23 +245,6 @@
       "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 2066887742,
-      "company": "BNP Paribas",
-      "title": "Chef de Projet ESG H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-12",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-esg-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 211289589,
@@ -469,24 +472,6 @@
         "Scrum"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2128819290,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-02T07:20:15.734Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153109238-apprenti-e-controleur-euse-de-gestion-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
