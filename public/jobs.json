@@ -1,7 +1,75 @@
 {
-  "generatedAt": "2026-10-14T04:51:51.908Z",
-  "count": 90,
+  "generatedAt": "2026-10-14T10:11:46.582Z",
+  "count": 92,
   "jobs": [
+    {
+      "id": 1040217221,
+      "company": "Ubisoft",
+      "title": "Functional Support Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-14T10:00:36.766Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155466129-functional-support-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL"
+      ],
+      "matchScore": 55,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 591277935,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-14T07:35:29.422Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155429238-business-analyst-it-defense-securite-lille?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1950173473,
+      "company": "BNP Paribas",
+      "title": "Stage - Analyste Reporting Financier Junior H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-14",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-reporting-financier-junior-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1864987739,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de Reporting ESG H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-14",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-reporting-esg-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 532056434,
       "company": "Sopra Steria",
@@ -315,23 +383,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 98733318,
-      "company": "Inetum",
-      "title": "Alternant - Account Manager",
-      "location": "SAINT-OUEN-SUR-SEINE",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-07T13:25:20.363Z",
-      "url": "https://jobs.smartrecruiters.com/Inetum2/744000154103060-alternant-account-manager?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 411009388,
       "company": "Sopra Steria",
       "title": "Stage - Consultant/e SAP - SAP Excellence Center - Ile-de-France",
@@ -543,23 +594,6 @@
         "SAP"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1427484176,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-25T08:12:47.230Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151783630-business-analyst-it-defense-securite-lille?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
     },
