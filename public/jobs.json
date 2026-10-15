@@ -1,7 +1,76 @@
 {
-  "generatedAt": "2026-10-15T07:25:42.002Z",
+  "generatedAt": "2026-10-15T13:25:14.406Z",
   "count": 90,
   "jobs": [
+    {
+      "id": 955253258,
+      "company": "Ubisoft",
+      "title": "Functional Support IT Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-15T13:02:47.303Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155756139-functional-support-it-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL"
+      ],
+      "matchScore": 55,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1577496706,
+      "company": "BNP Paribas",
+      "title": "Stage - Product Owner Junior H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-15",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-product-owner-junior-h-f",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1950173474,
+      "company": "BNP Paribas",
+      "title": "Stage - Business Analyst H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-15",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-h-f",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1950173467,
+      "company": "BNP Paribas",
+      "title": "Stage - Marketing Digital Project Manager Junior H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-15",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-marketing-digital-project-manager-junior-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 1101647368,
       "company": "Inetum",
@@ -40,23 +109,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1040217221,
-      "company": "Ubisoft",
-      "title": "Functional Support Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-14T10:00:36.766Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155466129-functional-support-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "SQL"
-      ],
-      "matchScore": 55,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 591277935,
       "company": "Sopra Steria",
       "title": "Business Analyst - IT - Défense & Sécurité – Lille",
@@ -72,40 +124,6 @@
       "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 936932424,
-      "company": "BNP Paribas",
-      "title": "Chef de projet au sein de la direction technique nationale H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-14",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-au-sein-de-la-direction-technique-nationale-h-f-1",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 62,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1757530372,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projets & Animation de communautés H/F",
-      "location": "Montreuil, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-14",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-animation-de-communautes-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 532056434,
@@ -455,23 +473,6 @@
         "Scrum"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 731755267,
-      "company": "Ubisoft",
-      "title": "Financing & Cash Planning Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-01T12:37:49.937Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000152928680-financing-cash-planning-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
