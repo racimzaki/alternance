@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T23:13:14.580Z",
-  "count": 94,
+  "generatedAt": "2026-10-15T01:28:37.721Z",
+  "count": 90,
   "jobs": [
     {
       "id": 1101647368,
@@ -91,40 +91,6 @@
       "source": "BNP Paribas Careers"
     },
     {
-      "id": 3015098,
-      "company": "BNP Paribas",
-      "title": "Stage – IA conversationnelle & Transformation digitale -H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-14",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-ia-conversationnelle-transformation-digitale-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 3015095,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de projet digital intégration et éditorial Hub RSE - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-14",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projet-digital-integration-et-editorial-hub-rse-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Tableau"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 1757530372,
       "company": "BNP Paribas",
       "title": "Stage - Chargé de projets & Animation de communautés H/F",
@@ -134,40 +100,6 @@
       "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-projets-animation-de-communautes-h-f",
       "category": "Project Management",
       "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1950173473,
-      "company": "BNP Paribas",
-      "title": "Stage - Analyste Reporting Financier Junior H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-14",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-reporting-financier-junior-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1864987739,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de Reporting ESG H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-14",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-reporting-esg-h-f",
-      "category": "Autre",
-      "remote": false,
       "skills": [
         "Excel"
       ],
