@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T13:25:14.406Z",
-  "count": 90,
+  "generatedAt": "2026-10-15T18:17:39.143Z",
+  "count": 92,
   "jobs": [
     {
       "id": 955253258,
@@ -18,6 +18,60 @@
       "matchScore": 55,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1950173598,
+      "company": "BNP Paribas",
+      "title": "Stage - Data Analyst en Cybersécurité H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-15",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-en-cybersecurite-h-f",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Python",
+        "Agile"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1950173466,
+      "company": "BNP Paribas",
+      "title": "Stage - Data Scientist H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-15",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-h-f-3",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1950173436,
+      "company": "BNP Paribas",
+      "title": "Stage - AI Business Analyst H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-15",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-ai-business-analyst-h-f",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1577496706,
@@ -420,23 +474,6 @@
         "Tableau"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1120093967,
-      "company": "Sopra Steria",
-      "title": "Stage - Conception et Déploiement d’Agents IA  - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-06T08:45:11.760Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153696421-stage-conception-et-deploiement-d-agents-ia-infrastructure-rennes?oga=true",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
