@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T00:24:11.584Z",
-  "count": 92,
+  "generatedAt": "2026-10-16T05:51:34.966Z",
+  "count": 87,
   "jobs": [
     {
       "id": 955253258,
@@ -18,112 +18,6 @@
       "matchScore": 55,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1950173598,
-      "company": "BNP Paribas",
-      "title": "Stage - Data Analyst en Cybersécurité H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-15",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-en-cybersecurite-h-f",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Python",
-        "Agile"
-      ],
-      "matchScore": 78,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1950173466,
-      "company": "BNP Paribas",
-      "title": "Stage - Data Scientist H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-15",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-h-f-3",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 78,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1950173436,
-      "company": "BNP Paribas",
-      "title": "Stage - AI Business Analyst H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-15",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-ai-business-analyst-h-f",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 78,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1577496706,
-      "company": "BNP Paribas",
-      "title": "Stage - Product Owner Junior H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-15",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-product-owner-junior-h-f",
-      "category": "Product",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1950173474,
-      "company": "BNP Paribas",
-      "title": "Stage - Business Analyst H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-15",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-h-f",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Tableau"
-      ],
-      "matchScore": 78,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1950173467,
-      "company": "BNP Paribas",
-      "title": "Stage - Marketing Digital Project Manager Junior H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-15",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-marketing-digital-project-manager-junior-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1101647368,
@@ -178,6 +72,23 @@
       "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 936932424,
+      "company": "BNP Paribas",
+      "title": "Chef de projet au sein de la direction technique nationale H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-14",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-au-sein-de-la-direction-technique-nationale-h-f-1",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 62,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 532056434,
