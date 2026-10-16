@@ -1,7 +1,95 @@
 {
-  "generatedAt": "2026-10-16T05:51:34.966Z",
-  "count": 87,
+  "generatedAt": "2026-10-16T11:22:16.665Z",
+  "count": 82,
   "jobs": [
+    {
+      "id": 738059183,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-16T11:05:28.119Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155967347-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 736095769,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - Services Publics - Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-16T08:49:39.002Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155943619-business-analyst-services-publics-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 735318568,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-16T08:26:58.085Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155938399-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 3015101,
+      "company": "BNP Paribas",
+      "title": "STAGE - DATA ANALYST - H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-16",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-h-f",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 80,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 3015096,
+      "company": "BNP Paribas",
+      "title": "Stage - Chargé de Communication Data - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-10-16",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-communication-data-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 955253258,
       "company": "Ubisoft",
@@ -70,41 +158,6 @@
         "À analyser"
       ],
       "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 936932424,
-      "company": "BNP Paribas",
-      "title": "Chef de projet au sein de la direction technique nationale H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-14",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-au-sein-de-la-direction-technique-nationale-h-f-1",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 62,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 532056434,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-13T09:09:48.188Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155205578-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -209,58 +262,6 @@
         "Java"
       ],
       "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 211289589,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - Services Publics - Île-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-09T15:37:14.311Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154718469-business-analyst-services-publics-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 232594131,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-09T14:24:08.786Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154696020-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 249417259,
-      "company": "Inetum",
-      "title": "C&B Analyst Junior - Alternance",
-      "location": "SAINT-OUEN-SUR-SEINE",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-09T13:51:54.717Z",
-      "url": "https://jobs.smartrecruiters.com/Inetum2/744000154688199-c-b-analyst-junior-alternance?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Tableau"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -496,25 +497,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 532947999,
-      "company": "Bosch Group",
-      "title": "Approvisionneur·euse H/F/N",
-      "location": "Drancy",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-25T08:29:31.598Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151788506-approvisionneur-euse-h-f-n?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "Power BI",
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1392568326,
       "company": "Sopra Steria",
       "title": "Stage – Consultant(e) en Transformation et Ingénierie Aéronautique - Aeroline - Toulouse ",
@@ -638,23 +620,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 905717485,
-      "company": "Inetum",
-      "title": "Alternance - Account Manager ",
-      "location": "Pau",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-18T12:26:07.900Z",
-      "url": "https://jobs.smartrecruiters.com/Inetum2/744000150358766-alternance-account-manager-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1126,23 +1091,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1267460242,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Assistant Responsable Relations Clients - F/H",
-      "location": "Lille",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-23T08:51:11.442Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000139235979-alternance-assistant-responsable-relations-clients-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1957481407,
       "company": "ALTAREA",
       "title": "Responsable Comptable Mandants - F/H",
@@ -1174,23 +1122,6 @@
         "SAP"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2096135746,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Chargé de mission Risques et continuité d'activité, Contrôle Interne & Conformité - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-06-24T13:08:22.755Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000133947119-alternance-charge-de-mission-risques-et-continuite-d-activite-controle-interne-conformite-f-h?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "SAP"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1393,23 +1324,6 @@
       "contractType": "Full-time",
       "publishedAt": "2026-04-22T12:24:23.283Z",
       "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122249068-alternance-assistant-responsable-relations-clients-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 655832690,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Contrôleur de gestion - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-22T08:52:11.132Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122199729-alternance-controleur-de-gestion-f-h?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
