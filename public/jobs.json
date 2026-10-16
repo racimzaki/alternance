@@ -1,7 +1,111 @@
 {
-  "generatedAt": "2026-10-16T11:22:16.665Z",
-  "count": 82,
+  "generatedAt": "2026-10-16T16:38:17.336Z",
+  "count": 74,
   "jobs": [
+    {
+      "id": 1365010687,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-16T15:32:02.912Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000156033319-ingenieur-e-devops-infrastructure-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 407303456,
+      "company": "Wavestone",
+      "title": "Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-16T14:51:54.269Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024809-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 407336009,
+      "company": "Wavestone",
+      "title": "Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-16T14:51:23.930Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156023546-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 407306184,
+      "company": "Wavestone",
+      "title": "Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-16T14:51:06.210Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024559-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 407308075,
+      "company": "Wavestone",
+      "title": "Capitalisation de convictions sur les sujets de pilotage grands programmes pour alimenter les livrables à destination des clients ? (Stage de fin d'études)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-16T14:50:46.399Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024369-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-pour-alimenter-les-livrables-a-destination-des-clients-stage-de-fin-d-etudes-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 408168086,
+      "company": "Wavestone",
+      "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-16T14:42:35.746Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156016790-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 738059183,
       "company": "Sopra Steria",
@@ -53,42 +157,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 3015101,
-      "company": "BNP Paribas",
-      "title": "STAGE - DATA ANALYST - H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-16",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-h-f",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Excel",
-        "Tableau"
-      ],
-      "matchScore": 80,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 3015096,
-      "company": "BNP Paribas",
-      "title": "Stage - Chargé de Communication Data - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-10-16",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-charge-de-communication-data-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 955253258,
@@ -158,91 +226,6 @@
         "À analyser"
       ],
       "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1261595819,
-      "company": "Wavestone",
-      "title": "Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-13T06:47:49.989Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173244-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1261595845,
-      "company": "Wavestone",
-      "title": "Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-13T06:47:28.614Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173239-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1261596713,
-      "company": "Wavestone",
-      "title": "Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-13T06:47:05.975Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173169-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1261597643,
-      "company": "Wavestone",
-      "title": "Capitalisation de convictions sur les sujets de pilotage grands programmes pour alimenter les livrables à destination des clients ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-13T06:46:45.653Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155173079-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-pour-alimenter-les-livrables-a-destination-des-clients-stage-de-fin-d-etudes-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1261654466,
-      "company": "Wavestone",
-      "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-13T06:37:00.424Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000155171339-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -403,25 +386,6 @@
         "Java"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1263302926,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-02T14:03:59.458Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153194096-ingenieur-e-devops-infrastructure-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Scrum"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -816,24 +780,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 568959284,
-      "company": "Sopra Steria",
-      "title": "Stage - Développeur Fullstack – Défense & Sécurité – Île-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-03T13:51:36.568Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000147258410-stage-developpeur-fullstack-defense-securite-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 78,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1072140034,
       "company": "Bosch Group",
       "title": "Apprenti(e) chef(fe) de projet H/F/N",
@@ -847,23 +793,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2045929631,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
-      "location": "Marseille",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-01T13:07:13.296Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000146713139-alternance-assistant-responsable-de-programmes-h-f?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1232,23 +1161,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 2005481164,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
-      "location": "Tours",
-      "contractType": "Full-time",
-      "publishedAt": "2026-05-07T16:02:58.431Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000125180199-alternance-assistant-responsable-de-programmes-h-f?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 288773545,
       "company": "ALTAREA",
       "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
@@ -1283,40 +1195,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 577510021,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Assistant Responsable de Programmes - F/H",
-      "location": "Montpellier",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-23T09:25:29.469Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122413990-alternance-assistant-responsable-de-programmes-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 628335473,
-      "company": "ALTAREA",
-      "title": "Alternance - Assistant Gestion Locative - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-22T15:14:26.042Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122282769-alternance-assistant-gestion-locative-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 631827748,
       "company": "ALTAREA",
       "title": "ALTERNANCE - Assistant Responsable Relations Clients - F/H",
@@ -1330,23 +1208,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 656758197,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Assistant Responsable de Programmes - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-22T08:03:15.409Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122189507-alternance-assistant-responsable-de-programmes-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
