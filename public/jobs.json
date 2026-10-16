@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T16:38:17.336Z",
-  "count": 74,
+  "generatedAt": "2026-10-16T19:57:14.759Z",
+  "count": 70,
   "jobs": [
     {
       "id": 1365010687,
@@ -18,91 +18,6 @@
         "Scrum"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 407303456,
-      "company": "Wavestone",
-      "title": "Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:51:54.269Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024809-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 407336009,
-      "company": "Wavestone",
-      "title": "Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:51:23.930Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156023546-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 407306184,
-      "company": "Wavestone",
-      "title": "Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:51:06.210Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024559-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 407308075,
-      "company": "Wavestone",
-      "title": "Capitalisation de convictions sur les sujets de pilotage grands programmes pour alimenter les livrables à destination des clients ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:50:46.399Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024369-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-pour-alimenter-les-livrables-a-destination-des-clients-stage-de-fin-d-etudes-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 408168086,
-      "company": "Wavestone",
-      "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:42:35.746Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156016790-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -776,6 +691,24 @@
         "Java"
       ],
       "matchScore": 73,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 568959284,
+      "company": "Sopra Steria",
+      "title": "Stage - Développeur Fullstack – Défense & Sécurité – Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-09-03T13:51:36.568Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000147258410-stage-developpeur-fullstack-defense-securite-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 78,
       "status": "active",
       "source": "SmartRecruiters"
     },
