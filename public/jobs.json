@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-10-19T06:15:39.132Z",
+  "generatedAt": "2026-10-19T13:23:53.017Z",
   "count": 75,
   "jobs": [
+    {
+      "id": 210147550,
+      "company": "Ubisoft",
+      "title": "Functional Support IT Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-19T08:45:44.033Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000156260479-functional-support-it-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL"
+      ],
+      "matchScore": 55,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1365010687,
       "company": "Sopra Steria",
@@ -155,23 +172,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 955253258,
-      "company": "Ubisoft",
-      "title": "Functional Support IT Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-15T13:02:47.303Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155756139-functional-support-it-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "SQL"
-      ],
-      "matchScore": 55,
       "status": "active",
       "source": "SmartRecruiters"
     },
