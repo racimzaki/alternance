@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-19T13:23:53.017Z",
+  "generatedAt": "2026-10-19T19:55:18.188Z",
   "count": 75,
   "jobs": [
+    {
+      "id": 182235469,
+      "company": "Ubisoft",
+      "title": "Growth Marketing Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-19T15:27:51.255Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000156357220-growth-marketing-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Power BI",
+        "Excel"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 210147550,
       "company": "Ubisoft",
@@ -1103,23 +1121,6 @@
         "Agile"
       ],
       "matchScore": 98,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1294818675,
-      "company": "Wavestone",
-      "title": "Communication & Marketing Officer - Alternance",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-06-17T08:01:40.644Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000132576800-communication-marketing-officer-alternance?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
