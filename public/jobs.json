@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T10:03:25.200Z",
-  "count": 71,
+  "generatedAt": "2026-10-20T15:04:56.953Z",
+  "count": 70,
   "jobs": [
     {
       "id": 182235469,
@@ -1021,23 +1021,6 @@
       "contractType": "Full-time",
       "publishedAt": "2026-06-17T09:46:22.021Z",
       "url": "https://jobs.smartrecruiters.com/Talan/744000132601209-consultant-si-secteur-luxe-h-f-?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 98,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 110798366,
-      "company": "Talan",
-      "title": "Consultant SI - Secteur: Transport (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-06-17T08:29:00.799Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000132583415-consultant-si-secteur-transport-h-f-?oga=true",
       "category": "Business Analyst",
       "remote": false,
       "skills": [
