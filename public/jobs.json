@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T04:49:00.957Z",
-  "count": 73,
+  "generatedAt": "2026-10-20T10:03:25.200Z",
+  "count": 71,
   "jobs": [
     {
       "id": 182235469,
@@ -372,25 +372,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1093429000,
-      "company": "Sopra Steria",
-      "title": "Stage Ingénieur(e) logiciel DATA / Data Engineering – Services Publics – Bordeaux",
-      "location": "Mérignac",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-06T13:56:51.539Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153772658-stage-ingenieur-e-logiciel-data-data-engineering-services-publics-bordeaux?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Python",
-        "Tableau"
-      ],
-      "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1183758288,
       "company": "Sopra Steria",
       "title": "Développeur/se - Full Stack - Défense & Sécurité - Ile de France",
@@ -736,26 +717,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2012843626,
-      "company": "Sopra Steria",
-      "title": "Développeur/se Java - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-11T12:38:11.321Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149009799-developpeur-se-java-defense-securite-lille?oga=true",
-      "category": "Product",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Jira",
-        "Java"
-      ],
-      "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
     },
