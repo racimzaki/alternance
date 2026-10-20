@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T23:39:55.116Z",
-  "count": 75,
+  "generatedAt": "2026-10-20T04:49:00.957Z",
+  "count": 73,
   "jobs": [
     {
       "id": 182235469,
@@ -492,44 +492,6 @@
         "Excel"
       ],
       "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1368314391,
-      "company": "Sopra Steria",
-      "title": "Stage - Développeur(se) portail Web full stack Java / Angular - Energie & Telecom – Toulouse",
-      "location": "Colomiers",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-24T08:44:41.612Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151561118-stage-developpeur-se-portail-web-full-stack-java-angular-energie-telecom-toulouse?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile",
-        "Scrum",
-        "Java"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1367513099,
-      "company": "Sopra Steria",
-      "title": "Stage - Business Analyst /Tests - Services Publics - Toulouse",
-      "location": "Colomiers",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-24T08:25:25.689Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151555474-stage-business-analyst-tests-services-publics-toulouse?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Jira",
-        "Java"
-      ],
-      "matchScore": 80,
       "status": "active",
       "source": "SmartRecruiters"
     },
