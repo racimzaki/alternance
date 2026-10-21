@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-10-20T22:19:40.567Z",
-  "count": 70,
+  "generatedAt": "2026-10-21T01:34:46.245Z",
+  "count": 72,
   "jobs": [
+    {
+      "id": 1509024194,
+      "company": "Sopra Steria",
+      "title": "Stage - Business Analyst R&D (F/H) - Bidart ",
+      "location": "Bidart",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-20T12:17:38.644Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000156541709-stage-business-analyst-r-d-f-h-bidart-?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1484297694,
+      "company": "Sopra Steria",
+      "title": "Développeur/se Java - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-20T08:00:05.716Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000156488718-developpeur-se-java-defense-securite-lille?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Jira",
+        "Java"
+      ],
+      "matchScore": 73,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 182235469,
       "company": "Ubisoft",
