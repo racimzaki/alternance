@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-10-22T13:48:48.710Z",
+  "generatedAt": "2026-10-22T18:32:21.039Z",
   "count": 72,
   "jobs": [
+    {
+      "id": 2010991524,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - Services Publics - Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-22T15:02:54.896Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157165579-business-analyst-services-publics-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2039649638,
       "company": "Sopra Steria",
@@ -227,23 +244,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 736095769,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - Services Publics - Île-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-16T08:49:39.002Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155943619-business-analyst-services-publics-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
     },
