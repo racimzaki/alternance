@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-22T07:35:32.881Z",
-  "count": 73,
+  "generatedAt": "2026-10-22T13:48:48.710Z",
+  "count": 72,
   "jobs": [
+    {
+      "id": 2039649638,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-22T08:20:01.331Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157064630-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1363120750,
       "company": "Talan",
@@ -209,24 +227,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 738059183,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-16T11:05:28.119Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155967347-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1130,23 +1130,6 @@
       "contractType": "Full-time",
       "publishedAt": "2026-05-22T09:04:59.629Z",
       "url": "https://jobs.smartrecruiters.com/Talan/744000127837085-talan-alternant-conseil-en-management-en-transport-mobilites?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 288773545,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE – Assistant Responsable de Programmes – H/F",
-      "location": "Grenoble",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-28T08:41:10.101Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000123394005-alternance-assistant-responsable-de-programmes-h-f?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
