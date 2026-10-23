@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-23T13:25:58.760Z",
-  "count": 73,
+  "generatedAt": "2026-10-23T18:20:16.797Z",
+  "count": 72,
   "jobs": [
+    {
+      "id": 1477833298,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) assistant(e) gestionnaire commercial(e) et automatisation H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-23T14:13:12.876Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157491838-apprenti-e-assistant-e-gestionnaire-commercial-e-et-automatisation-h-f-n?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Tableau"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1924301737,
       "company": "Sopra Steria",
@@ -320,24 +338,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 297921597,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Contract",
-      "publishedAt": "2026-10-14T11:37:51.647Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155487579-apprenti-e-controleur-euse-de-gestion-h-f-n?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 591277935,
       "company": "Sopra Steria",
       "title": "Business Analyst - IT - Défense & Sécurité – Lille",
@@ -582,23 +582,6 @@
         "Java"
       ],
       "matchScore": 61,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 326887499,
-      "company": "Bosch Group",
-      "title": "Apprenti(e) Office Manager & Support Direction H/F/N",
-      "location": "Saint-Ouen-sur-Seine",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-22T12:39:25.468Z",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151024909-apprenti-e-office-manager-support-direction-h-f-n?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
