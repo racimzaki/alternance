@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-10-23T07:30:36.586Z",
-  "count": 72,
+  "generatedAt": "2026-10-23T13:25:58.760Z",
+  "count": 73,
   "jobs": [
+    {
+      "id": 1924301737,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-23T13:11:20.892Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157471341-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1924271938,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-23T13:10:32.067Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157472349-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1926142857,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant(e) SSI (Sécurité des Systèmes d'Information) – Prevent - Cybersécurité - Toulouse",
+      "location": "Colomiers",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-23T11:47:34.409Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157451992-stage-consultant-e-ssi-securite-des-systemes-d-information-prevent-cybersecurite-toulouse?oga=true",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2010991524,
       "company": "Sopra Steria",
@@ -248,23 +301,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 735318568,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-16T08:26:58.085Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155938399-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1101647368,
       "company": "Inetum",
       "title": "Consultant Agentic AI - Framework ADK (H/F)",
@@ -315,25 +351,6 @@
         "À analyser"
       ],
       "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 479412730,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-12T15:19:21.962Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155055238-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
