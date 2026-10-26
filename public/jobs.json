@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-10-26T06:11:58.778Z",
+  "generatedAt": "2026-10-26T13:00:00.589Z",
   "count": 72,
   "jobs": [
+    {
+      "id": 1839125356,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant(e) fonctionnel(le) Oracle - Aix-en-Provence",
+      "location": "Aix-en-Provence",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-26T10:16:05.202Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157768767-stage-consultant-e-fonctionnel-le-oracle-aix-en-provence?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Agile",
+        "SAP",
+        "Java"
+      ],
+      "matchScore": 61,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1477833298,
       "company": "Bosch Group",
@@ -561,27 +582,6 @@
         "Excel"
       ],
       "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1307514861,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant(e) fonctionnel(le) Oracle - Aix-en-Provence",
-      "location": "Aix-en-Provence",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-23T09:01:59.508Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151326533-stage-consultant-e-fonctionnel-le-oracle-aix-en-provence?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Excel",
-        "Agile",
-        "SAP",
-        "Java"
-      ],
-      "matchScore": 61,
       "status": "active",
       "source": "SmartRecruiters"
     },
