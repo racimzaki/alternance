@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-10-27T05:02:27.920Z",
-  "count": 65,
+  "generatedAt": "2026-10-27T10:33:26.909Z",
+  "count": 66,
   "jobs": [
+    {
+      "id": 711945459,
+      "company": "Wavestone",
+      "title": "Stage de fin d’études | Account Manager Junior – Industrie, Transport et Energie à l’ère de l’IA ",
+      "location": "Puteaux",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-26T15:45:01.660Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000157852930-stage-de-fin-d-etudes-account-manager-junior-industrie-transport-et-energie-a-l-ere-de-l-ia-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1839125356,
       "company": "Sopra Steria",
