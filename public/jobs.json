@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T16:38:46.815Z",
-  "count": 67,
+  "generatedAt": "2026-10-27T21:18:32.510Z",
+  "count": 64,
   "jobs": [
     {
       "id": 1153102174,
@@ -21,7 +21,7 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1957481407,
+      "id": 1272590213,
       "company": "ALTAREA",
       "title": "Responsable Comptable Mandants - F/H",
       "location": "Paris",
@@ -458,42 +458,6 @@
         "Agile"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2014557885,
-      "company": "Ubisoft",
-      "title": "Business Development Assistant – Internship (6-month) January 2027 (W/M/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-07T16:45:10.506Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000154155509-business-development-assistant-internship-6-month-january-2027-w-m-nb-?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "Power BI",
-        "Excel"
-      ],
-      "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2014590351,
-      "company": "Ubisoft",
-      "title": "Business Development Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-07T16:42:14.436Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000154154270-business-development-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "Power BI",
-        "Excel"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1080,23 +1044,6 @@
       "contractType": "Full-time",
       "publishedAt": "2026-04-22T12:24:23.283Z",
       "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122249068-alternance-assistant-responsable-relations-clients-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2141845324,
-      "company": "ALTAREA",
-      "title": "Alternance - Rémunération et avantages sociaux (C&B) - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-03-30T08:46:50.321Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000117590537-alternance-remuneration-et-avantages-sociaux-c-b-f-h?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
