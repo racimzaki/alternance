@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T08:28:46.660Z",
-  "count": 74,
+  "generatedAt": "2026-10-28T16:00:47.191Z",
+  "count": 72,
   "jobs": [
     {
       "id": 1153102174,
@@ -422,23 +422,6 @@
         "Excel"
       ],
       "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 408168086,
-      "company": "Wavestone",
-      "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:42:35.746Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156016790-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1203,23 +1186,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 631827748,
-      "company": "ALTAREA",
-      "title": "ALTERNANCE - Assistant Responsable Relations Clients - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-22T12:24:23.283Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000122249068-alternance-assistant-responsable-relations-clients-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
