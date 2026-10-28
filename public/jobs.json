@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T21:18:32.510Z",
-  "count": 64,
+  "generatedAt": "2026-10-28T01:20:07.884Z",
+  "count": 74,
   "jobs": [
     {
       "id": 1153102174,
@@ -38,6 +38,40 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 711997450,
+      "company": "Wavestone",
+      "title": "Stage de fin d’études | Account Manager Junior – Banque & Assurance à l’ère de l’IA",
+      "location": "Puteaux",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-26T15:46:51.374Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000157854164-stage-de-fin-d-etudes-account-manager-junior-banque-assurance-a-l-ere-de-l-ia?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 711937959,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études | Account Manager Junior • IA & Transformation • Grands Comptes ",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-26T15:45:29.639Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000157852192-stage-de-fin-d-etudes-account-manager-junior-ia-transformation-grands-comptes-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
       "id": 711945459,
       "company": "Wavestone",
       "title": "Stage de fin d’études | Account Manager Junior – Industrie, Transport et Energie à l’ère de l’IA ",
@@ -45,6 +79,23 @@
       "contractType": "Full-time",
       "publishedAt": "2026-10-26T15:45:01.660Z",
       "url": "https://jobs.smartrecruiters.com/Wavestone1/744000157852930-stage-de-fin-d-etudes-account-manager-junior-industrie-transport-et-energie-a-l-ere-de-l-ia-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 710149328,
+      "company": "Wavestone",
+      "title": "Stage - Audits techniques et tests d'intrusion : quelles nouvelles techniques d'attaque développer ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-26T14:38:54.156Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000157834029-stage-audits-techniques-et-tests-d-intrusion-quelles-nouvelles-techniques-d-attaque-developper-?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
@@ -892,6 +943,125 @@
         "Scrum"
       ],
       "matchScore": 71,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232202310,
+      "company": "Wavestone",
+      "title": "Stage - Cybersécurité des SI industriels : comment maîtriser les risques liés à l’Intelligence Artificielle et à l’industrie 4.0 ?",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:52:52.321Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140458551-stage-cybersecurite-des-si-industriels-comment-maitriser-les-risques-lies-a-l-intelligence-artificielle-et-a-l-industrie-4-0-?oga=true",
+      "category": "Data",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232172461,
+      "company": "Wavestone",
+      "title": "Stage - Data Privacy : comment garantir la protection des données personnelles clients ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:50:13.484Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140457535-stage-data-privacy-comment-garantir-la-protection-des-donnees-personnelles-clients-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232108228,
+      "company": "Wavestone",
+      "title": "Stage - Inventer la sensibilisation du futur",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:49:22.249Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140455084-stage-inventer-la-sensibilisation-du-futur?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232057079,
+      "company": "Wavestone",
+      "title": "Stage - Gestion de crise de grande ampleur : quelles solutions pour la résilience des entreprises ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:48:54.387Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140453915-stage-gestion-de-crise-de-grande-ampleur-quelles-solutions-pour-la-resilience-des-entreprises-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232171468,
+      "company": "Wavestone",
+      "title": "Stage - Cloud et sécurité : vers une association gagnante ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:48:16.183Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140457424-stage-cloud-et-securite-vers-une-association-gagnante-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232171442,
+      "company": "Wavestone",
+      "title": "Stage - Cybersécurité : comment protéger les activités financières les plus critiques ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:48:03.426Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140457419-stage-cybersecurite-comment-proteger-les-activites-financieres-les-plus-critiques-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1232139007,
+      "company": "Wavestone",
+      "title": "Stage - Panorama start-ups cyber en France : quelle est la pépite de demain ?",
+      "location": "Puteaux",
+      "contractType": "Intern",
+      "publishedAt": "2026-07-29T12:45:54.178Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140456190-stage-panorama-start-ups-cyber-en-france-quelle-est-la-pepite-de-demain-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
