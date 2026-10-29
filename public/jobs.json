@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-10-29T14:17:07.743Z",
+  "generatedAt": "2026-10-29T19:41:41.026Z",
   "count": 70,
   "jobs": [
+    {
+      "id": 329625911,
+      "company": "Talan",
+      "title": "Talan – Consultant Stagiaire IT de Fin d'études – Assurance & Santé (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-29T16:09:55.484Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000158562031-talan-consultant-stagiaire-it-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1012724937,
       "company": "Sopra Steria",
@@ -545,23 +562,6 @@
       "remote": false,
       "skills": [
         "Java"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 670902213,
-      "company": "Talan",
-      "title": "Talan – Consultant Stagiaire de Fin d'études – Assurance & Santé (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-30T12:24:35.352Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000152671414-talan-consultant-stagiaire-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
       ],
       "matchScore": 50,
       "status": "active",
