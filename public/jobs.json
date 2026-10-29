@@ -1,7 +1,149 @@
 {
-  "generatedAt": "2026-10-29T07:03:31.567Z",
-  "count": 72,
+  "generatedAt": "2026-10-29T14:17:07.743Z",
+  "count": 70,
   "jobs": [
+    {
+      "id": 1012724937,
+      "company": "Sopra Steria",
+      "title": "Stage - Développeur Fullstack – Défense & Sécurité – Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-29T13:46:28.999Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158523568-stage-developpeur-fullstack-defense-securite-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1012787530,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - SAP Excellence Center - Ile-de-France",
+      "location": "Courbevoie",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-29T13:46:04.877Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158521224-stage-consultant-e-sap-sap-excellence-center-ile-de-france?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1509978027,
+      "company": "Wavestone",
+      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-29T13:14:58.656Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000158516002-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1013651376,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
+      "location": "Saint-Herblain",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-29T13:12:48.758Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158513254-ingenieur-e-devops-infrastructure-nantes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1013587016,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-29T13:11:16.216Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158515748-ingenieur-e-devops-infrastructure-rennes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1623225022,
+      "company": "Ubisoft",
+      "title": "Mobile Data Analyst Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-29T10:02:57.276Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158476920-mobile-data-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Python"
+      ],
+      "matchScore": 85,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1485878231,
+      "company": "Wavestone",
+      "title": "Suggestion : Stage de fin d'études / Alternance - Finance & Achats : transformation par la Data et les SI",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-10-29T08:51:48.998Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000158463159-suggestion-stage-de-fin-d-etudes-alternance-finance-achats-transformation-par-la-data-et-les-si?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1038580579,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-29T08:03:40.659Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158453889-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1153102174,
       "company": "Sopra Steria",
@@ -141,25 +283,6 @@
         "Tableau"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1924301737,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-23T13:11:20.892Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157471341-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -358,74 +481,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 407303456,
-      "company": "Wavestone",
-      "title": "Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:51:54.269Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024809-quelle-strategie-de-sourcing-definir-et-mettre-en-uvre-pour-maximiser-performances-economique-et-operationnelle-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 407336009,
-      "company": "Wavestone",
-      "title": "Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:51:23.930Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156023546-comment-optimiser-les-processus-operationnels-en-tirant-profit-de-la-genai-afin-d-assurer-une-livraison-de-bout-en-bout-en-garantissant-la-qualite-de-ces-services-en-interne-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 407306184,
-      "company": "Wavestone",
-      "title": "Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:51:06.210Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024559-comment-structurer-et-piloter-l-architecture-pour-en-faire-un-levier-strategique-de-transformation-d-agilite-et-de-creation-de-valeur-durable-stage-de-fin-d-etudes-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 407308075,
-      "company": "Wavestone",
-      "title": "Capitalisation de convictions sur les sujets de pilotage grands programmes pour alimenter les livrables à destination des clients ? (Stage de fin d'études)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-16T14:50:46.399Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000156024369-capitalisation-de-convictions-sur-les-sujets-de-pilotage-grands-programmes-pour-alimenter-les-livrables-a-destination-des-clients-stage-de-fin-d-etudes-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1101647368,
       "company": "Inetum",
       "title": "Consultant Agentic AI - Framework ADK (H/F)",
@@ -462,40 +517,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 239050152,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
-      "location": "Saint-Herblain",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-09T09:16:22.988Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154626918-ingenieur-e-devops-infrastructure-nantes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 239081616,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-09T09:14:35.773Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154625799-ingenieur-e-devops-infrastructure-rennes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 2019053292,
       "company": "Ubisoft",
       "title": "Talent Acquisition & Campus Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
@@ -509,24 +530,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 411009388,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - SAP Excellence Center - Ile-de-France",
-      "location": "Courbevoie",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-07T07:12:02.025Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000154020374-stage-consultant-e-sap-sap-excellence-center-ile-de-france?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -738,23 +741,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 655630613,
-      "company": "Wavestone",
-      "title": "Stage de fin d'études / Alternance - Sujet de stage : Finance & Achats – Accompagner les transformations de ces métiers en s’appuyant sur la Data et les Systèmes d’Informations les plus performants ",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-15T08:06:26.662Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149527659-stage-de-fin-d-etudes-alternance-sujet-de-stage-finance-achats-accompagner-les-transformations-de-ces-metiers-en-s-appuyant-sur-la-data-et-les-systemes-d-informations-les-plus-performants-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 655597811,
       "company": "Wavestone",
       "title": "Stage de fin d'études / Alternance - Sujet de stage : Industrie 5.0 et performance des opérations, au cœur des stratégies et des transformations des acteurs industriels. ",
@@ -838,24 +824,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 568959284,
-      "company": "Sopra Steria",
-      "title": "Stage - Développeur Fullstack – Défense & Sécurité – Île-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-03T13:51:36.568Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000147258410-stage-developpeur-fullstack-defense-securite-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 78,
       "status": "active",
       "source": "SmartRecruiters"
     },
