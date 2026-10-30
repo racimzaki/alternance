@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-10-30T12:53:32.128Z",
-  "count": 70,
+  "generatedAt": "2026-10-30T18:37:08.401Z",
+  "count": 71,
   "jobs": [
+    {
+      "id": 948911561,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-30T16:23:58.829Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158796698-ingenieur-e-devops-infrastructure-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 950936485,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-30T15:07:44.308Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158770764-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 951624650,
+      "company": "Sopra Steria",
+      "title": "Incident Manager - Services financiers- Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-30T14:51:05.835Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158768438-incident-manager-services-financiers-ile-de-france?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 952518481,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-30T14:35:45.077Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158759400-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 956267240,
       "company": "Sopra Steria",
@@ -177,25 +249,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1038580579,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-29T08:03:40.659Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158453889-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1153102174,
       "company": "Sopra Steria",
       "title": "Data Engineer - Services Public - Rouen",
@@ -315,23 +368,6 @@
       "skills": [
         "Excel",
         "Tableau"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1924271938,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-23T13:10:32.067Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157472349-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
       ],
       "matchScore": 53,
       "status": "active",
@@ -475,25 +511,6 @@
         "SQL"
       ],
       "matchScore": 55,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1365010687,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-16T15:32:02.912Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000156033319-ingenieur-e-devops-infrastructure-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Scrum"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
