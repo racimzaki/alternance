@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-10-30T05:46:21.179Z",
+  "generatedAt": "2026-10-30T12:53:32.128Z",
   "count": 70,
   "jobs": [
+    {
+      "id": 956267240,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - Services Publics - Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-30T11:09:49.355Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158717939-business-analyst-services-publics-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1448925839,
+      "company": "ALTAREA",
+      "title": "Responsable Comptable Mandants - F/H",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-10-30T07:38:58.822Z",
+      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000158677809-responsable-comptable-mandants-f-h?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 329625911,
       "company": "Talan",
@@ -180,23 +214,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1272590213,
-      "company": "ALTAREA",
-      "title": "Responsable Comptable Mandants - F/H",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-27T12:12:04.003Z",
-      "url": "https://jobs.smartrecruiters.com/ALTAREA/744000158029569-responsable-comptable-mandants-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 711997450,
       "company": "Wavestone",
       "title": "Stage de fin d’études | Account Manager Junior – Banque & Assurance à l’ère de l’IA",
@@ -334,23 +351,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2010991524,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - Services Publics - Île-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-22T15:02:54.896Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157165579-business-analyst-services-publics-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
     },
