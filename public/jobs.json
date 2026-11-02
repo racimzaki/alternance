@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-02T02:30:01.106Z",
-  "count": 71,
+  "generatedAt": "2026-11-02T11:02:03.361Z",
+  "count": 72,
   "jobs": [
+    {
+      "id": 264495084,
+      "company": "Sopra Steria",
+      "title": "Alternance - PMO / Assistant(e) Chef(fe) de Projet - Spatial - Toulouse",
+      "location": "Toulouse",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-02T08:24:51.802Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159069484-alternance-pmo-assistant-e-chef-fe-de-projet-spatial-toulouse?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 60,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 948911561,
       "company": "Sopra Steria",
