@@ -1,21 +1,39 @@
 {
-  "generatedAt": "2026-11-02T11:02:03.361Z",
+  "generatedAt": "2026-11-02T20:46:26.708Z",
   "count": 72,
   "jobs": [
     {
-      "id": 264495084,
+      "id": 236971116,
       "company": "Sopra Steria",
-      "title": "Alternance - PMO / Assistant(e) Chef(fe) de Projet - Spatial - Toulouse",
-      "location": "Toulouse",
-      "contractType": "Intern",
-      "publishedAt": "2026-11-02T08:24:51.802Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159069484-alternance-pmo-assistant-e-chef-fe-de-projet-spatial-toulouse?oga=true",
-      "category": "Project Management",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-02T14:23:43.314Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159153172-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
       "remote": false,
       "skills": [
-        "À analyser"
+        "Excel",
+        "SAP"
       ],
-      "matchScore": 60,
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2010300231,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études / Alternance - Transport : Imaginez et accompagnez les mobilités de demain",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-02T13:05:01.892Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000159131411-stage-de-fin-d-etudes-alternance-transport-imaginez-et-accompagnez-les-mobilites-de-demain?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -404,24 +422,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2039649638,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-22T08:20:01.331Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157064630-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
