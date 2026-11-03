@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-03T10:51:31.710Z",
-  "count": 72,
+  "generatedAt": "2026-11-03T18:26:05.395Z",
+  "count": 71,
   "jobs": [
+    {
+      "id": 175834336,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-03T14:19:19.901Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159399738-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1952953394,
       "company": "Wavestone",
@@ -104,25 +123,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 952518481,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-30T14:35:45.077Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158759400-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -261,25 +261,6 @@
         "Agile"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1623225022,
-      "company": "Ubisoft",
-      "title": "Mobile Data Analyst Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-29T10:02:57.276Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158476920-mobile-data-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Power BI",
-        "Python"
-      ],
-      "matchScore": 85,
       "status": "active",
       "source": "SmartRecruiters"
     },
