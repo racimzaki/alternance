@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-03T02:54:46.858Z",
+  "generatedAt": "2026-11-03T10:51:31.710Z",
   "count": 72,
   "jobs": [
+    {
+      "id": 1952953394,
+      "company": "Wavestone",
+      "title": "Ingénieur d'affaires • Stage de fin d'études • IA & Transformation • Grands comptes",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-03T09:28:12.605Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000159334350-ingenieur-d-affaires-stage-de-fin-d-etudes-ia-transformation-grands-comptes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 236971116,
       "company": "Sopra Steria",
@@ -456,23 +473,6 @@
         "Agile"
       ],
       "matchScore": 98,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1509024194,
-      "company": "Sopra Steria",
-      "title": "Stage - Business Analyst R&D (F/H) - Bidart ",
-      "location": "Bidart",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-20T12:17:38.644Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000156541709-stage-business-analyst-r-d-f-h-bidart-?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 78,
       "status": "active",
       "source": "SmartRecruiters"
     },
