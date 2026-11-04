@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-04T06:18:30.181Z",
-  "count": 71,
+  "generatedAt": "2026-11-04T15:24:58.965Z",
+  "count": 72,
   "jobs": [
     {
-      "id": 175834336,
+      "id": 93826285,
       "company": "Sopra Steria",
       "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
       "location": "Angers",
       "contractType": "Full-time",
-      "publishedAt": "2026-11-03T14:19:19.901Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159399738-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "publishedAt": "2026-11-04T14:49:46.797Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159653088-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
@@ -18,6 +18,42 @@
         "Java"
       ],
       "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1729906434,
+      "company": "Ubisoft",
+      "title": "Mobile Data Analyst Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-04T14:04:08.734Z",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000159641259-mobile-data-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Python"
+      ],
+      "matchScore": 85,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1218264563,
+      "company": "Talan",
+      "title": "Talan – Consultant Stagiaire IT de Fin d'études – Assurance & Santé (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-04T09:19:51.690Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000159579340-talan-consultant-stagiaire-it-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -151,23 +187,6 @@
       "contractType": "Full-time",
       "publishedAt": "2026-10-30T07:38:58.822Z",
       "url": "https://jobs.smartrecruiters.com/ALTAREA/744000158677809-responsable-comptable-mandants-f-h?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 329625911,
-      "company": "Talan",
-      "title": "Talan – Consultant Stagiaire IT de Fin d'études – Assurance & Santé (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-29T16:09:55.484Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000158562031-talan-consultant-stagiaire-it-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
