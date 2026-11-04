@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-11-04T15:24:58.965Z",
+  "generatedAt": "2026-11-04T21:52:10.010Z",
   "count": 72,
   "jobs": [
+    {
+      "id": 404098982,
+      "company": "Devoteam",
+      "title": "Alternance - Ingénieur R&D Intelligence artificielle H/F",
+      "location": "Levallois-Perret",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-04T19:05:43.611Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000159709819-alternance-ingenieur-r-d-intelligence-artificielle-h-f?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 93826285,
       "company": "Sopra Steria",
@@ -422,23 +440,6 @@
         "Tableau"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1926142857,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant(e) SSI (Sécurité des Systèmes d'Information) – Prevent - Cybersécurité - Toulouse",
-      "location": "Colomiers",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-23T11:47:34.409Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157451992-stage-consultant-e-ssi-securite-des-systemes-d-information-prevent-cybersecurite-toulouse?oga=true",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
