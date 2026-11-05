@@ -1,25 +1,7 @@
 {
-  "generatedAt": "2026-11-05T10:53:48.533Z",
-  "count": 72,
+  "generatedAt": "2026-11-05T18:44:39.790Z",
+  "count": 71,
   "jobs": [
-    {
-      "id": 404098982,
-      "company": "Devoteam",
-      "title": "Alternance - Ingénieur R&D Intelligence artificielle H/F",
-      "location": "Levallois-Perret",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-04T19:05:43.611Z",
-      "url": "https://jobs.smartrecruiters.com/Devoteam/744000159709819-alternance-ingenieur-r-d-intelligence-artificielle-h-f?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
     {
       "id": 93826285,
       "company": "Sopra Steria",
