@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-11-09T07:57:52.718Z",
-  "count": 72,
+  "generatedAt": "2026-11-09T18:47:47.981Z",
+  "count": 73,
   "jobs": [
+    {
+      "id": 2047121362,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-09T13:46:28.407Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160618619-ingenieur-e-devops-infrastructure-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 58,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2071104823,
+      "company": "Sopra Steria",
+      "title": "Ingénieur/e Pédagogique - Business Line Solutions & Expertises - Toulouse",
+      "location": "Toulouse",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-09T09:46:06.141Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160569488-ingenieur-e-pedagogique-business-line-solutions-expertises-toulouse?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2072977904,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-09T08:04:18.799Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160548859-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2132228086,
       "company": "Sopra Steria",
@@ -168,42 +221,6 @@
       "contractType": "Intern",
       "publishedAt": "2026-11-02T13:05:01.892Z",
       "url": "https://jobs.smartrecruiters.com/Wavestone1/744000159131411-stage-de-fin-d-etudes-alternance-transport-imaginez-et-accompagnez-les-mobilites-de-demain?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 948911561,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-30T16:23:58.829Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158796698-ingenieur-e-devops-infrastructure-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Scrum"
-      ],
-      "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 950936485,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-30T15:07:44.308Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158770764-tech-lead-defense-securite-lille?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
