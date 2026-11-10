@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-10T09:47:52.501Z",
-  "count": 72,
+  "generatedAt": "2026-11-10T17:49:03.938Z",
+  "count": 71,
   "jobs": [
+    {
+      "id": 561205155,
+      "company": "Wavestone",
+      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-10T15:16:35.252Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000160902576-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 2047121362,
       "company": "Sopra Steria",
@@ -301,23 +318,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1509978027,
-      "company": "Wavestone",
-      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-29T13:14:58.656Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000158516002-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1485878231,
       "company": "Wavestone",
       "title": "Suggestion : Stage de fin d'études / Alternance - Finance & Achats : transformation par la Data et les SI",
@@ -528,23 +528,6 @@
         "Excel"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 210147550,
-      "company": "Ubisoft",
-      "title": "Functional Support IT Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-19T08:45:44.033Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000156260479-functional-support-it-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "SQL"
-      ],
-      "matchScore": 55,
       "status": "active",
       "source": "SmartRecruiters"
     },
