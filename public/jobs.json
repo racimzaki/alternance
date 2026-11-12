@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-12T02:58:08.783Z",
+  "generatedAt": "2026-11-12T11:04:31.862Z",
   "count": 73,
   "jobs": [
+    {
+      "id": 796803032,
+      "company": "Devoteam",
+      "title": "Alternance - Chef de projet junior/PMO H/F",
+      "location": "Levallois-Perret",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-12T09:45:10.530Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000161255519-alternance-chef-de-projet-junior-pmo-h-f?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 561205155,
       "company": "Wavestone",
@@ -138,23 +155,6 @@
         "Agile"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2108330119,
-      "company": "Sopra Steria",
-      "title": "Stage - Conception et Déploiement d’Agents IA  - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-06T09:52:19.613Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160156194-stage-conception-et-deploiement-d-agents-ia-infrastructure-rennes?oga=true",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
