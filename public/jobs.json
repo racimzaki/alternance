@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-11-13T00:21:33.139Z",
+  "generatedAt": "2026-11-13T07:55:53.034Z",
   "count": 73,
   "jobs": [
+    {
+      "id": 1215094228,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-13T07:53:34.318Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161436038-business-analyst-it-defense-securite-lille?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1215151025,
+      "company": "Sopra Steria",
+      "title": "Développeur/se Java - Défense & Sécurité – Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-13T07:51:10.501Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161434303-developpeur-se-java-defense-securite-lille?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Agile",
+        "Jira",
+        "Java"
+      ],
+      "matchScore": 73,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1279853358,
       "company": "Wavestone",
@@ -494,26 +531,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1484297694,
-      "company": "Sopra Steria",
-      "title": "Développeur/se Java - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-20T08:00:05.716Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000156488718-developpeur-se-java-defense-securite-lille?oga=true",
-      "category": "Product",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Agile",
-        "Jira",
-        "Java"
-      ],
-      "matchScore": 73,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 182235469,
       "company": "Ubisoft",
       "title": "Growth Marketing Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
@@ -528,23 +545,6 @@
         "Excel"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 591277935,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - IT - Défense & Sécurité – Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-14T07:35:29.422Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155429238-business-analyst-it-defense-securite-lille?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
       "status": "active",
       "source": "SmartRecruiters"
     },
