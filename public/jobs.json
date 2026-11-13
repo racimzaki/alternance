@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-11-13T07:55:53.034Z",
-  "count": 73,
+  "generatedAt": "2026-11-13T16:20:22.869Z",
+  "count": 72,
   "jobs": [
+    {
+      "id": 1189286575,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Lyon",
+      "location": "Limonest",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-13T15:01:58.640Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161504936-ingenieur-e-devops-lyon?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1214166963,
+      "company": "Sopra Steria",
+      "title": "Business Analyst - Services Publics - Île-de-France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-13T09:30:17.303Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161446401-business-analyst-services-publics-ile-de-france?oga=true",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 75,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1215094228,
       "company": "Sopra Steria",
@@ -123,41 +157,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2132228086,
-      "company": "Sopra Steria",
-      "title": "Business Analyst - Services Publics - Île-de-France",
-      "location": "Courbevoie",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-06T13:31:44.780Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160202739-business-analyst-services-publics-ile-de-france?oga=true",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 75,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2109313067,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-06T10:47:57.692Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160168144-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -688,23 +687,6 @@
         "Java"
       ],
       "matchScore": 80,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 510607477,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Lyon",
-      "location": "Limonest",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-21T12:28:05.165Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150679719-ingenieur-e-devops-lyon?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
