@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-11-16T02:04:31.946Z",
+  "generatedAt": "2026-11-16T09:40:34.459Z",
   "count": 74,
   "jobs": [
+    {
+      "id": 1126610159,
+      "company": "Sopra Steria",
+      "title": "Team Lead cybersécurité service MCS (veille de vulnérabilité) - Défense & Sécurité - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-16T09:38:01.027Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161760532-team-lead-cybersecurite-service-mcs-veille-de-vulnerabilite-defense-securite-rennes?oga=true",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Agile",
+        "Jira",
+        "Scrum",
+        "SAP"
+      ],
+      "matchScore": 61,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1950173501,
       "company": "BNP Paribas",
@@ -106,23 +128,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 796803032,
-      "company": "Devoteam",
-      "title": "Alternance - Chef de projet junior/PMO H/F",
-      "location": "Levallois-Perret",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-12T09:45:10.530Z",
-      "url": "https://jobs.smartrecruiters.com/Devoteam/744000161255519-alternance-chef-de-projet-junior-pmo-h-f?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
