@@ -1,28 +1,111 @@
 {
-  "generatedAt": "2026-11-16T09:40:34.459Z",
-  "count": 74,
+  "generatedAt": "2026-11-16T20:28:07.458Z",
+  "count": 76,
   "jobs": [
     {
-      "id": 1126610159,
-      "company": "Sopra Steria",
-      "title": "Team Lead cybersécurité service MCS (veille de vulnérabilité) - Défense & Sécurité - Rennes",
-      "location": "Cesson-Sévigné",
+      "id": 212195756,
+      "company": "Talan",
+      "title": "Talan – Consultant Stagiaire IT de Fin d'études – Assurance & Santé (H/F)",
+      "location": "Paris",
       "contractType": "Full-time",
-      "publishedAt": "2026-11-16T09:38:01.027Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161760532-team-lead-cybersecurite-service-mcs-veille-de-vulnerabilite-defense-securite-rennes?oga=true",
-      "category": "BI",
+      "publishedAt": "2026-11-16T10:07:09.231Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000161764065-talan-consultant-stagiaire-it-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
+      "category": "Autre",
       "remote": false,
       "skills": [
-        "Power BI",
-        "Excel",
-        "Agile",
-        "Jira",
-        "Scrum",
-        "SAP"
+        "À analyser"
       ],
-      "matchScore": 61,
+      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1397052077,
+      "company": "Wavestone",
+      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-16T10:06:27.419Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000161764634-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 974553111,
+      "company": "BNP Paribas",
+      "title": "Stage - Data Scientist en Risques Environnementaux H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-16",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-en-risques-environnementaux-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 2098141122,
+      "company": "BNP Paribas",
+      "title": "STAGE – Business Analyst CIB IT (H/F)",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-16",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-cib-it-h-f-1",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "SQL",
+        "Python",
+        "Java"
+      ],
+      "matchScore": 80,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 2110247199,
+      "company": "BNP Paribas",
+      "title": "Analyste Reporting Financier - Credit Synthesis H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-16",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/analyste-reporting-financier-credit-synthesis-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1997345855,
+      "company": "BNP Paribas",
+      "title": "Pilote d’Exploitation Immobilière Data Center - H/F",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-16",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/pilote-d-exploitation-immobiliere-data-center-h-f",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1950173501,
@@ -113,40 +196,6 @@
       "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1279853358,
-      "company": "Wavestone",
-      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-11-12T16:05:55.196Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000161337549-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 450917603,
-      "company": "BNP Paribas",
-      "title": "Stage - Chef de Projet Marketing - (H/F)",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-12",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-marketing-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 2047121362,
@@ -270,23 +319,6 @@
         "Python"
       ],
       "matchScore": 85,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1218264563,
-      "company": "Talan",
-      "title": "Talan – Consultant Stagiaire IT de Fin d'études – Assurance & Santé (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-04T09:19:51.690Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000159579340-talan-consultant-stagiaire-it-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
