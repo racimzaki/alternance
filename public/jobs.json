@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-15T21:48:06.768Z",
-  "count": 73,
+  "generatedAt": "2026-11-16T02:04:31.946Z",
+  "count": 74,
   "jobs": [
+    {
+      "id": 1950173501,
+      "company": "BNP Paribas",
+      "title": "Stage - Finance Data Analyst H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-16",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-finance-data-analyst-h-f",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 80,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 1189286575,
       "company": "Sopra Steria",
