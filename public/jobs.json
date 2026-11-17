@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-16T20:28:07.458Z",
-  "count": 76,
+  "generatedAt": "2026-11-17T03:52:13.723Z",
+  "count": 75,
   "jobs": [
+    {
+      "id": 1544228260,
+      "company": "BNP Paribas",
+      "title": "Ingénieur - Analyste Financier Actions H/F",
+      "location": "defense, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-17",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/ingenieur-analyste-financier-actions-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 212195756,
       "company": "Talan",
@@ -37,43 +54,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 974553111,
-      "company": "BNP Paribas",
-      "title": "Stage - Data Scientist en Risques Environnementaux H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-16",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-en-risques-environnementaux-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 2098141122,
-      "company": "BNP Paribas",
-      "title": "STAGE – Business Analyst CIB IT (H/F)",
-      "location": "Montreuil, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-16",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-cib-it-h-f-1",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "SQL",
-        "Python",
-        "Java"
-      ],
-      "matchScore": 80,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 2110247199,
       "company": "BNP Paribas",
       "title": "Analyste Reporting Financier - Credit Synthesis H/F",
@@ -104,25 +84,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1950173501,
-      "company": "BNP Paribas",
-      "title": "Stage - Finance Data Analyst H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-16",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-finance-data-analyst-h-f",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 80,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
@@ -196,6 +157,23 @@
       "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 450917603,
+      "company": "BNP Paribas",
+      "title": "Stage - Chef de Projet Marketing - (H/F)",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-12",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-marketing-h-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 2047121362,
