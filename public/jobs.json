@@ -1,11 +1,90 @@
 {
-  "generatedAt": "2026-11-17T03:52:13.723Z",
-  "count": 75,
+  "generatedAt": "2026-11-17T13:23:23.684Z",
+  "count": 78,
   "jobs": [
+    {
+      "id": 30791909,
+      "company": "Devoteam",
+      "title": "Product Owner Senior F/H",
+      "location": "Montpellier",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-17T09:26:41.198Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000162029619-product-owner-senior-f-h?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Jira",
+        "Scrum"
+      ],
+      "matchScore": 71,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 30759385,
+      "company": "Devoteam",
+      "title": "Product Owner H/F",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-17T09:26:17.199Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000162028364-product-owner-h-f?oga=true",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Jira",
+        "Scrum"
+      ],
+      "matchScore": 71,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 30763172,
+      "company": "Devoteam",
+      "title": "Business Analyst - secteur banque / assurance F/H",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-17T09:22:46.957Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000162028749-business-analyst-secteur-banque-assurance-f-h?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Jira",
+        "BPMN",
+        "UML",
+        "Scrum"
+      ],
+      "matchScore": 81,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1648546416,
+      "company": "BNP Paribas",
+      "title": "STAGE - Counterparty Risk Analyst - Front Office (H/F)",
+      "location": "Pantin, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-17",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-counterparty-risk-analyst-front-office-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Python"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 1544228260,
       "company": "BNP Paribas",
-      "title": "Ingénieur - Analyste Financier Actions H/F",
+      "title": "Stage Ingénieur - Analyste Financier Actions H/F",
       "location": "defense, Île-de-France, France",
       "contractType": "Alternance",
       "publishedAt": "2026-11-17",
@@ -961,25 +1040,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 67809712,
-      "company": "Devoteam",
-      "title": "Product owner / Product manager (H/F)",
-      "location": "Marseille",
-      "contractType": "Full-time",
-      "publishedAt": "2026-08-04T07:55:43.672Z",
-      "url": "https://jobs.smartrecruiters.com/Devoteam/744000141430909-product-owner-product-manager-h-f-?oga=true",
-      "category": "Product",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Scrum"
-      ],
-      "matchScore": 71,
       "status": "active",
       "source": "SmartRecruiters"
     },
