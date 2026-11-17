@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:23:23.684Z",
+  "generatedAt": "2026-11-17T22:22:18.989Z",
   "count": 78,
   "jobs": [
     {
@@ -63,6 +63,23 @@
       "matchScore": 81,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 3015094,
+      "company": "BNP Paribas",
+      "title": "Stage - Data - Assistant Product Owner- H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-17",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-assistant-product-owner-h-f",
+      "category": "Product",
+      "remote": false,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1648546416,
@@ -236,23 +253,6 @@
       "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 450917603,
-      "company": "BNP Paribas",
-      "title": "Stage - Chef de Projet Marketing - (H/F)",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-12",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-marketing-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 2047121362,
