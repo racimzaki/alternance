@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T22:22:18.989Z",
-  "count": 78,
+  "generatedAt": "2026-11-18T04:19:17.719Z",
+  "count": 77,
   "jobs": [
     {
       "id": 30791909,
@@ -63,40 +63,6 @@
       "matchScore": 81,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 3015094,
-      "company": "BNP Paribas",
-      "title": "Stage - Data - Assistant Product Owner- H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-17",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-assistant-product-owner-h-f",
-      "category": "Product",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1648546416,
-      "company": "BNP Paribas",
-      "title": "STAGE - Counterparty Risk Analyst - Front Office (H/F)",
-      "location": "Pantin, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-17",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-counterparty-risk-analyst-front-office-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "Python"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1544228260,
@@ -253,6 +219,23 @@
       "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 450917603,
+      "company": "BNP Paribas",
+      "title": "Stage - Chef de Projet Marketing - (H/F)",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-12",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-marketing-h-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 2047121362,
