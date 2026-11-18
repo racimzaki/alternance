@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-11-18T04:19:17.719Z",
-  "count": 77,
+  "generatedAt": "2026-11-18T13:56:58.750Z",
+  "count": 78,
   "jobs": [
+    {
+      "id": 380259175,
+      "company": "Sopra Steria",
+      "title": "Stage - Conception et Déploiement d’Agents IA  - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-18T12:30:59.170Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162285218-stage-conception-et-deploiement-d-agents-ia-infrastructure-rennes?oga=true",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 383180522,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
+      "location": "Lyon",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-18T09:23:46.786Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162250048-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 30791909,
       "company": "Devoteam",
@@ -63,23 +98,6 @@
       "matchScore": 81,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1544228260,
-      "company": "BNP Paribas",
-      "title": "Stage Ingénieur - Analyste Financier Actions H/F",
-      "location": "defense, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-17",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/ingenieur-analyste-financier-actions-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 212195756,
