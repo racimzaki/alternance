@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-18T13:56:58.750Z",
-  "count": 78,
+  "generatedAt": "2026-11-18T21:55:53.529Z",
+  "count": 80,
   "jobs": [
+    {
+      "id": 2124840686,
+      "company": "Wavestone",
+      "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-18T17:58:34.800Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000162367439-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 380259175,
       "company": "Sopra Steria",
@@ -36,6 +53,41 @@
       "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1780111428,
+      "company": "BNP Paribas",
+      "title": "Transaction Regulatory Reporting Analyst H/F",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-18",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/transaction-regulatory-reporting-analyst-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 3015099,
+      "company": "BNP Paribas",
+      "title": "STAGE - DATA SCIENTIST - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-18",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-h-f-4",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Python"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 30791909,
@@ -237,23 +289,6 @@
       "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 450917603,
-      "company": "BNP Paribas",
-      "title": "Stage - Chef de Projet Marketing - (H/F)",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-12",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-marketing-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 2047121362,
