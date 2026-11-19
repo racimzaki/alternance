@@ -1,7 +1,96 @@
 {
-  "generatedAt": "2026-11-19T13:02:21.555Z",
-  "count": 77,
+  "generatedAt": "2026-11-19T21:31:13.320Z",
+  "count": 78,
   "jobs": [
+    {
+      "id": 176679388,
+      "company": "Devoteam",
+      "title": "Directeur / Partner - expertise SAP (H/F)",
+      "location": "Levallois-Perret",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-19T16:32:59.557Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000162558710-directeur-partner-expertise-sap-h-f-?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 174767219,
+      "company": "Devoteam",
+      "title": "Alternance - Assistant Manager H/F",
+      "location": "Levallois-Perret",
+      "contractType": "Part-time",
+      "publishedAt": "2026-11-19T15:27:19.886Z",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000162536184-alternance-assistant-manager-h-f?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 298931613,
+      "company": "Sopra Steria",
+      "title": "Stage - Business Analyst /Tests - Services Publics - Toulouse",
+      "location": "Colomiers",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-19T15:13:14.659Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162537030-stage-business-analyst-tests-services-publics-toulouse?oga=true",
+      "category": "Business Analyst",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Jira",
+        "Java"
+      ],
+      "matchScore": 80,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1193669597,
+      "company": "Bosch Group",
+      "title": "Apprenti(e) Contrôleur(euse) de Gestion H/F/N",
+      "location": "Saint-Ouen-sur-Seine",
+      "contractType": "Contract",
+      "publishedAt": "2026-11-19T14:59:20.874Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162535609-apprenti-e-controleur-euse-de-gestion-h-f-n?oga=true",
+      "category": "SI",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 300773934,
+      "company": "Sopra Steria",
+      "title": "Stage – Consultant(e) en Transformation de projets digitaux – Aeroline – Toulouse ",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-19T13:46:32.185Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162517509-stage-consultant-e-en-transformation-de-projets-digitaux-aeroline-toulouse-?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 63,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 322912430,
       "company": "Sopra Steria",
@@ -55,6 +144,23 @@
       "source": "SmartRecruiters"
     },
     {
+      "id": 2110224379,
+      "company": "BNP Paribas",
+      "title": "Chef de projets Global Markets (H/F)",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-19",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projets-global-markets-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
       "id": 380259175,
       "company": "Sopra Steria",
       "title": "Stage - Conception et Déploiement d’Agents IA  - Infrastructure - Rennes",
@@ -70,23 +176,6 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1780111428,
-      "company": "BNP Paribas",
-      "title": "Transaction Regulatory Reporting Analyst H/F",
-      "location": "Puteaux, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-18",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/transaction-regulatory-reporting-analyst-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 30791909,
@@ -375,25 +464,6 @@
         "Java"
       ],
       "matchScore": 56,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1729906434,
-      "company": "Ubisoft",
-      "title": "Mobile Data Analyst Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-11-04T14:04:08.734Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000159641259-mobile-data-analyst-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Power BI",
-        "Python"
-      ],
-      "matchScore": 85,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -749,23 +819,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 1392568326,
-      "company": "Sopra Steria",
-      "title": "Stage – Consultant(e) en Transformation et Ingénierie Aéronautique - Aeroline - Toulouse ",
-      "location": "Colomiers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-24T13:24:23.418Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151619588-stage-consultant-e-en-transformation-et-ingenierie-aeronautique-aeroline-toulouse-?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 63,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 1368314391,
       "company": "Sopra Steria",
       "title": "Stage - Développeur(se) portail Web full stack Java / Angular - Energie & Telecom – Toulouse",
@@ -781,25 +834,6 @@
         "Java"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1367513099,
-      "company": "Sopra Steria",
-      "title": "Stage - Business Analyst /Tests - Services Publics - Toulouse",
-      "location": "Colomiers",
-      "contractType": "Intern",
-      "publishedAt": "2026-09-24T08:25:25.689Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151555474-stage-business-analyst-tests-services-publics-toulouse?oga=true",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Jira",
-        "Java"
-      ],
-      "matchScore": 80,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1191,24 +1225,6 @@
       "remote": false,
       "skills": [
         "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1553925163,
-      "company": "Talan",
-      "title": "Alternance - Administration Systèmes SAP - H/F",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-02T08:42:25.831Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000135445089-alternance-administration-systemes-sap-h-f?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Agile",
-        "SAP"
       ],
       "matchScore": 53,
       "status": "active",
