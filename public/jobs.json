@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:55:53.529Z",
+  "generatedAt": "2026-11-19T03:25:21.718Z",
   "count": 80,
   "jobs": [
     {
@@ -68,24 +68,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 3015099,
-      "company": "BNP Paribas",
-      "title": "STAGE - DATA SCIENTIST - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-18",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-h-f-4",
-      "category": "Business Analyst",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Python"
-      ],
-      "matchScore": 78,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
@@ -289,6 +271,23 @@
       "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 450917603,
+      "company": "BNP Paribas",
+      "title": "Stage - Chef de Projet Marketing - (H/F)",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-12",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-marketing-h-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 2047121362,
