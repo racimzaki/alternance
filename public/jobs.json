@@ -1,15 +1,50 @@
 {
-  "generatedAt": "2026-11-19T03:25:21.718Z",
-  "count": 80,
+  "generatedAt": "2026-11-19T13:02:21.555Z",
+  "count": 77,
   "jobs": [
     {
-      "id": 2124840686,
+      "id": 322912430,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant(e) Transformation des Processus & Performance Métier - SAP - Ile de France",
+      "location": "Courbevoie",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-19T10:55:35.671Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162488128-stage-consultant-e-transformation-des-processus-performance-metier-sap-ile-de-france?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "SAP"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2097133103,
+      "company": "Wavestone",
+      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-19T08:17:07.721Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000162457649-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2097194457,
       "company": "Wavestone",
       "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
       "location": "Paris",
       "contractType": "Intern",
-      "publishedAt": "2026-11-18T17:58:34.800Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000162367439-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
+      "publishedAt": "2026-11-19T08:13:32.650Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000162455494-quel-role-doit-jouer-le-cto-cio-office-de-demain-pour-repondre-aux-nouveaux-defis-technologiques-organisationnels-et-strategiques-des-dsi-a-l-ere-de-l-intelligence-artificielle-sfe-?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
@@ -33,24 +68,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 383180522,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - BL SAP ARA - Lyon",
-      "location": "Lyon",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-18T09:23:46.786Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162250048-stage-consultant-e-sap-bl-sap-ara-lyon?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 63,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -147,23 +164,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1397052077,
-      "company": "Wavestone",
-      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-11-16T10:06:27.419Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000161764634-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -271,23 +271,6 @@
       "matchScore": 73,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 450917603,
-      "company": "BNP Paribas",
-      "title": "Stage - Chef de Projet Marketing - (H/F)",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-12",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-chef-de-projet-marketing-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 2047121362,
@@ -497,24 +480,6 @@
         "Java"
       ],
       "matchScore": 78,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1012787530,
-      "company": "Sopra Steria",
-      "title": "Stage - Consultant/e SAP - SAP Excellence Center - Ile-de-France",
-      "location": "Courbevoie",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-29T13:46:04.877Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158521224-stage-consultant-e-sap-sap-excellence-center-ile-de-france?oga=true",
-      "category": "SI",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "SAP"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -743,23 +708,6 @@
         "Java"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 758454020,
-      "company": "Talan",
-      "title": "Alternance - Business Development - Secteurs Energie, Industrie ou Finance  (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-09-29T08:37:22.368Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000152357849-alternance-business-development-secteurs-energie-industrie-ou-finance-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
