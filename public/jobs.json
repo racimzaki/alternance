@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-11-20T03:12:44.189Z",
-  "count": 78,
+  "generatedAt": "2026-11-20T11:37:06.695Z",
+  "count": 76,
   "jobs": [
     {
-      "id": 133530122,
-      "company": "BNP Paribas",
-      "title": "Stage - Data Scientist - Analyste Quantitatif - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-20",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-analyste-quantitatif-h-f-1",
+      "id": 266608222,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
+      "location": "Cesson-Sévigné",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-20T08:38:59.831Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162677081-ingenieur-e-devops-infrastructure-rennes?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
-        "SQL",
-        "Python"
+        "Agile"
       ],
-      "matchScore": 55,
+      "matchScore": 53,
       "status": "active",
-      "source": "BNP Paribas Careers"
+      "source": "SmartRecruiters"
     },
     {
-      "id": 133530123,
-      "company": "BNP Paribas",
-      "title": "Stage - Data Analyst - Data Visualisation - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-20",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-data-visualisation-h-f",
-      "category": "BI",
+      "id": 266599690,
+      "company": "Sopra Steria",
+      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
+      "location": "Saint-Herblain",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-20T08:38:14.316Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162677948-ingenieur-e-devops-infrastructure-nantes?oga=true",
+      "category": "Autre",
       "remote": false,
       "skills": [
-        "SQL",
-        "Power BI",
-        "Python",
-        "Tableau",
-        "DAX"
+        "Agile"
       ],
-      "matchScore": 82,
+      "matchScore": 53,
       "status": "active",
-      "source": "BNP Paribas Careers"
+      "source": "SmartRecruiters"
     },
     {
       "id": 176679388,
@@ -414,40 +409,6 @@
       "remote": false,
       "skills": [
         "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2108308021,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) DevOps - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-06T09:54:43.286Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160155999-ingenieur-e-devops-infrastructure-rennes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2108359635,
-      "company": "Sopra Steria",
-      "title": "Ingénieur(e) Devops - Infrastructure - Nantes",
-      "location": "Saint-Herblain",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-06T09:53:02.585Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160157108-ingenieur-e-devops-infrastructure-nantes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Agile"
       ],
       "matchScore": 53,
       "status": "active",
