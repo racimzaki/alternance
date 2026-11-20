@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-20T11:37:06.695Z",
-  "count": 76,
+  "generatedAt": "2026-11-20T20:15:29.667Z",
+  "count": 77,
   "jobs": [
+    {
+      "id": 241702102,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-20T13:36:36.047Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162736148-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 266608222,
       "company": "Sopra Steria",
@@ -35,6 +54,23 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 1552760893,
+      "company": "BNP Paribas",
+      "title": "Stage - IT Operational Risk Officer H/F",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-20",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-it-operational-risk-officer-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Tableau"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 176679388,
@@ -411,25 +447,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 93826285,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-04T14:49:46.797Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159653088-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
