@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-11-19T21:31:13.320Z",
+  "generatedAt": "2026-11-20T03:12:44.189Z",
   "count": 78,
   "jobs": [
+    {
+      "id": 133530122,
+      "company": "BNP Paribas",
+      "title": "Stage - Data Scientist - Analyste Quantitatif - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-20",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-scientist-analyste-quantitatif-h-f-1",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Python"
+      ],
+      "matchScore": 55,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 133530123,
+      "company": "BNP Paribas",
+      "title": "Stage - Data Analyst - Data Visualisation - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-20",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-data-analyst-data-visualisation-h-f",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Python",
+        "Tableau",
+        "DAX"
+      ],
+      "matchScore": 82,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 176679388,
       "company": "Devoteam",
@@ -255,40 +294,6 @@
       "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 2110247199,
-      "company": "BNP Paribas",
-      "title": "Analyste Reporting Financier - Credit Synthesis H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-16",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/analyste-reporting-financier-credit-synthesis-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1997345855,
-      "company": "BNP Paribas",
-      "title": "Pilote d’Exploitation Immobilière Data Center - H/F",
-      "location": "Montreuil, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-16",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/pilote-d-exploitation-immobiliere-data-center-h-f",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1189286575,
