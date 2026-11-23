@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-22T19:37:39.870Z",
-  "count": 77,
+  "generatedAt": "2026-11-23T00:51:44.278Z",
+  "count": 78,
   "jobs": [
+    {
+      "id": 1262869087,
+      "company": "BNP Paribas",
+      "title": "Chef de Projet Communication & Accompagnement du Changement - H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-22",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-communication-accompagnement-du-changement-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 62,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 241702102,
       "company": "Sopra Steria",
