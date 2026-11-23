@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-11-23T09:02:02.885Z",
-  "count": 77,
+  "generatedAt": "2026-11-23T21:21:28.942Z",
+  "count": 78,
   "jobs": [
+    {
+      "id": 1269716009,
+      "company": "Wavestone",
+      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
+      "location": "Paris",
+      "contractType": "Intern",
+      "publishedAt": "2026-11-23T13:41:05.731Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000163225829-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 477601717,
+      "company": "Sopra Steria",
+      "title": "Tech Lead - Défense & Sécurité - Lille",
+      "location": "Villeneuve-d'Ascq",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-23T09:28:37.248Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000163172188-tech-lead-defense-securite-lille?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1552760869,
+      "company": "BNP Paribas",
+      "title": "Stage - Analyste sectoriel Energie Electrique H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-23",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-sectoriel-energie-electrique-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1582234542,
+      "company": "BNP Paribas",
+      "title": "Data Privacy & Protection Manager H/F",
+      "location": "Boulogne-Billancourt, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-23",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/data-privacy-protection-manager-h-f",
+      "category": "Data",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1262869087,
+      "company": "BNP Paribas",
+      "title": "Chef de Projet Communication & Accompagnement du Changement - H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-23",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-communication-accompagnement-du-changement-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 62,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 241702102,
       "company": "Sopra Steria",
@@ -180,23 +265,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 2097133103,
-      "company": "Wavestone",
-      "title": "IA & SI – Consultant·e Junior - CTO Advisory - stage de fin d'études",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-11-19T08:17:07.721Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000162457649-ia-si-consultant-e-junior-cto-advisory-stage-de-fin-d-etudes?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 2097194457,
       "company": "Wavestone",
       "title": "Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE)",
@@ -212,23 +280,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 2110224379,
-      "company": "BNP Paribas",
-      "title": "Chef de projets Global Markets (H/F)",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-19",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projets-global-markets-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 380259175,
@@ -430,23 +481,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2072977904,
-      "company": "Sopra Steria",
-      "title": "Tech Lead - Défense & Sécurité - Lille",
-      "location": "Villeneuve-d'Ascq",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-09T08:04:18.799Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160548859-tech-lead-defense-securite-lille?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1259,23 +1293,6 @@
       "contractType": "Full-time",
       "publishedAt": "2026-05-22T09:04:59.629Z",
       "url": "https://jobs.smartrecruiters.com/Talan/744000127837085-talan-alternant-conseil-en-management-en-transport-mobilites?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 423065681,
-      "company": "Sogetrel",
-      "title": "Alternance - Assistant Chef d'équipe H/F",
-      "location": "Sainte-Tulle",
-      "contractType": "Full-time",
-      "publishedAt": "2026-04-23T12:56:32.618Z",
-      "url": "https://jobs.smartrecruiters.com/Sogetrel/744000122453579-alternance-assistant-chef-d-equipe-h-f?oga=true",
       "category": "Autre",
       "remote": false,
       "skills": [
