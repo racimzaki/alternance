@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-11-24T06:00:39.827Z",
-  "count": 78,
+  "generatedAt": "2026-11-24T17:41:34.192Z",
+  "count": 76,
   "jobs": [
+    {
+      "id": 1214368237,
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)",
+      "location": "Puteaux",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-24T08:28:35.765Z",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000163403409-stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Python"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1983635532,
+      "company": "BNP Paribas",
+      "title": "Portzamparc Gestion Stage - Assistant gérant et Analyste buy-side H/F - Nantes",
+      "location": "Nantes, Pays de la Loire, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-24",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-gestion-stage-assistant-gerant-et-analyste-buy-side-h-f-nantes",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1998960053,
+      "company": "BNP Paribas",
+      "title": "Business Analyst - Référentiels Actifs financiers -H/F",
+      "location": "Nanterre, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-24",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/business-analyst-referentiels-actifs-financiers-h-f",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Scrum"
+      ],
+      "matchScore": 81,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 1269716009,
       "company": "Wavestone",
@@ -67,23 +120,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1262869087,
-      "company": "BNP Paribas",
-      "title": "Chef de Projet Communication & Accompagnement du Changement - H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-23",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-communication-accompagnement-du-changement-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 62,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
@@ -282,23 +318,6 @@
       "source": "SmartRecruiters"
     },
     {
-      "id": 380259175,
-      "company": "Sopra Steria",
-      "title": "Stage - Conception et Déploiement d’Agents IA  - Infrastructure - Rennes",
-      "location": "Cesson-Sévigné",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-18T12:30:59.170Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162285218-stage-conception-et-deploiement-d-agents-ia-infrastructure-rennes?oga=true",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
       "id": 30791909,
       "company": "Devoteam",
       "title": "Product Owner Senior F/H",
@@ -464,23 +483,6 @@
         "Scrum"
       ],
       "matchScore": 58,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 2071104823,
-      "company": "Sopra Steria",
-      "title": "Ingénieur/e Pédagogique - Business Line Solutions & Expertises - Toulouse",
-      "location": "Toulouse",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-09T09:46:06.141Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160569488-ingenieur-e-pedagogique-business-line-solutions-expertises-toulouse?oga=true",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -743,24 +745,6 @@
         "Agile"
       ],
       "matchScore": 98,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 182235469,
-      "company": "Ubisoft",
-      "title": "Growth Marketing Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
-      "location": "Paris",
-      "contractType": "Intern",
-      "publishedAt": "2026-10-19T15:27:51.255Z",
-      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000156357220-growth-marketing-assistant-stage-6-mois-janvier-2027-f-h-nb-?oga=true",
-      "category": "BI",
-      "remote": false,
-      "skills": [
-        "Power BI",
-        "Excel"
-      ],
-      "matchScore": 58,
       "status": "active",
       "source": "SmartRecruiters"
     },
@@ -1193,23 +1177,6 @@
         "À analyser"
       ],
       "matchScore": 50,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1230266709,
-      "company": "Wavestone",
-      "title": "Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)",
-      "location": "Puteaux",
-      "contractType": "Full-time",
-      "publishedAt": "2026-07-29T10:50:42.289Z",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000140435609-stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Python"
-      ],
-      "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
     },
