@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-11-25T12:51:44.714Z",
-  "count": 74,
+  "generatedAt": "2026-11-25T22:30:46.433Z",
+  "count": 75,
   "jobs": [
+    {
+      "id": 1960361329,
+      "company": "Talan",
+      "title": "Stage de fin d'études - Consultant IT– Assurance & Santé (H/F)",
+      "location": "Paris",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-25T13:14:27.900Z",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000163682030-stage-de-fin-d-etudes-consultant-it-assurance-sante-h-f-?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1091797382,
       "company": "Devoteam",
@@ -19,6 +36,40 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
+    },
+    {
+      "id": 560976252,
+      "company": "BNP Paribas",
+      "title": "IT Owner Squad API Orchestrator - H/F",
+      "location": "Levallois-Perret, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-25",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/it-owner-squad-api-orchestrator-h-f",
+      "category": "Product",
+      "remote": true,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 71152207,
+      "company": "BNP Paribas",
+      "title": "Stage - Business Analyst applications Risk opérationnel H/F",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-25",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-applications-risk-operationnel-h-f",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
     },
     {
       "id": 1983635532,
@@ -53,25 +104,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1998960053,
-      "company": "BNP Paribas",
-      "title": "Business Analyst - Référentiels Actifs financiers -H/F",
-      "location": "Nanterre, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-24",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/business-analyst-referentiels-actifs-financiers-h-f",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Scrum"
-      ],
-      "matchScore": 81,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1269716009,
@@ -342,23 +374,6 @@
         "Scrum"
       ],
       "matchScore": 81,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 212195756,
-      "company": "Talan",
-      "title": "Talan – Consultant Stagiaire IT de Fin d'études – Assurance & Santé (H/F)",
-      "location": "Paris",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-16T10:07:09.231Z",
-      "url": "https://jobs.smartrecruiters.com/Talan/744000161764065-talan-consultant-stagiaire-it-de-fin-d-etudes-assurance-sante-h-f-?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
       "status": "active",
       "source": "SmartRecruiters"
     },
