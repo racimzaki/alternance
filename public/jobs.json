@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:30:46.433Z",
+  "generatedAt": "2026-11-26T05:01:37.915Z",
   "count": 75,
   "jobs": [
     {
@@ -51,23 +51,6 @@
         "Agile"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 71152207,
-      "company": "BNP Paribas",
-      "title": "Stage - Business Analyst applications Risk opérationnel H/F",
-      "location": "Montreuil, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-25",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-applications-risk-operationnel-h-f",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 78,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
@@ -149,6 +132,23 @@
       "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-sectoriel-energie-electrique-h-f",
       "category": "Autre",
       "remote": true,
+      "skills": [
+        "À analyser"
+      ],
+      "matchScore": 50,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1582234542,
+      "company": "BNP Paribas",
+      "title": "Data Privacy & Protection Manager H/F",
+      "location": "Boulogne-Billancourt, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-23",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/data-privacy-protection-manager-h-f",
+      "category": "Data",
+      "remote": false,
       "skills": [
         "À analyser"
       ],
