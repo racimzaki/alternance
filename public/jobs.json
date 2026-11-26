@@ -1,7 +1,113 @@
 {
-  "generatedAt": "2026-11-26T05:01:37.915Z",
-  "count": 75,
+  "generatedAt": "2026-11-26T15:13:00.969Z",
+  "count": 78,
   "jobs": [
+    {
+      "id": 676100825,
+      "company": "Sopra Steria",
+      "title": "Stage - Consultant(e) Technique SAP - SAP Excellence Center - Toulouse",
+      "location": "Colomiers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-26T10:59:05.440Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000163850309-stage-consultant-e-technique-sap-sap-excellence-center-toulouse?oga=true",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "SAP"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 2111166189,
+      "company": "BNP Paribas",
+      "title": "Stage - ESG Reporting & Data F/H",
+      "location": "Puteaux, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-26",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-esg-reporting-data-f-h",
+      "category": "BI",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1653454434,
+      "company": "BNP Paribas",
+      "title": "Data Quality Analyst confirmé H/F",
+      "location": "Boulogne-Billancourt, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-26",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/data-quality-analyst-confirme-bi-data-visualisation-h-f",
+      "category": "Data",
+      "remote": true,
+      "skills": [
+        "SQL",
+        "Python",
+        "Tableau"
+      ],
+      "matchScore": 95,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 71152206,
+      "company": "BNP Paribas",
+      "title": "Stage - Business Analyst applications Risk opérationnel H/F",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-26",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-applications-risk-operationnel-h-f-1",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 71152204,
+      "company": "BNP Paribas",
+      "title": "Stage - Business Analyst / Proxy Product Owner IT Risque Opérationnel H/F",
+      "location": "Montreuil, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-26",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-proxy-product-owner-it-risque-operationnel-h-f",
+      "category": "Business Analyst",
+      "remote": true,
+      "skills": [
+        "Agile"
+      ],
+      "matchScore": 78,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 1950173624,
+      "company": "BNP Paribas",
+      "title": "Stage - Assistant Chef De Projet Digital H/F",
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-26",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-assistant-chef-de-projet-digital-h-f",
+      "category": "Project Management",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 1960361329,
       "company": "Talan",
@@ -55,23 +161,6 @@
       "source": "BNP Paribas Careers"
     },
     {
-      "id": 1983635532,
-      "company": "BNP Paribas",
-      "title": "Portzamparc Gestion Stage - Assistant gérant et Analyste buy-side H/F - Nantes",
-      "location": "Nantes, Pays de la Loire, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-25",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/portzamparc-gestion-stage-assistant-gerant-et-analyste-buy-side-h-f-nantes",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
       "id": 1214368237,
       "company": "Wavestone",
       "title": "Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)",
@@ -121,40 +210,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1552760869,
-      "company": "BNP Paribas",
-      "title": "Stage - Analyste sectoriel Energie Electrique H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-23",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-sectoriel-energie-electrique-h-f",
-      "category": "Autre",
-      "remote": true,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1582234542,
-      "company": "BNP Paribas",
-      "title": "Data Privacy & Protection Manager H/F",
-      "location": "Boulogne-Billancourt, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-23",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/data-privacy-protection-manager-h-f",
-      "category": "Data",
-      "remote": false,
-      "skills": [
-        "À analyser"
-      ],
-      "matchScore": 50,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 241702102,
