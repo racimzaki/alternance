@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T15:13:00.969Z",
-  "count": 78,
+  "generatedAt": "2026-11-26T23:51:22.069Z",
+  "count": 77,
   "jobs": [
     {
       "id": 676100825,
@@ -142,23 +142,6 @@
       "matchScore": 53,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 560976252,
-      "company": "BNP Paribas",
-      "title": "IT Owner Squad API Orchestrator - H/F",
-      "location": "Levallois-Perret, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-25",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/it-owner-squad-api-orchestrator-h-f",
-      "category": "Product",
-      "remote": true,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 53,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 1214368237,
