@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-11-27T08:28:11.953Z",
-  "count": 77,
+  "generatedAt": "2026-11-27T18:57:55.402Z",
+  "count": 76,
   "jobs": [
+    {
+      "id": 1336480835,
+      "company": "Sopra Steria",
+      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
+      "location": "Angers",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-27T16:28:43.769Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000164072618-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Agile",
+        "Java"
+      ],
+      "matchScore": 56,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
+    {
+      "id": 1909733942,
+      "company": "BNP Paribas",
+      "title": "Chef de projet digital - H/F",
+      "location": "Paris, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-27",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-digital-h-f",
+      "category": "Project Management",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 65,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
+    {
+      "id": 706572029,
+      "company": "BNP Paribas",
+      "title": "Analyste Research Senior H/F",
+      "location": "Boulogne-Billancourt, Île-de-France, France",
+      "contractType": "Alternance",
+      "publishedAt": "2026-11-27",
+      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/analyste-research-senior-h-f",
+      "category": "Autre",
+      "remote": true,
+      "skills": [
+        "Excel"
+      ],
+      "matchScore": 53,
+      "status": "active",
+      "source": "BNP Paribas Careers"
+    },
     {
       "id": 676100825,
       "company": "Sopra Steria",
@@ -54,57 +107,6 @@
         "Tableau"
       ],
       "matchScore": 95,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 71152206,
-      "company": "BNP Paribas",
-      "title": "Stage - Business Analyst applications Risk opérationnel H/F",
-      "location": "Montreuil, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-26",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-applications-risk-operationnel-h-f-1",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 78,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 71152204,
-      "company": "BNP Paribas",
-      "title": "Stage - Business Analyst / Proxy Product Owner IT Risque Opérationnel H/F",
-      "location": "Montreuil, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-26",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-business-analyst-proxy-product-owner-it-risque-operationnel-h-f",
-      "category": "Business Analyst",
-      "remote": true,
-      "skills": [
-        "Agile"
-      ],
-      "matchScore": 78,
-      "status": "active",
-      "source": "BNP Paribas Careers"
-    },
-    {
-      "id": 1950173624,
-      "company": "BNP Paribas",
-      "title": "Stage - Assistant Chef De Projet Digital H/F",
-      "location": "Rueil-Malmaison, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-26",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-assistant-chef-de-projet-digital-h-f",
-      "category": "Project Management",
-      "remote": false,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
       "status": "active",
       "source": "BNP Paribas Careers"
     },
@@ -191,25 +193,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 241702102,
-      "company": "Sopra Steria",
-      "title": "Ingénieur développeur fullstack Java/Angular - Services Financiers - Angers",
-      "location": "Angers",
-      "contractType": "Full-time",
-      "publishedAt": "2026-11-20T13:36:36.047Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162736148-ingenieur-developpeur-fullstack-java-angular-services-financiers-angers?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "Excel",
-        "Agile",
-        "Java"
-      ],
-      "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
     },
