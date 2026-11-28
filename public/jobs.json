@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-11-27T18:57:55.402Z",
-  "count": 76,
+  "generatedAt": "2026-11-28T01:58:42.792Z",
+  "count": 75,
   "jobs": [
+    {
+      "id": 1338354910,
+      "company": "Sopra Steria",
+      "title": "Data Engineer - Services Public - Rouen",
+      "location": "Rouen",
+      "contractType": "Full-time",
+      "publishedAt": "2026-11-27T21:20:43.831Z",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000164093359-data-engineer-services-public-rouen?oga=true",
+      "category": "Autre",
+      "remote": false,
+      "skills": [
+        "SQL",
+        "Tableau"
+      ],
+      "matchScore": 55,
+      "status": "active",
+      "source": "SmartRecruiters"
+    },
     {
       "id": 1336480835,
       "company": "Sopra Steria",
@@ -20,23 +38,6 @@
       "matchScore": 56,
       "status": "active",
       "source": "SmartRecruiters"
-    },
-    {
-      "id": 1909733942,
-      "company": "BNP Paribas",
-      "title": "Chef de projet digital - H/F",
-      "location": "Paris, Île-de-France, France",
-      "contractType": "Alternance",
-      "publishedAt": "2026-11-27",
-      "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/chef-de-projet-digital-h-f",
-      "category": "Project Management",
-      "remote": true,
-      "skills": [
-        "Excel"
-      ],
-      "matchScore": 65,
-      "status": "active",
-      "source": "BNP Paribas Careers"
     },
     {
       "id": 706572029,
@@ -588,24 +589,6 @@
         "Excel"
       ],
       "matchScore": 53,
-      "status": "active",
-      "source": "SmartRecruiters"
-    },
-    {
-      "id": 1153102174,
-      "company": "Sopra Steria",
-      "title": "Data Engineer - Services Public - Rouen",
-      "location": "Rouen",
-      "contractType": "Full-time",
-      "publishedAt": "2026-10-27T13:55:16.320Z",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158053329-data-engineer-services-public-rouen?oga=true",
-      "category": "Autre",
-      "remote": false,
-      "skills": [
-        "SQL",
-        "Tableau"
-      ],
-      "matchScore": 55,
       "status": "active",
       "source": "SmartRecruiters"
     },
